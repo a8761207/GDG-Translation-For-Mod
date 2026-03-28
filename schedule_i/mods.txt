@@ -1,0 +1,367 @@
+#===================================================
+# 翻譯手動調整參數
+#===================================================
+#文字大小 <size\=18></size>
+#底線 <u>123</u>
+#粗體 <b>123</b>
+#換行 \n 
+#圖片 <sprite name\=clock>
+#顏色 <color\=#1A66CCFF>
+#===================================================
+
+
+#===================================================
+# 模組管理器APP
+#===================================================
+#主選單
+Mods=模組
+No Mods Found=找不到模組
+No Settings Found For This Mod=沒有找到此模組的設置
+Reset=重置
+Save=存檔
+
+Mod Manager=模組管理器
+v{{A}} Loaded=v{{A}} 已載入
+Mod Selection=模組選擇
+Select a Mod=選擇一個模組
+
+Example Dropdown Value=範例下拉值
+Press Any Key=按任何鍵
+Example Input Value=範例輸入值
+Example Boolean Value=範例布林值
+Example Category Name=範例分類名稱
+Example Mod Name=範例模組名稱
+Version {{A}}=版本 {{A}}
+New Text=新文字
+Author: Test=作者：測試
+Please restart your game for changes to take effect.=請重新啟動您的遊戲以進行更改以生效。
+
+#遊戲局內
+Mod Manager & Phone App=模組管理器＆手機App
+Author: Prowiler=作者：Prowiler
+
+Debug Settings=除錯設置
+Example Color Value=範例顏色值
+Example Enum Value=範例枚舉值
+Example One=範例1
+Example Two=範例2
+Example Three=範例3
+Example Four=範例4
+Example Float Value=範例浮點值
+Example KeyCode Value=範例鍵代碼值
+Press Any Key...=按下任何鍵...
+Example String Value=範例字符串值
+General Settings=一般設置
+Enable Debug Mode=啟用除錯模式
+Enable Loaded Notification=啟用載入通知
+Skip Launch Animation=跳過啟動動畫
+
+MOD SETTINGS=模組設置
+Show All Settings=顯示所有設置
+Find all settings available to edit.=查找所有可編輯設置.
+All Registered Settings=所有已註冊設置
+Incompatible=不相容
+RESET=重置
+SAVE=存檔
+
+#===================================================
+# 模組管理器APP：不相容模組
+#===================================================
+#================== 模組 Botanist Use Sprinkler
+Botanist Use Sprinkler=植物學家使用灑水器
+#================== 模組 Botanist Use Soil Pourer
+Botanist Use Soil Pourer=植物學家使用土壤倒
+Author: Fortis=作者：Fortis
+#================== 模組 MinimapMod
+MinimapMod=小地圖模組
+Author: Hiccup=作者：Hiccup
+#================== 模組 Xunity Auto Translator
+XUnity Auto Translator=Xunity Auto Translator
+Author: gravydevsupreme=作者：gravydevsupreme
+#================== 模組 繁體中文翻譯
+Sharedassets{{A}}Replacer補字型=Sharedassets{{A}}Replacer補字型
+Author: 原作：狐空XoFKon | dll製作：GDG遊戲聯合公國-午夜的大叔=Author: 原作：狐空XoFKon | dll製作：GDG遊戲聯合公國-午夜的大叔
+XUnity.AutoTranslator MelonMod-IL{{A}}CPP擦屁股dll=XUnity.AutoTranslator MelonMod-IL{{A}}CPP擦屁股dll
+Author: GDG遊戲聯合公國-午夜的大叔=作者：GDG遊戲聯合公國-午夜的大叔
+#================== 模組 XOTweaks
+XOTweaks=XO優化
+Author: XOWithSauce=作者：XOWithSauce
+
+#===================================================
+# 模組管理器APP：相容模組 Recipe List
+#===================================================
+Recipe List=食譜列表
+Author: Rezx, Community Updates By: ispa (Translation), pyst{{A}}r (effect colors)=作者：Rezx, 社區更新：ispa（翻譯）, pyst{{A}}r（效果顏色）
+
+GUI_Scale=圖形介面縮放比
+RecipeListGUI=食譜列表圖形介面
+Open_And_Close_Button=打開和關閉按鈕
+F{{A}}=F{{A}}
+Page_Color=頁面顏色
+Reset_Button=重設按鈕
+Transparency=透明度
+
+
+#===================================================
+# 模組管理器APP：相容模組 Enhanced Storage
+#===================================================
+Enhanced Storage=增強型存儲空間
+Author: Nebouh=作者：Nebouh
+Enhanced Storage Settings=增強型存儲空間-設置
+
+Enable this mod=啟用此模組
+Maximum total slots in the game=遊戲中的最大格子總數
+default rack settings=預設架子設定
+Use default rack settings=使用預設架子設定
+
+CoffeeTable - Number of Rows=咖啡桌 - 行數
+CoffeeTable - Number of Slots=咖啡桌 - 格子數
+Display Cabinet - Number of Rows=顯示櫃 - 行數
+Display Cabinet - Number of Slots=顯示櫃 - 格子數
+Large Rack - Number of Rows=大型架子 - 行數
+Large Rack - Number of Slots=大型架子 - 格子數
+Medium Rack - Number of Rows=中型架子 - 行數
+Medium Rack - Number of Slots=中型架子 - 格子數
+Metal Square Table - Number of Rows=金屬方桌 - 行數
+Metal Square Table - Number of Slots=金屬方桌 - 格子數
+Pallet{{A}}d - Number of Rows=貨物棧板-行數
+Pallet{{A}}d - Number of Slots=貨物棧板-格子數
+Safe - Number of Rows=保險箱 - 行數
+Safe - Number of Slots=保險箱 - 格子數
+Small Rack - Number of Rows=小型架子 - 行數
+Small Rack - Number of Slots=小型架子 - 格子數
+Wall Mount Shelf - Number of Rows=壁架 - 行數
+Wall Mount Shelf - Number of Slots=壁架 - 格子數
+{{A}} Square Table - Number of Rows=木質方桌 - 行數
+{{A}} Square Table - Number of Slots=木質方桌 - 格子數
+Wood Square Table - Number of Rows=木質方桌 - 行數
+Wood Square Table - Number of Slots=木質方桌 - 格子數
+
+
+#===================================================
+# 模組管理器APP：相容模組 UpgradedTrashCans
+#===================================================
+Upgraded{{A}}Cans=升級{{A}}桶
+Author: j{{A}}ckinjz=作者：j{{A}}ckinjz
+
+Upgraded {{A}}=升級的{{A}}
+Price=價格
+Capacity=容量
+Cleaner Pickup Radius=清潔器撿取半徑
+Rank Unlock=等級解鎖
+Tier Unlock=層級解鎖
+Unlock Immediately=立即解鎖
+Color Source=顏色源
+{{A}} Colors={{A}}顏色
+Green=綠色
+Violet=紫色
+
+Extended Colors=擴展顏色
+Indigo=靛青
+Custom RGB Values=自定義RGB值
+Enable Shift+Click Eject All=啟用 S​​hift+左鍵 彈出全部
+Enable Radius Toggle (Shift+R)=啟用半徑切換（Shift+R）
+Grabber Radius ({{A}} - {{B}})=垃圾夾半徑（{{A}} -{{B}}）
+
+Enable Debug Logging=啟用除錯記錄
+Enable Debug Logs=啟用除錯日誌
+
+CustomRGB=自訂RGB值
+Extended=擴展
+
+# 隱藏設定
+xUpgraded{{A}}CansSettings=x升級{{A}}桶設定
+RadiusModeEnabled=半徑模式啟用
+
+
+#===================================================
+# 模組管理器APP：相容模組 CustomStack
+#===================================================
+CustomStack=自訂堆疊
+Author: k{{A}}l=作者：k{{A}}l
+
+acid=酸液
+defaultweed=Defaultweed
+cuke_effects=庫克效應
+cuke=黃瓜
+cruiser=巡洋艦
+cowboyhat=牛仔帽
+combatboots=戰鬥機
+collarjacket=衣領外套
+coffeetable=茶几
+cocaseed=Cocaseed
+cocaleaf=Cocaleaf
+cocainebase=可卡因基礎
+cocaine=可卡因
+chili=辣椒
+chemistrystation=化學系
+chefhat=廚師
+cheapskateboard=便宜的滑板
+chateaulapeepee=Chateaulapeepee
+cauldron=釜
+cash=現金
+cargopants=貨物褲
+cap=帽
+buttonup=扣
+buckethat=水桶帽
+brutdugloop=Brutdugloop
+brickpress=磚瓦
+brick=磚
+bomb=炸彈
+blazer=西裝外套
+bikercrank=騎自行車的人
+bigsprinkler=大灑水器
+belt=腰帶
+bed=床
+beanie=豆豆
+battery=電池
+baseballbat=棒球棒
+banana=香蕉
+baggie=袋裝
+babyblue=淡藍色
+artworkrapscallion=藝術品拉普斯卡利翁
+artworkoffer=藝術品
+artworkmillie=ArtworkMillie
+artworkmenace=Artworkmenace
+artworklines=藝術品
+artworkbeachday=Artworkbeachday
+apron=圍裙
+antiquewalllamp=Antiquewalllamp
+airpot=空中
+addy=艾迪女性興奮劑
+
+displaycabinet=顯示櫃
+donut=油炸圈餅
+dressshoes=著裝鞋
+dryingrack=幹林
+dumpster=垃圾箱
+electrictrimmers=電動機
+energy_drink_effects=Energy_drink_fefts
+energydrink=能量飲料
+extralonglifesoil=額葉延伸
+fertilizer=肥料
+filingcabinet=檔案櫃
+fingerlessgloves=無指手套
+flannelshirt=法蘭絨衫
+flashlight=手電筒
+flatcap=flatcap
+flats=公寓
+floorlamp=地板燈
+flumedicine=氟氨氨酸
+friendlynote{{A}}=FriendlyNote{{A}}
+fryingpan=Fryingpan
+fullspectrumgrowlight=Fullspectrumgrowlight
+gasoline=汽油
+glass=玻璃
+gloves=手套
+goldbar=金條
+goldchain=金鏈
+goldenskateboard=黃金滑板
+goldentoilet=黃金馬桶
+goldwatch=金錶
+graffiticleaner=塗鴉清潔劑
+granddaddypurple=紫色紫色
+granddaddypurpleseed=爺爺紫色
+grandfatherclock=祖父時鐘
+greencrack=格林克拉克
+greencrackseed=Greencrackseed
+growtent=成長
+halogengrowlight=鹵素燈
+highqualitypseudo=HighqualityPseudo
+horsesemen=馬
+iodine=碘
+jar=罐
+jeans=牛仔褲
+jorts=jorts
+laboven=Laboven
+largestoragerack=最大的oragerack
+launderingstation=洗滌station
+ledgrowlight=Ledgrowlight
+legendsunglasses=傳奇人物
+lightweightskateboard=輕巧的板板
+liquidbabyblue=Liquidbabyblue
+liquidbikercrank=LiquidBikerCrank
+liquidglass=液體
+liquidmeth=Liquidmeth
+locker=儲物櫃
+longlifesoil=longlifesoil
+longskirt=隆長
+lowqualitypseudo=lowqualitypseudo
+m{{A}}=M{{A}}
+m{{A}}mag=m{{A}}mag
+machete=砍刀
+managementclipboard=管理克利普板
+mediumstoragerack=Mediumstoragerack
+megabean=大型
+metalsign=金屬
+metalsquaretable=MetalsQuaretable
+meth=冰毒
+mixingstation=混合體
+mixingstationmk{{A}}=MixingStationMk{{A}}
+modernwalllamp=ModernWalllamp
+moisturepreservingpot=濕度
+motoroil=機油
+mouthwash=漱口水
+offroadskateboard=越野滑板
+ogkush=OG庫什
+ogkushseed=Ogkushseed
+oldmanjimmys=Oldmanjimmys
+overalls=工作服
+packagingstation=包裝站
+packagingstationmk{{A}}=PackagingStationMk{{A}}
+paracetamol=撲熱息痛止痛藥
+pgr=PGR
+phosphorus=磷
+plasticpot=塑料鍋
+porkpiehat=porkpiehat
+potsprinkler=Potsprinkler
+pumpshotgun=泵式散彈槍
+rdx=RDX (黑索金)
+rectangleframeglasses=矩形弗拉梅果
+revolver=左輪手槍
+revolvercylinder=左輪手槍彈巢
+viagor=威亞剛壯陽藥
+Enter value...=輸入數值...
+
+sourdieselseed=sourdieselseed
+woodsquaretable=伍德斯克雷特
+woodensign=伍茲森
+wateringcan=噴壺
+wallmountedshelf=Wallmountedshelf
+wallclock=掛鐘
+vneck=v脖子
+vest=背心
+tshirt=T卹
+trimmers=修剪器
+trashgrabber=垃圾抓手
+trashcan=垃圾桶
+trashbag=垃圾袋
+toilet=洗手間
+testweed=測試韋
+tacticalvest=戰術投資
+suspensionrack=懸架架
+spraypaint=噴漆
+speedgrow=Speedgrow
+speeddealershades=Speeddealershades
+sourdiesel=酸柴油
+soilpourer=土壤群
+soil=土壤
+sneakers=運動鞋
+smalltrashcan=小型Trashcan
+smallstoragerack=SmallStoragerack
+smallroundglasses=SmallRoundGlasses
+skirt=裙子
+skateboard=滑板
+silverwatch=銀表
+silverchain=銀鍊
+shotgunshell=shot彈槍外殼
+saucepan=醬料鍋
+sandals=涼鞋
+safe=安全的
+rolledbuttonup=RolledButtonup
+
+
+
+#===================================================
+# 
+#===================================================
