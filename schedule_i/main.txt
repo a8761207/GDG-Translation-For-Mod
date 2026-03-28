@@ -1,0 +1,1682 @@
+#===================================================
+# 翻譯手動調整參數
+#===================================================
+#文字大小 <size\=18></size>
+#底線 <u>123</u>
+#粗體 <b>123</b>
+#換行 \n 
+#圖片 <sprite name\=clock>
+#顏色 <color\=#1A66CCFF>
+#===================================================
+
+sr:"^<color\=#54E717>\+\$(.+)</color> Exceeded Quality Bonus$"=<color\=#54E717>+$ $1</color> 超出預期品質獎金
+
+{{A}}°C={{A}}°C
+{{A}} Seed={{A}}種子
+{{A}} Seeds={{A}}種子
+{{A}}d={{A}}d
+{{B}} (Weed {{A}})={{B}} (大麻 {{A}})
+• More drug types and ingredients\n• {{B}}+ purchasable properties\n• {{A}} (chemists, botanists, etc)\n• Firearms and melee weapons\n• Full map access\n• Vehicles\n• Purchasable businesses\n• Money laundering\n• {{C}}+ NPCs/customers\n• Upgraded equipment and tools\n• Full character customization\n• Much more!=•更多的藥物類型和成分•{{B}}+可購買的特性•{{A}}（化學家，植物學家等）•槍支和近戰武器•完整地圖獲取•車輛•車輛•可購買的業務•洗錢•{{C}}+ NPCS/客戶•升級設備和工具•升級的設備和工具•完整的角色定制•更多！
+{{A}} Value: ${{B}}={{A}} Value: $ {{B}}
+{{A}} Leaves={{A}}葉
+{{A}}'s={{A}}的
+New {{A}} Unlocked!=新的{{A}}解鎖！
+{{B}}x {{A}} Test Test={{B}}x {{A}} 測試 測試
+{{A}} Name={{A}}名稱
+{{A}} {{D}}th\nCo-op & deliveries\n\n{{A}} {{E}}th\n{{C}}\n\n{{B}} {{F}}nd\nBoutique store, wall decorations, pawn shop\n\n{{A}} {{G}}th - Release!\n\n\n={{A}} {{D}}TH CO-OP＆DRIVERIES\n\n{{A}} {{E}}th {{C}}\n\n{{B}} {{F}}ND精品店，牆壁裝飾，典當店\n\n{{A}} {{G}}TH-發布！\n\n\n
+
+
+Inquire at {{A}}'s Realty=請洽 {{A}}氏房地產
+Inquire at Ray's Realty=請洽 睿氏房地產
+
+r:^(?<time>\d{1,2}:\d{2})\s*AM$=上午 ${time}
+r:^(?<time>\d{1,2}:\d{2})\s*PM$=下午 ${time}
+{{A}} PM=下午{{A}}
+{{A}} AM=上午{{A}}
+Wait {{A}}s=等待 {{A}} 秒
+
+v{{A}}f{{B}}=v{{A}}f{{B}}
+${{A}}K=$ {{A}}K
+Lobby ({{A}})=大廳（{{A}}）
+{{A}}AM-{{B}}PM={{A}}AM-{{B}}PM
+{{A}}PM-{{B}}AM={{A}}PM-{{B}}AM
+{{A}}AM-{{B}}AM={{A}}AM-{{B}}AM
+{{A}}PM-{{B}}PM={{A}}PM-{{B}}PM
+{{B}} AM {{A}}={{B}} 上午 {{A}}
+{{B}} PM {{A}}={{B}} 下午 {{A}}
+{{A}}+?={{A}}+？
+
+
+
+Coming January {{A}}=即將到來的一月{{A}}
+週一\n{{A}} AM=週一\n{{A}} 上午
+週二\n{{A}} AM=週二\n{{A}} 上午
+週三\n{{A}} AM=週三\n{{A}} 上午
+週四\n{{A}} AM=週四\n{{A}} 上午
+週五\n{{A}} AM=週五\n{{A}} 上午
+週六\n{{A}} AM=週六\n{{A}} 上午
+週日\n{{A}} AM=週日\n{{A}} 上午
+
+週一\n{{A}} PM=週一\n{{A}} 下午
+週二\n{{A}} PM=週二\n{{A}} 下午
+週三\n{{A}} PM=週三\n{{A}} 下午
+週四\n{{A}} PM=週四\n{{A}} 下午
+週五\n{{A}} PM=週五\n{{A}} 下午
+週六\n{{A}} PM=週六\n{{A}} 下午
+週日\n{{A}} PM=週日\n{{A}} 下午
++${{A}} Bonus=+$ {{A}}獎金
++ ${{A}}=+ $ {{A}}
++${{A}}=+$ {{A}}
+{{A}} %={{A}} %
+FFA{{A}}CBFF=FFA{{A}}CBFF
+{{A}}C{{B}}FFFF={{A}}C{{B}}FFFF
+-{{A}} minutes=-{{A}} 分鐘
+<color\=#16F01C>${{A}},{{B}}</color> Laundered=<color\=#16F01C>${{A}},{{B}}</color> 已洗錢
+{{A}} XP={{A}} XP
+{{A}} AM={{A}} AM
+{{A}}km/h={{A}}km/h
+${{A}} / ${{B}}=$ {{A}} / $ {{B}}
+{{A}}G={{A}}G
+{{A}}%={{A}}％
+{{A}}x={{A}}x
+{{A}} min={{A}}最小
+Fair price: ${{A}}=公道價：${{A}}
+{{A}}% chance of success={{A}}% 成功率
+Earn ${{A}} ({{B}}/${{C}})=賺取 ${{A}} ({{B}}/${{C}})
+{{A}}m={{A}}m
+v{{A}}=v{{A}}
+${{A}}=$ {{A}}
+{{A}} days ago={{A}}幾天前
+${{A}}M=$ {{A}}M
+{{A}} mins left={{A}}剩下的分鐘
+{{A}}/Fire=上膛/開槍
+Waiting for players... ({{A}})=等待玩家... ({{A}})
+
+EST.  {{A}}=EST.  {{A}}
+{{A}} hrs={{A}} hrs
+Cold hard cash.=大筆現金.
++ {{A}} Others=+ {{A}}其他
+Answer {{A}}=回答{{A}}
+Get as close as possible to {{A}} without going bust.=盡可能靠近{{A}}而不會破產。
+Warning: This will overwrite the current save in slot {{A}} (Organisation Name)=警告：這將覆蓋插槽{{A}}（組織名稱）中的當前保存
+Reverting in {{A}}s=在{{A}}S中恢復
+
+-${{A}}=-${{A}}
+{{A}} / {{B}} XP={{A}} / {{B}} XP
+
+[{{A}}]=[{{A}}]
+Total: <color\=#FFD755>${{A}} - ${{B}}</color>=總計：<color\=#FFD755>${{A}} -$ {{B}}</color>
+Forfeit and collect ${{A}}=沒收並收集$ {{A}}
+
+Last save was {{A}} seconds ago=最後保存於 {{A}} 秒前
+Last save was {{A}} minute ago=最後保存於 {{A}} 分鐘前
+Last save was {{A}} minutes ago=最後保存於 {{A}} 分鐘前
+r:"Last save was (\d+) minute ago"=最後存檔時間為 $1 分鐘前
+r:"Last save was (\d+) minutes ago"=最後存檔時間為 $1 分鐘前
+r:"Last save was (\d+) seconds ago"=最後存檔時間為 $1 秒前
+
+
+
+ UNTIL {{A}}AM= 直到 早上{{A}}點
+Police curfew in effect until {{A}}AM=警察宵禁實施直到 早上{{A}}點
+
+${{A}} - ${{B}}=$ {{A}} -$ {{B}}
+
+sr:^(\d+)x$=$1x
+r:^(\d+)% chance of success$=$1% 成功機率
+r:^DEPOSIT \$(\d+)$=存款 $ $1
+r:^DEPOSIT \$([0-9,]+)$=存款 $ $1
+r:^MAX \(\$([0-9,]+)\)$=最大（$ $1）
+r:^WITHDRAW \$(\d+)$=提款 $ $1
+r:^WITHDRAW \$([0-9,]+)$=提取 $ $1
+
+r:^\$([0-9\.,]+) fine \(paid in cash\)$=$$1 罰款（以現金支付）
+
+
+• Order 1x OG Kush Seed from Albert Hoover=訂購 1個 OG庫什種子
+• Harvest the weed plant once fully grown=•收穫草類植物一次就能完全生長
+
+Agreed. I'll be in the west construction site for the next {{A}} hours.=同意。\n我將在接下來的 {{A}}小時 內 在 西側的建築工地。
+Auto Backup Saves=自動備份保存
+If enabled, loading an existing save on a new version of the game will automatically generate a backup.\n\n=<size\=14>如果啟用，將現有的保存加載在遊戲的新版本上將自動生成備份。\n\n</size>
+%USERPROFILE%\\AppData\\LocalLow\\{{A}}\\Schedule I\\Saves\\<STEAM_ID>\\Backups=％userProfile％\\ appdata \\ locallow \\ {{A}} \\ schedule I \\ saves \\ <seam_id> \\ backups
+Backups are stored in this folder:=備份存儲在此文件夾中：
+Backups are stored in this folder:\n%USERPROFILE%\\AppData\\LocalLow\\TVGS\\Schedule I\\Saves\\<STEAM_ID>\\Backups=<size\=14>\n\n備份存儲在此文件夾中：\n％userProfile％\\ appdata \\ locallow \\ TVGS \\ schedule I \\ saves \\ <seam_id> \\ backups</size>
+Monitor {{A}}=螢幕{{A}}
+{{A}}x{{B}}={{A}}x{{B}}
+
+FFD{{A}}BFF=FFD{{A}}BFF
+{{A}}AFFFF={{A}}AFFFF
+{{A}} potential customers={{A}} 潛在客戶
+{{A}} dealers={{A}} 經銷商
+{{A}} potential customers\n{{B}} dealers={{A}} 潛在客戶\n{{B}} 經銷商
+
+Use the management clipboard to assign the botanist to a bed=使用 管理寫板夾[9] 將 植物學家 指定分配 床位  
+the management clipboard to assign the botanist to a locker=管理寫板夾[9] 將 植物學家 指定分配 儲物櫃/床位
+Use the management clipboard to assign the botanist to a locker=使用 管理寫板夾[9] 將 植物學家 指定分配 儲物櫃/床位
+Use the management clipboard to assign the chemist to a bed=使用 管理寫板夾[9] 將 化學家 指定分配 床位  
+Use the management clipboard to assign the cleaner to a bed=使用 管理寫板夾[9] 將 清潔員 指定分配 床位  
+Use the management clipboard to assign the packager to a bed=使用 管理寫板夾[9] 將 包裝員 指定分配 床位
+the management clipboard to assign the handler to a locker=管理寫板夾[9] 將 處理工 指定分配 儲物櫃/床位
+Use the management clipboard to assign the handler to a locker=使用 管理寫板夾[9] 將 處理工 指定分配 儲物櫃/床位
+
+That'll be a <color\=#54E717>$1,500</color> signing free, and the employee's daily wage will be <color\=#54E717>$300</color>.=簽約費為 <color\=#54E717>$1,500</color>，員工每日工資為 <color\=#54E717>$300</color>。
+
+Click and hold over buds to harvest ({{A}})=使用滑鼠點擊並按住,劃過芽胚進行收穫（{{A}}）
+Click and hold over buds to harvest ({{A}}/{{B}})=使用滑鼠點擊並按住,劃過芽胚進行收穫（{{A}}/{{B}}）
+Forfeit and collect $10,000=放棄並收取 $10,000
+0 seconds since last save=距離上次存檔 0 秒
+
+{{C}} {{A}}\n{{D}} {{B}}s\n{{E}} Dealer={{C}} {{A}}\n{{D}} {{B}}s\n{{E}} 經銷商
+{{A}} Customers\n{{B}} Suppliers\n{{C}} Dealer={{A}} 客戶\n{{B}} 供應商\n{{C}} 經銷商
+5 Customers\n3 Suppliers\n1 Dealer=5 個客戶\n3 個供應商\n1 個經銷商
+No way!!=不要!!
+PoI Main Text=PoI主文字
+Equipment=設備
+Lighting=燈光
+Decoration=裝飾
+Fair price: $100=公平價格：$100
+Suggested: ${{A}}=建議：${{A}}
+Suggested: $12=建議：$12
+r:"Suggested: (.+)"=建議：$1
+Mick's=米克的
+Mick's\nTemper=米克的\n脾氣
+H=H
+Offroad Skateboard=越野滑板
+Offroad Skateboard\n$1500=越野滑板\n$1500
+Noodle=麵條
+PoI Main Text=POI主文字
+Equipment=設備
+Lighting=燈光
+Decoration=裝飾
+Reverting in 15.0 seconds=將在 15.0 秒後恢復
+Waking up at 7:00 AM=在上午 7:00 醒來
+OG Kush Test Test=OG庫什 測試 測試
+20x OG Kush Test Test=20個 OG庫什 測試 測試
+Lorem ipsum=英文假文測試字Lorem ipsum
+Schedule I will be releasing in <color\=#5DD642>March 2025.</color> \n\nIf you've enjoyed this demo, please consider wishlisting the <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Full Game Features</color>\n=時間表我將發布 <color\=#5DD642>2025年3月。</color> \n\n如果您喜歡這個演示，請考慮將 <color\=#000000>                                      <size\=0>。</size>\n\n<color\=#5DD642>完整版遊戲特色</color>\n
+Bug=臭蟲
+• More drug types and ingredients\n• 8+ purchasable properties\n• Employees (chemists, botanists, etc)\n• Firearms and melee weapons\n• Full map access\n• Vehicles\n• Purchasable businesses\n• Money laundering\n• 60+ NPCs/customers\n• Upgraded equipment and tools\n• Full character customization\n• Much more!=•更多的毒品類型和成分•8+可購買的物業•員工（化學家，植物學家等）•槍支和近戰武器•完整的地圖訪問•車輛•可購買的企業•洗錢•60+ NPCS/客戶•升級的設備和工具•全部角色定制•更多！
+- Property\n- Property\n- Property\n- Property\n+ 5 More=- 財產 - 財產 - 財產 - 財產 + 5
+Test test=測試測試
+Import=匯入
+Export=匯出
+This is a beta version of the game - save files may get corrupted. \nDon't load any saves that are important to you UNLESS you have a backup copy.\n\nYou can use the 'export' buttons above to create a backup copy of your save.=這是遊戲的Beta版本 - 保存文件可能會損壞。\n除非您有備份副本，否則不要加載對您重要的保存。\n\n\n您可以使用上面的“導出”按鈕創建保存的備份副本。
+Click and hold an option to cast your vote=點擊並保留一個選項來投票
+
+Import Save=導入保存
+Organisation Name=組織名稱
+Version=版本
+Warning: This will overwrite the current save in slot 2 (Organisation Name)=警告：這將覆蓋插槽2（組織名稱）中的當前保存
+Required file 'Game.json' is missing. Save file cannot be loaded.=所需的文件“ game.json”丟失。\n保存文件無法加載。
+{{A}} does not condone the manufacturing, trade, or use of illegal drugs.\n\nThe production processes portrayed in this game are purely fictional and do not reflect reality. Do not attempt to follow these processes - you won't make drugs, but you could cause serious harm to yourself.\n\nPlease don't do drugs.\n\n={{A}}不容忍非法藥物的製造，貿易或使用。\n\n\n該遊戲中描繪的生產過程純粹是虛構的，不能反映現實。\n不要嘗試遵循這些過程 - 您不會毒品，但可能會對自己造成嚴重傷害。\n\n\n請不要吸毒。\n\n
+Hello, Player=你好，玩家
+Other=其他
+Standard=標準
+
+HOSTILE=敵對
+CLEAR=清除
+NOW AVAILABLE\n=現在可用\n
+UNKNOWN=未知
+{{A}}s={{A}}s
++{{A}}=+{{A}}
+-{{A}}=-{{A}}
+B{{A}}FFDBFF=B{{A}}FFDBFF
+FFEA{{A}}FF=FFEA{{A}}FF
+C{{A}}FF=C{{A}}FF
+{{A}}AFF{{B}}DFF={{A}}AFF{{B}}DFF
+{{A}}B{{B}}B{{C}}BFF={{A}}B{{B}}B{{C}}BFF
+{{A}}F{{B}}FFFF={{A}}F{{B}}FFFF
+FF{{A}}F{{B}}FF=FF{{A}}F{{B}}FF
+{{A}} km/h={{A}} km/h
+A{{A}}DFFFFF=A{{A}}DFFFFF
+FF{{A}}B{{B}}FF=FF{{A}}B{{B}}FF
+{{A}} / {{B}}={{A}} / {{B}}
+ertertsdfsdf=ertertsdfsdf
+Item Name\nertertsdfsdf=物品名稱\nertertsdfsdf
+qweqweweweqweqweqweqweq{{A}}=qweqweweweqweqweqweqweq{{A}}
+{{A}}x Item Name={{A}}x 項目名稱
+CURFEW ACTIVE=宵禁實施
+CURFEW ACTIVE\n{{A}}PM - {{B}}AM=宵禁實施\n{{A}}PM - {{B}}AM
+{{A}} MINS={{A}} 分鐘
+CURFEW SOON=即將宵禁
+CURFEW SOON\n{{A}} MINS=即將宵禁\n{{A}}分鐘
+RGB=RGB
+Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=如果你想訂購一些, 請發我訊息.\n尼爾森幫你說了好話, 所以我會給你一個帳單, 你可以稍後付清。
++{{A}} more=+{{A}} 更多
+{{A}} room #{{B}}={{A}}房間#{{B}}
+View Cart ({{A}} items)=查看購物車({{A}} 項目)
+#市場價
+{{A}}: ${{B}}={{A}}：$ {{B}}
+
+
+#=========================================
+Reach rank    \n\n\nto unlock this region=達到等級\n\n\n解鎖該地區
+
+Reduce cartel influence in {{A}} to \n\n\nto unlock this region=減少販毒集團的影響力在 {{A}} \n\n\n解鎖該地區
+Benzies' Influence in {{A}}=班基斯家族 在 {{A}} 的影響力
+Benzies' Influence In {{A}}=班基斯家族 在 {{A}} 的影響力
+Cartel Influence in {{A}}=販毒集團 在 {{A}} 的影響
+Cartel influence in {{A}}=販毒集團 在 {{A}} 的影響
+
+Reduce the Benzies' influence in a region by defeating ambushes, interrupting their deals, unlocking customers, and spraying graffiti. =通過擊敗伏擊，打斷交易，解鎖客戶並噴灑塗鴉，從而減少 班基斯家族 在一個地區的影響力。 
+Reduce cartel influence by unlocking customers, defeating ambushes, interrupting cartel deals, and drawing graffiti in this region.=通過解鎖客戶,擊敗伏擊,中斷販毒集團交易,並在該地區繪製塗鴉,來減少販毒集團的影響。
+{{A}} {{C}}th\nCo-op & deliveries\n\n{{A}} {{D}}th\nCasino\n\n{{B}} {{E}}nd\nBoutique store, wall decorations, pawn shop\n\n{{A}} {{F}}th - Release!\n\n\n={{A}} {{C}}th\n合作＆送貨\n\n{{A}} {{D}}th\n賭場\n\n{{B}} {{E}}nd\n精品店，牆壁裝飾，當舖\n\n{{A}} {{F}}th - 發布！\n\n\n
+
+
+Time=時間
+Unlock next region=解鎖下一個區域
+Reduce cartel influence in Downtown to \n\n\nto unlock this region=減少販毒集團在 市區 的影響\n\n\n解鎖該地區
+the management clipboard to assign the chemist to a locker=管理寫板夾[9] 將 化學家 分配給儲物櫃
+Use the management clipboard to assign the chemist to a locker=使用 管理寫板夾[9] 將 化學家 分配給儲物櫃
+Unfavourable Agreements=不利協議
+Finishing the Job=完成工作
+Deal for the Benzies Family=與 班基斯家族 交易
+Calling off the agreement with the Benzies is irreversible. \n\nThey will immediately become hostile towards you.=取消與 班基斯家族 的協議是不可逆轉的。\n\n\n他們將立即對您敵對。
+
+While you're truced with the Benzies family, you can only sell to customers in {{A}} or {{B}}.=當您與 班基斯家族 休戰時，您只能出售給 {{A}} 或 {{B}} 的客戶。
+While you're truced with the Benzies family, you can only sell to customers in Northtown or Westville.=當您與 班基斯家族 休戰時，您只能出售給 北城區 或 西村區 的客戶。
+
+MAX (${{A}})=最大值 (${{A}})
+DEPOSIT ${{A}}=存款$ {{A}}
+You have deposited ${{A}}=你已存入 ${{A}} 至你的帳戶
+WITHDRAW ${{A}}=提領 $ {{A}}
+You have withdrawn ${{A}}=你已提領 ${{A}} 元
+#===================================================
+# 手機-通訊錄
+#===================================================
+Unlock this supplier by reaching 'friendly' with one of their connections.=通過與他們的連接之一達到 "友好" 來解鎖該供應商。
+
+
+#=========== 北城區
+# 經銷商：班吉
+# 凱爾
+#<color\=#FFD19BFF>•  {{A}}</color>=<color\=#FFD19BFF>•  {{A}}</color>
+#<color\=#CA6D57FF>•  {{A}}</color>=<color\=#CA6D57FF>•  {{A}}</color>
+#<color\=#7CBC31FF>•  {{A}}</color>=<color\=#7CBC31FF>•  {{A}}</color>
+
+<color\=#FFD19BFF>•  Calming</color>\n<color\=#CA6D57FF>•  Munchies</color>\n<color\=#7CBC31FF>•  Smelly</color>=<color\=#FFD19BFF>•  舒緩</color>\n<color\=#CA6D57FF>•  點心</color>\n<color\=#7CBC31FF>•  臭味</color>
+<color\=#6B5FD9FF>•  Sedating</color>\n<color\=#CA6D57FF>•  Munchies</color>\n<color\=#7CBC31FF>•  Smelly</color>=<color\=#6B5FD9FF>•  鎮靜</color>\n<color\=#CA6D57FF>•  點心</color>\n<color\=#7CBC31FF>•  臭味</color>
+# 奧斯丁
+# 傑西
+<color\=#9AFF6DFF>•  Energizing</color>\n<color\=#C56762FF>•  Paranoia</color>\n<color\=#7B7B7BFF>•  Sneaky</color>=<color\=#9aff6dff>•  提神</color>\n<color\=#C56762FF>•  偏執</color>\n<color\=#7B7B7BFF>•  偷偷摸摸</color>
+
+# 凱西
+<color\=#75C9FFFF>•  Athletic</color>\n<color\=#9AFF6DFF>•  Energizing</color>\n<color\=#75F2FFFF>•  Focused</color>=<color\=#75C9FFFF>•  運動感</color>\n<color\=#9aff6dff>•  提神</color>\n<color\=#75f2ffff>•  專注</color>
+# 米克
+<color\=#FFEB75FF>•  Euphoric</color>\n<color\=#BFF8FFFF>•  Bright-Eyed</color>\n<color\=#7B7B7BFF>•  Sneaky</color>=<color\=#ffeb75ff>•  欣快感</color>\n<color\=#bff8ffff>•  亮眼</color>\n<color\=#7B7B7BFF>•  偷偷摸摸</color>
+# 山姆
+# 彼得
+<color\=#75F2FFFF>•  Focused</color>\n<color\=#B2FF99FF>•  Refreshing</color>\n<color\=#7B7B7BFF>•  Sneaky</color>=<color\=#75f2ffff>•  專注</color>\n<color\=#B2FF99FF>•  清爽</color>\n<color\=#7B7B7BFF>•  偷偷摸摸</color>
+# 唐納
+<color\=#B2FF99FF>•  Refreshing</color>\n<color\=#9F2B23FF>•  Lethal</color>\n<color\=#CA6D57FF>•  Munchies</color>=<color\=#B2FF99FF>•  清爽</color>\n<color\=#9F2B23FF>•  致命    </color>\n<color\=#CA6D57FF>•  點心</color>
+# 潘
+<color\=#C89232FF>•  Balding</color>\n<color\=#FFDA61FF>•  Long faced</color>\n<color\=#6B5FD9FF>•  Sedating</color>=<color\=#C89232FF>•  禿頭</color>\n<color\=#FFDA61FF>•  面癱</color>\n<color\=#6B5FD9FF>•  鎮靜</color>
+# 克洛伊
+<color\=#FFEB75FF>•  Euphoric</color>\n<color\=#B6FFDBFF>•  Shrinking</color>\n<color\=#CA6D57FF>•  Munchies</color>=<color\=#ffeb75ff>•  欣快感</color>\n<color\=#B6ffdbff>•  收縮</color>\n<color\=#CA6D57FF>•  點心</color>
+# 佩姬
+# 路德維希
+# 貝絲
+<color\=#645AFFFF>•  Schizophrenic</color>\n<color\=#9F2B23FF>•  Lethal</color>\n<color\=#FFEA00FF>•  Seizure-Inducing</color>=<color\=#645Affff>•  精神分裂</color>\n<color\=#9F2B23FF>•  致命</color>\n<color\=#FFEA00FF>•  誘發癲癇</color>
+# 明太太
+<color\=#FF882AFF>•  Gingeritis</color>\n<color\=#B6FFDBFF>•  Shrinking</color>\n<color\=#55C9FFFF>•  Electrifying</color>=<color\=#FF882AFF>•  紅髮症</color>\n<color\=#B6ffdbff>•  收縮</color>\n<color\=#55c9ffff>•  觸電感</color>
+
+#=========== 西村區
+# 經銷商：茉莉
+# 特倫特
+# 梅格
+<color\=#7B7B7BFF>•  Sneaky</color>\n<color\=#A2DFFFFF>•  Slippery</color>\n<color\=#FFA0CBFF>•  Thought-Provoking</color>=<color\=#7B7B7BFF>•  偷偷摸摸</color>\n<color\=#A2DFFFFF>•  滑溜</color>\n<color\=#FFA0CBFF>•  發人深省</color>
+# 喬伊斯
+<color\=#FFEB75FF>•  Euphoric</color>\n<color\=#FFA0CBFF>•  Thought-Provoking</color>\n<color\=#FF83F6FF>•  Calorie-Dense</color>=<color\=#FFEB75FF>•  欣快感</color>\n<color\=#FFA0CBFF>•  發人深省</color>\n<color\=#FF83F6FF>•  高熱量</color>
+# 基斯
+<color\=#A2DFFFFF>•  Slippery</color>\n<color\=#7B7B7BFF>•  Sneaky</color>\n<color\=#FF9F47FF>•  Tropic Thunder</color>=<color\=#A2DFFFFF>•  滑溜</color>\n<color\=#7B7B7BFF>•  偷偷摸摸</color>\n<color\=#FF9F47FF>•  熱帶雷霆</color>
+# 朵莉絲
+<color\=#FF6B4CFF>•  Spicy</color>\n<color\=#FF9F47FF>•  Tropic Thunder</color>\n<color\=#C89232FF>•  Balding</color>=<color\=#FF6B4CFF>•  辛辣</color>\n<color\=#FF9F47FF>•  熱帶雷霆</color>\n<color\=#C89232FF>•  禿頭</color>
+# 傑瑞
+# 金
+<color\=#B6FFDBFF>•  Shrinking</color>\n<color\=#FF8DFAFF>•  Jennerising</color>\n<color\=#75F2FFFF>•  Focused</color>=<color\=#b6ffdbff>•  收縮</color>\n<color\=#ff8dfaff>•  變性</color>\n<color\=#75f2ffff>•  專注</color>
+# 狄恩
+<color\=#85E559FF>•  Glowing</color>\n<color\=#763C25FF>•  Laxative</color>\n<color\=#FF6B4CFF>•  Spicy</color>=<color\=#85e559ff>•  亢奮</color>\n<color\=#763C25FF>•  瀉藥</color>\n<color\=#FF6B4CFF>•  辛辣</color>
+# 查爾斯
+<color\=#6B5FD9FF>•  Sedating</color>\n<color\=#FF7551FF>•  Disorienting</color>\n<color\=#B0B0B0FF>•  Foggy</color>=<color\=#6b5fd9ff>•  鎮靜</color>\n<color\=#ff7551ff>•  迷幻</color>\n<color\=#B0B0B0FF>•  迷濛</color>
+# 喬治
+
+#=========== 市區
+# 經銷商：布拉德
+# 伊莉莎白
+# 珍妮佛
+<color\=#B6FFDBFF>•  收縮</color>\n<color\=#A2DFFFFF>•  滑溜</color>\n<color\=#5F9A31FF>•  Toxic</color>=<color\=#b6ffdbff>•  收縮</color>\n<color\=#a2dffff>•  滑溜</color>\n<color\=#5f9a31ff>•  有毒</color>
+# 凱文 無
+# 路易斯
+<color\=#B6FFDBFF>•  Shrinking</color>\n<color\=#FFEA00FF>•  Seizure-Inducing</color>\n<color\=#C56762FF>•  Paranoia</color>=<color\=#b6ffdbff>•  收縮</color>\n<color\=#ffea00ff>•  誘發癲癇</color>\n<color\=#c56762ff>•  偏執</color>
+# 露西
+<color\=#FF83F6FF>•  Calorie-Dense</color>\n<color\=#FFEB75FF>•  Euphoric</color>\n<color\=#CA6D57FF>•  Munchies</color>=<color\=#FF83F6FF>• 卡路里密集</color>\n<color\=#FFEB75FF>• 欣快感</color>\n<color\=#CA6D57FF>• 點心</color>
+# 蘭迪 無
+# 尤金
+# 格雷格
+# 傑夫
+# 菲利浦
+<color\=#B2FF99FF>•  清爽</color>\n<color\=#B6FFDBFF>•  收縮</color>\n<color\=#B0B0B0FF>•  Foggy</color>=<color\=#b2ff99ff>•  清爽</color>\n<color\=#b6ffdbff>•  收縮</color>\n<color\=#b0mdzb0ff>•  迷濛</color>
+
+#=========== 碼頭
+# 經銷商：珍
+# 麗莎
+<color\=#763C25FF>•  Laxative</color>\n<color\=#645AFFFF>•  Schizophrenic</color>\n<color\=#245BCCFF>•  Anti-gravity</color>=<color\=#763c25ff>•  瀉藥</color>\n<color\=#645affff>•  精神分裂</color>\n<color\=#245BCCFF>•  反重力</color>
+# 安娜
+# 成吉斯
+# 暴躁
+# 哈維爾 無
+# 馬可
+# 梅麗莎
+# 麥克
+# 比利
+
+#=========== 郊區
+# 經銷商：偉龍
+# 克里斯
+# 漢克
+# 凱倫 無
+# 艾利森 無
+# 傑瑞米
+# 卡爾
+# 傑基 無
+# 哈羅德
+<color\=#B0B0B0FF>•  Foggy</color>\n<color\=#FF6B4CFF>•  Spicy</color>\n<color\=#FF8DFAFF>•  Jennerising</color>=<color\=#b0mdzb0ff>•  迷濛</color>\n<color\=#ff6b4cff>•  辛辣</color>\n<color\=#ff8dfaff>•  變性</color>
+# 傑克
+# 丹尼斯
+
+#=========== 上城區
+# 經銷商：
+
+#赫伯特
+<color\=#A2DFFFFF>•  Slippery</color>\n<color\=#B0B0B0FF>•  Foggy</color>\n<color\=#FF4B40FF>•  Explosive</color>=<color\=#A2DFFFFF>•  滑溜</color>\n<color\=#B0B0B0FF>•  迷濛</color>\n<color\=#FF4B40FF>•  爆炸性</color>
+
+#麥可
+<color\=#FF8DFAFF>•  Jennerising</color>\n<color\=#FFD19BFF>•  Calming</color>\n<color\=#645AFFFF>•  Schizophrenic</color>=<color\=#FF8DFAFF>•  變性</color>\n<color\=#ffd19bff>•  舒緩</color>\n<color\=#645affff>•  精神分裂</color>
+
+
+
+
+<color\=#CA6D57FF>•  Munchies</color>\n<color\=#75C9FFFF>•  Athletic</color>\n<color\=#7CBC31FF>•  Smelly</color>=<color\=#ca6d57ff>•  點心</color>\n<color\=#75c9ffff>•  運動感</color>\n<color\=#7cbc31ff>•  臭味</color>
+<color\=#9AFF6DFF>•  Energizing</color>\n<color\=#75F2FFFF>•  Focused</color>\n<color\=#FFA0CBFF>•  Thought-Provoking</color>=<color\=#9AFF6DFF>•  提神</color>\n<color\=#75F2FFFF>•  專注</color>\n<color\=#ffa0cbff>•  發人深省</color>
+<color\=#C56762FF>• Paranoia</color>\n<color\=#9AFF6DFF>• Energizing</color>\n<color\=#FFA0CBFF>• Thought-Provoking</color>=<color\=#C56762FF>•偏執</color>\n<color\=#9AFF6DFF>• 提神</color>\n<color\=#FFA0CBFF>• 發人深省</color>
+<color\=#FF83F6FF>•  Calorie-Dense</color>\n<color\=#9AFF6DFF>•  Energizing</color>\n<color\=#7B7B7BFF>•  Sneaky</color>=<color\=#FF83F6FF>•  高熱量</color>\n<color\=#9aff6dff>•  提神</color>\n<color\=#7B7B7BFF>•  偷偷摸摸</color>
+<color\=#FFD19BFF>•  Calming</color>\n<color\=#75F2FFFF>•  Focused</color>=<color\=#FFD19BFF>•  舒緩</color>\n<color\=#75F2FFFF>•  聚焦</color>
+<color\=#763C25FF>•  Laxative</color>\n<color\=#FFD19BFF>•  Calming</color>\n<color\=#C89232FF>•  Balding</color>=<color\=#763C25FF>•  瀉藥</color>\n<color\=#FFD19BFF>•  舒緩</color>\n<color\=#C89232FF>•  禿頭</color>
+<color\=#C56762FF>• Paranoia</color>\n<color\=#7B7B7BFF>• Sneaky</color>\n<color\=#75C9FFFF>• Athletic</color>\n<color\=#245BCCFF>• Anti-gravity</color>=<color\=#C56762FF>•偏執</color>\n<color\=#7B7B7BFF>• 偷偷摸摸</color>\n<color\=#75C9FFFF>• 運動感</color>\n<color\=#245BCCFF>• 反重力</color>
+
+
+Anti-gravity=反重力
+Athletic=運動感
+Balding=禿頭
+Bright-Eyed=亮眼
+Calming=舒緩
+Calorie-Dense=高熱量
+Cardio-Boosting=提升心跳
+Cyclopean=獨眼人
+Disorienting=迷幻
+Electrifying=觸電感
+Energizing=提神
+Euphoric=欣快感
+Explosive=爆炸性
+Focused=專注
+Foggy=迷濛
+Gingeritis=紅髮症
+Glowing=亢奮
+{{A}}nerising=變性
+Jennerising=變性
+Laxative=瀉藥
+Lethal=致命
+Long Faced=面癱
+Long faced=面癱
+ Long faced= 面癱
+Munchies=點心
+Neutral=中性
+Paranoia=偏執
+Refreshing=清新
+Schizophrenic=精神分裂
+Sedating=鎮靜
+Seizure-Inducing=誘發癲癇
+Shrinking=收縮
+Slippery=滑溜
+Smelly=臭味
+Sneaky=偷偷摸摸
+Spicy=辛辣
+Thought-Provoking=發人深省
+Toxic=有毒
+Tropic Thunder=熱帶雷霆
+Zombifying=殭屍化
+
+
+• {{A}}=• {{A}}
+• Anti-gravity=• 反重力
+• Athletic=• 運動感
+• Balding=• 禿頭
+• Bright-Eyed=• 亮眼
+• Calming=• 舒緩
+• Calorie-Dense=• 高熱量
+• Cardio-Boosting=• 提升心跳
+• Cyclopean=• 獨眼人
+• Disorienting=• 迷幻
+• Electrifying=• 觸電感
+• Energizing=• 提神
+• Euphoric=• 欣快感
+• Explosive=• 爆炸性
+• Focused=• 專注
+• Foggy=• 迷濛
+• Gingeritis=• 紅髮症
+• Glowing=• 亢奮
+• Anti-gravity=• 反重力
+• {{A}}nerising=• 變性
+• Jennerising=• 變性
+• Laxative=• 瀉藥
+• Lethal=• 致命
+• Long Faced=• 面癱
+• Long faced=• 面癱
+•  {{A}}=• {{A}}
+•  Long faced=•  面癱
+• Munchies=• 點心
+• Neutral=• 中性
+• Paranoia=• 偏執
+• Refreshing=• 清新
+• Schizophrenic=• 精神分裂
+• Sedating=• 鎮靜
+• Seizure-Inducing=• 誘發癲癇
+• Shrinking=• 收縮
+• Slippery=• 滑溜
+• Smelly=• 臭味
+• Sneaky=• 偷偷摸摸
+• Spicy=• 辛辣
+• Thought-Provoking=• 發人深省
+• Toxic=• 有毒
+• Tropic Thunder=• 熱帶雷霆
+• Zombifying=• 殭屍化
+
+sr:"•  (Anti-gravity|Zombifying|Athletic|Balding|Bright-Eyed|Calming|Calorie-Dense|Cardio-Boosting|Cyclopean|Disorienting|Electrifying|Energizing|Euphoric|Explosive|Focused|Foggy|Gingeritis|Glowing|Jennerising|Laxative|Lethal|Long Faced|Munchies|Neutral|Paranoia|Refreshing|Schizophrenic|Sedating|Seizure-Inducing|Shrinking|Slippery|Smelly|Sneaky|Spicy|Thought-Provoking|Toxic|Tropic Thunder)$"=•  $1
+#===================================================
+
+{{A}}: <color\=#{{D}}E{{C}}>${{B}}<</color>={{A}}： <color\=#{{D}}E{{C}}>${{B}}</color>
+Market Value: <color\=#{{A}}E{{B}}>${{C}}</color>=市場價值：<color\=#{{A}}E{{B}}>${{C}}</color>
+Market Value: <color\=#54E717>${{A}}</color>=市場價值：<color\=#54E717>${{A}}</color>
+r:"Market Value: (.+)"=市場價值：$1
+
+{{A}} 潛在客戶\n{{B}} dealers\n{{C}} supplier={{A}}潛在客戶\n{{B}}經銷商\n{{C}}供應商
+
+Click soil chunks to bury seed ({{A}})=點擊 土壤塊 以掩埋種子（{{A}}）
+Click and hold over leaves to harvest ({{A}})=點擊並按住劃過葉子來收割（{{A}}）
+{{A}}% grown={{A}}％生長
+Allowed Items=允許的物品
+Allowed Quality=允許的質量
+Add=添加
+Configure Filter=配置過濾器
+Whitelist=白名單
+Unallowed Items=不允許的物品
+Blacklist=黑名單
+Apply to siblings=應用於兄弟姐妹
+Copy filter=複製過濾器
+Clear filter=清除過濾器
+Paste filter=糊過濾器
+This delivery is waiting for the loading dock {{A}} to be empty.=此交付正在等待加載貨架{{A}}為空。
+THIS CUSTOMER IS WAITING FOR ONE OF YOUR {{A}}S.=該客戶正在等待您合作的{{A}}.
+THIS CUSTOMER IS WAITING FOR ONE OF YOUR {{A}}.=該客戶正在等待您合作的{{A}}.
+THIS CUSTOMER IS WAITING FOR ONE OF YOUR DEALERS.=該客戶正在等待您合作的經銷商.
+#===================================================
+# UI-0.3.4
+#===================================================
+A 2-tier wall-mounted shelf which you can place items on.=一個可放置物品的雙層壁掛架。
+A big metal safe to store all your fancy stuff in.=一個可用來存放所有貴重物品的大型金屬保險箱。
+A ceramic toilet for disposing of waste matter.	=一個用於處理廢物的陶瓷馬桶。	
+A fun day at the beach for everyone.=大家的海灘歡樂日。
+A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great for lighting.=一盞可安裝於牆上的極簡風格燈具。不能用來種植植物，但照明效果絕佳。
+A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=一盞可安裝於牆上的極簡風格燈具。不能用來種植植物，但看清周遭事物非常好用。
+A very good girl.=一個非常乖的女孩。
+A wall-mounted metal sign that you can write on.=可以書寫的壁掛式金屬標誌。
+A wall-mounted wooden sign that you can write on.=可以書寫的壁掛式木質標誌。
+ACCEPT=接受
+Absolute necessity for a baller.=玩咖的必需品。
+Absolute necessity for a budget baller.=預算有限的玩咖必需品。
+Accept the offer or counter=接受報價或反提報價
+Access safe=開啟保險箱
+Aged Tennessee Whisky of the finest quality.=最優質的陳年田納西威士忌。
+ Aged Tennessee Whisky of the finest quality.=最優質的陳年田納西威士忌。
+An antique lamp that can be placed on walls. Can't be used to grow plants, but it's great for lighting.=一盞可安裝於牆上的古董燈。不能用來種植植物，但照明效果絕佳。
+An antique lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=一盞可安裝於牆上的古董燈。不能用來種植植物，但看清周遭事物非常好用。
+Antique grandfather clock made of walnut wood and trimmed with gold.=由核桃木製成、鑲有黃金飾邊的古董祖父鐘。
+Artwork (Beach Day)=藝術品 (=海灘日)
+Beach Day=海灘日
+Edit Sign Message=編輯標誌訊息
+Edit message=編輯訊息
+Enter text...=輸入文字...
+Excellent choice, Sir=非常好的選擇，先生
+Excellent taste, Sir=品味好極了，先生
+Good day, what might I be able to do for you?=你好，有什麼需要幫忙的嗎？
+Header=標題
+Heart=心
+Insert items for appraisal (legal items only)=放入要估價的物品（僅限合法物品）
+It's always nice to help a friend in need.=幫助有需要的朋友總是件好事。
+Open safe=打開保險箱
+Out of stock=已售完
+Previous=上一頁
+Search products...=搜尋產品...
+Solid gold wrist watch to tastefully display your wealth.=一支純金手錶，用好品味展現你的財富。
+Solid silver wrist watch to tastefully display your mild affluence.=一支純銀手錶，用好品味展現你的小康境況。
+Some people just can't be reasoned with...=有些人就是沒法講道理…
+Temper=脾氣
+Thank you, Sir=謝謝，先生。
+That'll be a fine addition to your collection=這會成為你很好的收藏品
+This guy seems enthusiastic.=這傢伙看起來充滿熱情。
+Total: =總計： 
+Total:=總計:
+What does it all mean?=這到底是什麼意思？
+Your Message Here=訊息在這裡
+r:"- Property\n- Property\n- Property\n- Property\n+ (/d) More"=-財產 -財產 -財產 -財產 + $1 更多
+r:"^(\d+) of (\d+)"=1 / $2
+r:"^How does (\$\d{1,3}(?:,\d{3})*) sound?"=$1 聽起來怎麼樣？
+r:"^Let's call it (\$\d{1,3}(?:,\d{3})*). Deal?"=就定在 $1 吧。成交嗎？
+r:"^Best I can do is (\$\d{1,3}(?:,\d{3})*)"=我最多給 $1 。
+r:"^I can give you (\$\d{1,3}(?:,\d{3})*)"=我可以給你 $1 。
+r:"^How 'bout (\$\d{1,3}(?:,\d{3})*)?"=那 $1 怎麼樣？
+r:"^I can do (\$\d{1,3}(?:,\d{3})*). We got a deal?"=我可以出 $1 。如何？
+Let me think...=讓我想想...
+Lemme think...=讓我想想...
+Mmm...=嗯...
+r:"^How's (\$\d{1,3}(?:,\d{3})*)?"= $1 如何？
+We’ll buy your items for 50% of their retail value!=我們將用物品零售價的 50% 收購你的物品！
+r:"^We’ll buy your items for (\d+)% of their retail value!$"=我們將用物品零售價的 $1% 收購你的物品！
+Turn your stuff into cash!=把你的物品變成現金！
+MICK DOESN'T WANT TO DO BUSINESS WITH YOU RIGHT NOW.=MICK 現在不想跟你做生意
+Deal, good doin' business.=成交，合作愉快。
+Deal. See ya next time buddy.=成交。下次見兄弟。
+You've got a deal.= 成交。
+Come back when you're serious!=等你想賣的時候再來！
+Okay - you caught me in a generous mood.= 好吧，算你走運，我今天心情好。
+Nope.=不行。
+Not gonna happen.=不可能。
+Mmm... fine.=嗯...好吧。
+That's a deal. Thanks partner.=成交。謝謝夥計。
+No can do, buddy.=沒辦法，兄弟。
+Quit wasting my time!=別浪費我的時間！
+That ain't gonna work for me buddy.=我不吃這套，夥計。
+Yeah, alright. You drive a hard bargain, buddy.=行，算你厲害。你很會討價還價，兄弟。
+Yeah alright. I suppose I can do that.=好啦，我想可以。
+Fine, but you're raking me over here.=好吧，但你這是在敲我竹槓。
+That's a negative, partner.=不行，夥伴。
+Yeah I can do that.=好，我可以。
+Nah, too high.=不行，太貴了。
+Get over here you cheapskate!=你這小氣鬼，給我過來！
+Aight, you got a deal.=好吧，成交。
+I'm gonna beat your ass!=我要揍扁你！
+Son of a bitch!= 臭王八蛋！
+Lines=線條
+HEY! I'm really in need right now. Please tell me you've got something I can buy..?=嘿！\n我現在真的需要。\n請告訴我你有什麼東西可以買..？
+The hell?!=地獄來了嗎？
+#===================================================
+# UI-0.3.3
+#===================================================
+
+{{B}} 10th\nCo-op & deliveries\n\n{{B}} 17th\nCasino\n\n{{A}} 22nd\nBoutique store, wall decorations, pawn shop\n\n{{B}} 24th - Release!\n\n\n={{B}} 10日 合作與交付\\n\\n{{B}} 17日 賭場\\n\\n{{A}} 22日 精品店、牆面裝飾、當舖\\n\\n{{B}} 24日 - 發布！\n\n\n
+Answer 1=答案1
+Inside=裡面
+Outside=外面
+
+#===================================================
+# 罪行罰單
+#===================================================
+BUSTED=逮捕
+
+${{A}} fine (paid in cash)=${{A}} 罰款（以現金支付）
+{{A}}x drug trafficking={{A}}x 毒品販運
+{{A}}x evading arrest={{A}}x 拒捕
+{{A}}x assault={{A}}x 意圖襲警
+{{A}}x assault with a deadly weapon={{A}}x 使用致命武器攻擊
+{{A}}x discharge of a firearm in a public place={{A}}x 在公共場合開槍
+{{A}}x vandalism={{A}}x 破壞公物
+{{A}}x violating curfew={{A}}x 違反宵禁
+{{A}}x possession of low-severity drug={{A}}x 低階嚴重毒品 擁有
+{{A}}x possession of moderate-severity drug={{A}}x 中階嚴重毒品 擁有
+{{A}}x possession of high-severity drug={{A}}x 高階嚴重毒品 擁有
+{{A}} low-severity drugs confiscated={{A}}x 低階嚴重毒品 沒收
+{{A}} moderate-severity drugs confiscated={{A}}x 中階嚴重毒品 沒收
+{{A}} high-severity drugs confiscated={{A}}x 高階嚴重毒品 沒收
+
+
+r:^(\d+)x evading arrest$		=$1x 拒捕
+r:^(\d+)x drug trafficking$		=$1x 毒品販運
+
+Load Last Save=讀取最後的存檔
+END OF THE LINE=終點
+
+Kush=庫什
+TEST=測試
+#===================================================
+# UI
+#===================================================
+{{A}} keep getting robbed? Give them a weapon to defend themselves with.={{A}} 不斷被搶劫？ 給他們一個捍衛自己的武器.
+Don't leave items attended for too long in dead drops, otherwise they might be stolen...=不要將物品長時間留在死信箱中，否則可能會被偷…
+Feeling stingy? {{A}} sometimes won't notice if you give them slightly less product than requested.=感覺小氣嗎？{{A}}有時不會注意到, 您提供的產品, 是否略低於他們的要求.
+{{A}} was first established in {{C}} thanks to the efforts of P.P. {{B}}.={{A}} 起始建立了 {{C}}要感謝 P.P.{{B}} 的努力.
+
+
+Pick up ${{A}}=撿起 $ {{A}}
+Each time you rank up, you can purchase another Spray Paint can at a gas station.=每次排名時，都可以在加油站購買另一個噴漆罐。
+Spraying graffiti will give you XP and reduce cartel influence in that region.=塗鴉 會給您經驗值並減少該區域販毒集團的影響。
+Pick up Cuke=撿起 酷樂
+
+
+{{A}}'s Inventory={{A}} 的道具欄
+r:"(.+)'s Inventory"=$1 的道具欄
+r:"(.+)'s Stash"=$1 的藏匿處
+r:"(.+)\\n\(Dealer\)"=$1（經銷商）
+r:"^Day (\d+)$"=第 $1 天
+sr:"Hey, that drop is ready (.+)"=嘿，那投遞已經準備好在 $1。
+r:"UNLOCK ONE OF (.+?)'S CONNECTIONS FIRST"=必須先解鎖 $1 的其中一位人脈
+Wait for the dead drop ({{A}} mins)=等待死信投遞（{{A}}分鐘）
+r:"Wait for the dead drop \((\d+) mins\)"=等待死信投遞（$1分鐘）
+
+Botanist (planting, plant maintenance, harvesting)=植物學家（種植、植物維護、收成）
+Cleaner (picking up trash, emptying trash cans)=清潔人員（撿垃圾、清空垃圾桶）
+Chemist (chemistry station, lab oven, cauldron, mixing station)=化學家（化學站、實驗室烤箱、鍋爐、混合站）
+our mutual friend has asked me to help you acquire some {{A}} seeds.=我們的共同朋友要我協助你取得一些{{A}}種子.
+Hello, our mutual friend has asked me to help you acquire some {{A}} seeds.=您好，我們的共同朋友要我協助你取得一些{{A}}種子.
+Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.=你好，我們的共同朋友要我協助你取得一些大麻種子。  
+Hyland Point was first established in 1903 thanks to the efforts of P.P. Hyland.=海蘭德角 於 1903 年由 P.P. 海蘭德 的努力首次成立。
+Place a product here for Chelsey to try=請將產品放在這裡，供 切爾西 試用
+Place product here=將產品放在這裡  
+
+Ready to finish=準備好完成
+New Mix Discovered!=發現了新混合！
+(Hold) Dump Contents=（按住）倒出內容物
+(Hold) Jump=（按住）跳躍
+(Hold) Mount=（按住）騎乘
+(Hold) Select Multiple=（按住）選擇多個
+(Hold) Smoke=（按住）吸菸
+(Hold) Snort=（按住）吸食
++ 6 Others=+ 6 其他
+0 days, 0 hours, 0 minutes=0天 0小時 0分鐘
+12 Hrs=<size\=6>12小時
+Not enough space in output slot=輸出格沒有空間
+24 Hrs=<size\=6>24小時
+<color\=#3FD33F>Loyal</color>=<color\=#3FD33F>忠誠</color>
+<color\=#AD3F3F>Hostile</color>=<color\=#AD3F3F>敵對</color>
+<color\=#FFB43C>Deal Expiring Soon</color>=<color\=#FFB43C>交易即將到期</color>
+[Complete Deal]=[<i>完成交易</i>]
+[Counter-offer]=[討價還價]
+[Make an offer]=[接受交易]
+[Schedule Deal]=[安排交易]
+[SPACEBAR]=[空格鍵]
+^Harvested product will be automatically moved to the destination by the assigned botanist=^收穫的產品將由指派的植物學家自動移至目的地
+^Output will be automatically moved to the destination by the assigned botanist=^產出物將由指派的植物學家自動移至目的地
+^Output will be automatically moved to the destination by the assigned packager=^產出物將由指派的包裝員自動移至目的地
+^Output will be automatically moved to the destination by the assigned chemist=^產出物將由指派的化學家自動移至目的地
+^The assigned botanist will remove items from the rack once they reach this quality=^當品質達到此標準時，指派的植物學家將從架上移除物品
+Access delivery bay=使用送貨區
+Access storage=查看儲存
+Access trunk=打開後車廂
+Action can only be performed by host=動作僅限主機執行
+Activate sprinkler=啟動灑水器
+Active Deliveries=進行中的配送
+Active Display=啟用顯示器
+Active=啟用
+Add New=新增
+Add to Cart=加入購物車
+Additive 1=添加劑1
+Additive 2=添加劑2
+Additive 3=添加劑3
+Afternoon=下午
+ALL ()=全部 ()
+All Active Laundering Operations=所有進行中的洗錢作業
+All=全部
+Already contains Fertilizer=已添加肥料
+Already contains PGR=已添加植物生長調節劑PGR
+Already contains seed=已經包含種子
+Already contains Speed Grow=已添加速生劑
+ALREADY RECENTLY OFFERED=<i>最近已提供</i>
+Alright cool, I'll meet you=好啊, 我們碰面
+Ammo=彈藥
+Amount=數量
+Answer phone=接聽電話
+Anti-gravity=反重力
+Any=任何
+Apply Fertilizer=施肥
+Apply {{A}}=使用 {{A}}
+APPLY=確定
+Asking Price=要價
+assault=襲擊
+r:"^([0-9]+) mins left$"=剩下 $1 分鐘 
+discharge of a firearm in a public place=公共場所使用槍械
+
+{{A}} a packaging station to the handler=為包裝工{{A}}包裝站
+{{A}} a pot or grow tent to the botanist=為植物學家{{A}}盆栽或種植帳篷  
+{{A}} a station to the chemist=為化學家{{A}}工作站  
+{{A}} a supplies source to the botanist=為植物學家{{A}}供應來源
+{{A}} a trash can to the cleaner=為清潔員{{A}}垃圾桶
+{{A}} at least {{C}} customers to {{B}}={{A}}至少 {{A}}位顧客 給 {{B}}
+{{A}} at least 3 customers to Benji={{A}}至少3位顧客給 班吉
+{{A}} bed={{A}}床位
+
+Assign a packaging station to the packager=為包裝工指派包裝站
+Assign a pot or grow tent to the botanist=為植物學家分配盆栽或種植帳篷  
+Assign a station to the chemist=為化學家分配工作站  
+Assign a supplies source to the botanist=為植物學家指派供應來源
+Assign a trash can to the cleaner=為清潔員分配垃圾桶
+Assign at least {{B}} customers to {{A}}=分配至少 {{B}}位顧客 給 {{A}}
+Assign at least 3 customers to Benji=指派至少3位顧客給 班吉
+Assign bed=分配床位
+
+From=從
+To=到
+Hello, Xvideos8kHUD=您好，Xvideos8kHUD
+Xvideos8kHUD=Xvideos8kHUD
+S.M=S.M
+A.H=A.H
+S.W=S.W
+sr:"^Already assigned to (.+)$"=已分配給 $1
+
+{{A}} Customer={{A}}客戶
+{{A}} Packaging Stations={{A}}包裝站
+{{A}} Pots/Drying Racks={{A}}盆栽／乾燥架
+{{A}} Stations={{A}}工作站
+{{A}} Trash Cans={{A}}垃圾桶
+{{A}} Packaging Stations={{A}}的包裝站
+{{A}} Pots={{A}}的盆栽
+{{A}} Stations={{A}}的站台
+{{A}} Trash Cans={{A}}的垃圾桶
+
+Assign Customer=分配客戶
+Assign Packaging Stations=指派包裝站
+Assign Pots/Drying Racks=分配盆栽／乾燥架
+Assign Stations=指派工作站
+Assign Trash Cans=分配垃圾桶
+Assigned Packaging Stations=已分配的包裝站
+Assigned Pots=已分配的盆栽
+Assigned Stations=已分配的站台
+Assigned Trash Cans=指定的垃圾桶
+
+Athletic=運動感
+ATM=<size\=22>自動提款機</size>
+Backward=向後
+Bag trash=打包垃圾
+Bagman=中間人
+Bake the liquid meth with the lab oven=用 實驗室烤箱 烘烤 液態冰毒  
+Balding=禿頭
+Baron=巨頭
+Basic system information will be sent with your report.=基本系統資訊將隨報告一併發送
+beaker=燒杯
+Begin Freecam=啟用自由攝影機
+BEGIN=開始
+Begin=開始
+BETA=測試版
+BETTER LUCK NEXT TIME...=祝你下次好運…
+Big Punch=大拳
+Bin is full=垃圾桶已滿
+Block Boss=地盤老大
+BODY SEARCH IN PROGRESS=正在搜身
+BODY SEARCH=身體搜索  
+Botanist=植物學家
+botanists=植物學家
+Botanists=植物學家
+bowl=鍋子
+Bright-Eyed=亮眼
+Bug Report/Feedback=錯誤報告/回饋
+Business Management=商業管理
+Business=生意
+BUST!=<i>爆牌！</i>
+BUY=購買
+Can't sleep while energized!=充滿活力時無法入睡!
+Can't sleep before {{A}} PM=下午 {{A}} 前無法入睡
+Can't sleep before 6:00 PM=下午 6:00 前無法入睡
+CANCEL=取消
+Cardio-Boosting=提升心跳
+Cash=現金
+Category=類別
+Change Amount=更改金額
+Change Quantity=更改數量
+Check out your motel room=查看你的汽車旅館房間
+Cheers bro, I'll meet you=謝啦兄弟，我會
+Chemist=化學
+Chemists=化學家
+chemists=化學家
+Chest=胸部
+Choose Color=選擇顏色
+Choose who to summon=選擇召喚對象
+Cleaner=清潔員
+cleaners=清潔員
+Cleaners=清潔員
+Clear=清除
+Click and hold items to conceal=點擊並按住物品以隱藏
+Click and hold tap to refill watering can=點擊並按住水龍頭以補充澆水壺
+Click and hold<color\=#62BDFF> right mouse button</color> over an object to pick it up.=點住<color\=#62BDFF>滑鼠右鍵</color>就能撿起東西。
+Click baggie to seal=點擊封口密封
+Click cap to remove=點擊蓋子以移除  
+Clipboard used to manage equipment and employees.=管理設備與員工用的剪貼簿。
+Close curtains=關上窗簾
+Close oven door=關上烤箱門
+Close shutters=關閉百葉窗
+CLOSE=關閉
+Close=關閉
+Clothing=服裝
+Clubs=俱樂部
+Collect output=收成產品
+COLLECT=收取
+Color=顏色
+Combine ingredients in beaker=把原料倒進燒杯混合
+Come here, you are being searched=來這裡，你正在接受搜查  
+Coming January 2025=預定於2025年1月推出
+Complete Deal=完成交易
+Complete your first deal=完成你的第一筆交易
+Completed=已完成
+Confirm (<color\=#54E717>$100</color>)=確認 （<color\=#54E717>$100</color>）
+Console=控制台
+Contacts=通訊錄
+Contains items=包含物品
+Contains plant=包含植物
+Contains trash=內含垃圾
+CONTINUE=繼續
+Continue=繼續
+Controls=控制
+Cook liquid meth at the chemistry station=在化學站製作液態冰毒  
+COOK=烹製
+Cooking in progress...=正在煮...
+Counter-offer=還價
+Counter=櫃檯
+COUNTER=駁回
+Cuffing...=戴上手銬中…
+Current Time=當前時間
+Current total=目前總額
+Currently cooking=目前正在烹煮
+Currently in use=目前使用中
+CUSTOMER ALREADY HAS A PENDING OFFER=客戶已經有待處理的訂單
+CUSTOMER ALREADY HAS A PENDING OFFER=這客人已經在考慮別的交易了
+{{A}} expectations not met=未達到{{A}}期望
+Customer expectations not met=未達到顧客期望
+CUSTOMER IS WAITING FOR A DEALER=這客在等經銷商
+Customer Name=顧客名稱
+{{A}} Receives={{A}}收到
+Customer Receives=客戶收到
+CUSTOMER RECENTLY COMPLETED A DEAL=客戶最近完成了一筆交易
+CUSTOMER RECENTLY COMPLETED A DEAL=這客人剛完成一筆交易
+Cut=抽成
+Cyclopean=獨眼人
+Daily wage:=每日工資：
+Deal <color\=#54E717>($75)</color>=成交 <color\=#54E717>($75)</color>
+Dealer Earnings=經銷商收益
+Dealer Management=經銷商管理
+Debt=債務
+Delivery Bay=送貨區
+Delivery Fee=運送費用
+DEPOSIT=存款
+Deselect All=取消全選
+Destination cannot be the same as the source=目的地不能跟來源相同
+Destination=目的地
+Different object types can't be multi-edited=無法同時編輯不同類型的物件
+Discard=丟棄
+Dismiss=關閉
+Dismount=下車
+Flush=沖水
+Disorienting=迷幻
+Dispense soil=放置土壤
+Does not match type requirement=不符合類型要求
+Done=完成
+Drag Multiple=拖動多個
+Drag packaged product into output=<i>將包裝好的產品放入輸出欄位</i>
+Drag packaging + product into slots=<i>將包裝和產品放入欄位</i>
+Drag product + packaging into slots=<i>將產品與包裝放入欄位</i>
+Drop Product=投出產品
+Drop seed into hole=將種子丟進洞裡  
+DROP=丟掉
+DROP=投
+drug trafficking=販毒
+DRY=乾燥
+DRY=烘乾
+Electrifying=觸電感
+Email (Optional)=電子郵件（可選）
+Energizing=提神
+Enforcer=執行者
+Enter price...=輸入價格…
+Enter vehicle=進入車輛
+Enter vehicle=進入載具
+Esc=Esc
+Euphoric=欣快
+evading arrest=逃避逮捕
+Evening=晚上
+Exit Vehicle=離開車輛
+Exit=退出
+EXIT=退出
+Explore Hyland Point and talk to some people of interest.=探索 海蘭德角 並與感興趣的人交談。
+Explosive=爆炸性
+Eyebrows=眉毛
+failure to comply with police instruction=未遵守警方指示
+Feet=腳
+File Permission Issue=檔案權限問題
+{{A}} Permission Issue=檔案權限問題
+Fill watering can=裝滿澆水壺
+Finalize=最終確認
+Focused=專注
+Foggy=迷濛
+Forward=向前
+Free=免費
+Freecam Pos:=自由攝影機位置：
+Freecam=自由攝影機
+Full Game Features\n=完整版遊戲特色\n
+Gain access to the warehouse=進入倉庫
+Game saved!=遊戲已保存！
+Game Saved!=遊戲已保存！
+Game settings can only be configured by the host=遊戲設定只能由房主設定
+Game=遊戲
+Gas-Mart (Central)=加油站超市（中央）
+Gas-Mart (West)=加油站超市（西區）
+General (legal) supplies=一般（合法）用品
+General illegal supplies=一般非法用品
+Gingeritis=紅髮症
+Give Free {{A}}=提供免費{{A}}
+Give Free Sample=提供免費樣品
+Glowing=亢奮
+Go to the hardware store=前往五金行
+
+Great. It'll be <color\=#54E717>$75</color> for the week, ok?=太好了。一週是 <color\=#54E717>$75</color>，可以嗎？
+Greetings. You can now get your supplies delivered directly to your properties. Use the deliveries app on your phone to place an order.=現在你可以直接送貨到自己地點，用手機的配送App下單就行
+Handbrake=手剎
+Handler=處理工
+handler=處理工
+Handlers=處理工
+Harvest=收成
+Head=頭
+Heavenly=天堂級
+Hell yeah my friend, I'll meet you=當然啦兄弟，我會
+Here's my range of ammo, what sort do you need?=這是我賣的彈藥種類，你要什麼類型的？
+High standards.=高標準
+High=高
+Hold still - you are under arrest!=保持靜止 - 你正在被捕！
+Hoodlum=流氓
+Hover a task to view details=將滑鼠懸停於任務以查看詳情
+Hustler=騙徒
+HYDROBRO=水電  
+I'd like to purchase something=我想買東西
+I'M DONE=完成
+I=I
+If a customer rejects a sample, you'll have to wait until <color\=#88CBFF>tomorrow</color> before you can give them another.=如果客人拒收樣品，你得等到 <color\=#88CBFF>明天</color> 才能再給一次。
+If you want to drive through here, I'll need to search your vehicle.=如果你想開車通過這裡，我需要檢查過你的車輛。  
+If you're wondering how to do something, \nthere's usually input hints in the bottom left corner.=不會操作？\n通常左下角會有提示。
+II=II
+III=III
+In a fresh town with no cash, no product, and no contacts.=在一個沒有現金、沒有產品、也沒有聯絡人的新鎮中.
+In use by workers=工人正在使用
+Include Save File?=是否包含存檔？
+Include Save {{A}}?=是否包含存檔？
+Include Screenshot?=是否包含螢幕截圖？
+Incompatible game version=遊戲版本不相容
+Ingredient=原料
+Ingredients and packaging=原料與包裝
+Ingredients=原料
+Initializing...=初始化中...
+Input Hints=操作提示
+Input=輸入
+Insert \nmixer=放入\n混合器
+Insert \nweed=放入\n大麻
+Insert product into packaging=將產品放入包裝機
+Ingredient is not cookable=此原料無法烘烤
+Insert soil=加入土壤
+Insert {{A}}=放入{{A}}
+Insert Trash=放入垃圾  
+Insert unpackaged product and mixing ingredient=<i>放入未包裝的產品與混合成分</i>
+Inspect Under Mouse=檢查滑鼠下方項目
+INSUFFICIENT BA{{A}}NCE=餘額不足
+INSUFFICIENT BALANCE=餘額不足
+Insufficient cash. Visit an ATM to withdraw cash.=現金不足，請去ATM領錢
+INSUFFICIENT CASH=現金不足
+Insufficient online balance. Visit an ATM to deposit cash.=線上餘額不足。請前往 ATM 存入現金。
+Insufficient online balance=線上餘額不足
+Interact / Drag=互動 / 拖動
+Inventory full=道具欄已滿
+INVENTORY FULL=道具欄已滿
+Inventory won't fit everything. Some items will be placed on the pallets.=庫存無法容納全部物品，多出的物品將放到棧板上。
+Inventory=物品欄
+INVESTIGATING=調查中
+It's already paid for=已經付過錢了
+Item Limit=物品上限
+Item Name=物品名稱
+Item Splitting=物品拆分
+Item Total=物品總計
+Item won't fit in inventory=物品無法放入庫存
+IV=IV
+IX=IX
+Join local as client=以用戶身分加入本地遊戲
+Kingpin=首腦
+Knock=敲門
+Last save was 2 minutes ago=上次保存於2分鐘前
+Late Night=深夜
+Launder=洗錢
+Laundering involves using a legal business to conceal the origin of your less-than-legal cash.=洗錢就是用合法店面掩護你的非法收入
+Laundering Timeline=洗錢進度表
+Laxative=瀉藥
+Left=向左
+Lethal=致命    
+LEVEL UP!=升級！
+List For Sale?=出售清單？
+Load Into Vehicle=載入車輛
+Loading data...=載入數據中…
+Loading data...=載入資料中…
+Loading Dock=裝卸貨區
+Log Unity Debug?=記錄Unity除錯資訊？
+Log=紀錄
+Long faced=面癱
+Low standards.=低標準
+Low=低
+Lower boiling flask=將燒瓶放低
+
+Manage Botanist=管理植物學家
+Manage Chemist=管理化學家
+r:Manage (\d+x) Drying Rack=管理 $1 乾燥架
+r:Manage (\d+x) Packaging Station=管理 $1 包裝站
+r:Manage (\d+x) Mixing Station=管理 $1 混合站
+r:Manage (\d+x) Brick Press=管理 $1 磚壓機
+r:Manage (\d+x) Lab Oven=管理 $1 實驗室烤箱
+r:Manage (\d+x) Chemistry Station=管理 $1 化學站
+r:Manage (\d+x) Cauldron=管理 $1 鍋爐
+r:Manage (\d+x) Pot=管理 $1 盆栽
+Manage business=管理業務
+Manage Chemistry Station=管理化學站  
+Manage Cleaner=管理清潔員  
+Manage Drying Rack=管理乾燥架  
+Manage Handler=管理處理工
+Manage Lab Oven=管理實驗室烤箱
+Manage Mixing Station=管理混合站  
+Manage Packaging Station=管理包裝站  
+Manage Pot=管理盆栽
+Management Clipboard=管理寫板夾
+Medium=中等
+Melee=近戰
+MESSAGE=訊息
+Messages=訊息
+Mixed=混合
+Mixing in progress...=正在混合中…
+Moderate standards.=中標準
+Moderate=適中
+Morning=早上
+Mouse Position:=滑鼠位置：
+Move All=全部移動
+Move Camera=移動相機
+Move Custom Amount=移動自訂數量
+Move Speed:=移動速度：
+Move=移動
+Multi-editing not supported=不支援多項編輯
+Multiplayer is in beta, there may be bugs.=多人遊戲處於測試版，可能會有錯誤發生。
+Multiplayer=多人遊戲
+Munchies=點心
+NEEDS WATER=需要水分
+Neutral=中性
+Nevermind=當我沒說
+New Customer Unlocked!=已解鎖新客戶！
+NEW REGION UNLOCKED!=新區域已解鎖！
+Next=下一個
+Night=夜晚
+No Active Laundering Operations=目前沒有洗錢活動
+No hits...=沒有結果…
+No plant in this pot=這個盆栽沒有種植作物
+No plant=沒有植物
+No Recipe Specified=沒指定配方
+No soil=沒有土壤
+No=不
+Note=備註
+Mornin' dude=早喔 老兄
+Nothing selected=未選擇
+Nothing to do for now...=目前沒有任何任務...
+NOW AVAILABLE:=現在可用：
+NPC Name=NPC 名稱
+Offer a free sample to a potential customer=向潛在客戶提供免費樣本  
+Offer Deal=提供交易  
+offer=提供
+Ok fine. What time?=好吧，什麼時候交易？
+Ok, I'll meet you=好, 我們碰面
+Online balance only=只限線上餘額
+Online Balance=線上餘額
+Only 1 sample product is required.=只要提供 1 份樣品就夠了。
+Only host can save=只有主機可以存檔
+Only open after 6PM=只在下午六點後開門
+Open briefcase=打開公事包
+Open curtains=打開窗簾
+Open Log File=打開紀錄檔案
+Open oven door=打開烤箱門
+Open safe=打開保險箱
+Open shutters=打開百葉窗
+Open the map app to see your potential customers=開啟地圖查看潛在顧客  
+Open=打開
+Options=選項
+OR=或者
+Order Limit =訂單上限
+Order Limit=訂單上限
+Order Submitted=訂單已提交
+Order Total=訂單總計
+Order won't fit in inventory=訂單無法放入物品欄中
+Out of stock=已售完
+Output=輸出
+PACK=包裝
+PACKAGE=<i>包裝</i>
+Packagers=包裝員
+packagers=包裝員
+Paranoia=偏執
+PAUSED=暫停
+Peddler=小販
+Pick up Baseball Bat=拿起棒球棒
+Pick up {{A}}=拿起 {{A}}
+Picking Objects Up=撿東西
+Pickpocket=扒竊
+Manage Cauldron=管理鍋爐
+Place <color\=#4CB0FF>packaged product</color> here and the dealer will sell it to assigned customers=將<color\=#4CB0FF>包裝好的產品</color>放這裡，經銷商會賣給分配的客戶
+Place cookable item in ingredient slot=將可煮的東西放進原料格
+Place Item=放置物品
+Place items onto tray=將物品放到托盤
+Place lid on jar=將蓋子蓋在罐子上
+Place Order=送出訂單
+Place packaging in hopper=將包裝放在漏斗中
+Place product into packaging=將產品放入包裝袋中
+Place the expected products here.=請將過期產品放置於此
+Place the mixing station=放置混合站
+Player Earnings=玩家收益
+Player Name=玩家名稱
+Player=玩家
+Please wait while we process the transaction=請稍候，我們正在處理交易
+Police are nearby!=附近有警察！
+Police curfew starting soon=警方即將實施宵禁
+Poor=劣質
+possession of controlled substances=持有管制藥品
+possession of high-severity drug=持有高級別毒品
+possession of low-severity drug=持有低級別毒品
+possession of medium-severity drug=持有中級別毒品
+possession of moderate-severity drug=持有中級別毒品
+Pot=盆栽
+Pour liquid into tray=將液體倒入托盤中
+Pour mixture into boiling flask=將混合物倒入燒瓶中
+Pour water over target=將水倒在目標上
+Pour water=倒水
+Pre-release roadmap=發售前路線圖
+Premium {{A}}=高級{{A}}
+Premium=頂級
+Preset=預設
+Press <color\=#88CBFF>Tab</color> to open your phone.=按下<color\=#88CBFF>Tab</color>以開啟手機
+Press key...=請按任意鍵…
+Press ~ (tilde) to toggle=按 ~ (tilde) 切換
+PREVIEW=預覽
+Processing...=處理中…
+Product Manager=產品管理
+Product must be packaged=產品必須包裝。
+Product=產品
+Products Sold=產品出售
+Pull handle=拉手把
+Purchase {{A}}=購買{{A}}
+PUSH=推
+Quantity=數量
+Quick Move=快速移動
+r:"(.+) chance of succes"=$1 成功機率
+r:"(.+)'s favourite effects:"=$1 最喜歡的效果：
+r:"(?i)^Bagman ([IVX]+)$"=中間人 $1
+r:"(?i)^Baron ([IVX]+)$"=巨頭 $1
+r:"(?i)^Block Boss ([IVX]+)$"=地盤老大 $1
+r:"(?i)^Enforcer ([IVX]+)$"=執行者 $1
+r:"(?i)^Hoodlum ([IVX]+)$"=地痞 $1
+r:"(?i)^Hustler ([IVX]+)$"=騙徒 $1
+r:"(?i)^Kingpin ([IVX]+)$"=首腦 $1
+r:"(?i)^Peddler ([IVX]+)$"=小販 $1
+r:"(?i)^Shot Caller ([IVX]+)$"=指揮者 $1
+r:"(?i)^Street Rat ([IVX]+)$"=過街老鼠 $1
+r:"(?i)^Underlord ([IVX]+)$"=地下權威 $1
+^Mixing station must contain at least this many product/mixers before mixing starts=^混合站必須包含至少這麼多的產品/原料，才能開始混合。
+r:"(\d+) \/ (\d+) XP"=$1 / $2 經驗值
+r:"(\d+) Customers\n(\d+) Suppliers\n(\d+) Dealer"=$1 個客戶\n$2 個供應商\n$3 個經銷商
+r:"(\d+) days, (\d+) hours, (\d+) minutes"=$1天，$2小時，$3分鐘
+r:"(\d+) low-severity drugs confiscated"=沒收$1種低風險藥物
+r:"(\d+) potential customers\\n(\d+) dealer"=$1個潛在客戶\n$2個經銷商 
+r:"(\d+) potential customers\\n(\d+) dealer\\n(\d+) supplier"=$1個潛在客戶\n$2個經銷商\n$3個供應商 
+r:"(\d+) seconds since last save"=距離上次存檔 $1 秒
+r:"(\d+)% chance of customer accepting"=客戶接受的機率為 $1%
+{{A}}% chance of customer accepting=客戶接受的機率為 {{A}}%
+r:"(\d+)\/(\d+) XP"=$1/$2 經驗值
+sr:"<color\=#FFC73D>(\d+)x</color> (.+)"=<color\=#FFC73D>$1 份</color> $2
+r:"^(?i)(<color\=#16F01C>\$\d{1,3}(?:,\d{3})?<\/color>) Laundered$"=$1 已洗錢
+r:"^(?i)([A-Za-z]+) is out dealing$"=$1出去交易
+r:"^(?i)([A-Za-z]+) is paying <color\=#50E65A>(.+)<\/color> for:$"=$1 將會支付 <color\=#50E65A>$2</color> 購買：
+r:"^(?i)(\d+) mins remaining$"=剩下 $1 分鐘
+{{A}} mins remaining=剩下 {{A}} 分鐘
+r:"^(?i)(\d+)\% grown$"=$1% 成熟
+r:"^(?i)(\d+)\.(\d+)L$"=$1.$2公升
+r:"^(?i)(\d+)\/(\d+) XP$"=$1/$2 經驗值
+r:"^(?i)(\d+)\:(\d+) AM (.+)$"=$3 上午 $1:$2
+r:"^(?i)(\d+)\:(\d+) AM$"=上午$1:$2
+r:"^(?i)(\d+)\:(\d+) PM (.+)$"=$3 下午 $1:$2
+r:"^(?i)(\d+)\:(\d+) PM$"=下午$1:$2
+r:"^(?i)(\d+)\:(\d+)$"=$1:$2
+r:"^(?i)(\d+)AM$"=上午$1點
+r:"^(?i)(\d+)h (\d+)m until next tier$"=$1h $2m直到下一層
+r:"^(?i)(\d+)m$"=$1公尺
+r:"^(?i)(\d+)PM$"=下午$1點
+r:"^(?i)-(\d+) mins remaining$"=-剩下 $1 分鐘
+-{{A}} mins remaining=-剩下 {{A}} 分鐘
+r:^Agreed\. I'll be (.+) for the next (\d+) hours\.$=同意. 接下來 $2 小時 我會在 $1.
+r:"^(?i)Agreed\. I'll be (in|under) the ([\w\s]+) for the next (\d+) hours\.$"=行，接下來 $3 小時我會在$2。
+r:"^(?i)Assign Pots/Drying Racks \((\d+)/(\d+)\)$"=分配盆栽/乾燥架（$1/$2）
+r:"^(?i)Assign Stations \((\d+)\/(\d+)\)$"=已分配站位（$1/$2）
+r:"^(?i)Assigned Trash Cans \((\d)\/3\)$"=已分配的垃圾桶（$1/3）
+r:"^(?i)Hey, have you got (\d+)x (.+?)\? I'll pay <color=\\#46CB4F>\\\$([\d,]+)<\/color> for it$"=嘿，你有$1 份 $2 嗎？我會出 <color\=#46CB4F>$$3</color> 
+r:"^(?i)I NEED (\d+)x (.+)\. I GOT (.+)\. DEAL\?$"=我需要 $1 份 $2。我有 $3。成交嗎？
+r:"^(?i)Place cash in the briefcase on the (.+?)'s bed$"=將現金放在$1床上的公事包中
+r:"^(?i)That'll be a (<color\=#54E717>\$\d{1,3}(?:,\d{3})?<\/color>) signing free, and the employee's daily wage will be (<color\=#54E717>\$\d{1,3}(?:,\d{3})?<\/color>)\.$"=簽約費為 $1，員工每日工資為 $2。
+r:"^(\$.+) fine \(paid in cash\)"=$1 罰款（以現金支付）
+r:"^(\d+) of (\d+)"=1 / $2
+r:"^(\d+)\:(\d+) AM$"=上午$1:$2
+r:"^(\d+)\:(\d+) PM$"=下午$1:$2
+r:"^(\d+)AM-(\d+)AM$"=$1AM-$2AM
+r:"^(\d+)AM-(\d+)PM$"=$1AM-$2PM
+r:"^(\d+)PM-(\d+)AM$"=$1PM-$2AM
+r:"^(\d+)PM-(\d+)PM$"=$1PM-$2PM
+r:"^<color\=#54E717>(\+\$\d+)</color> Curfew Bonus$"=+<color\=#54E717>$1</color> 宵禁獎金
+r:"^<color\=#54E717>(\+\$\d+)</color> Quality Bonus$"=+<color\=#54E717>$1</color> 品質獎金
+r:"^<color\=#54E717>(\+\$\d+)</color> Quick Delivery Bonus$"=+<color\=#54E717>$1</color> 快速交貨獎金
+<color\=#54E717>+${{A}}</color> Quick Delivery Bonus=<color\=#54E717>+$ {{A}}</color> 快速交貨獎金
+r:"^Forfeit and collect <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>$"=沒收並拿走 <color\=#54E717>$1</color>
+r:"^Working on it\. Should be ready in around (\d+) hour(s?) (\d+) min$"=正在處理中。大約$1小時$3分鐘內準備完畢
+r:"^Working on it\. Should be ready in around (\d+) hour(s?)$"=正在處理中。大約$1分鐘內準備就好
+r:"^Working on it\. Should be ready in around (\d+) min(s?)$"=正在處理中。應該在大約$1分鐘內準備就緒
+r:"Assign Packaging Stations \((\d+)/(\d+)\)"=分配包裝站（$1/$2）
+r:"Assign Trash Cans \((\d+)/(\d+)\)"=分配垃圾桶（$1/$2）
+r:"Assigned Stations \((\d+)/(\d+)\)"=已分配的站台（$1/$2）
+r:"Assigned to (.+)"=分配給$1
+r:"Ay bro you got ([0-9]+)x (.+?)\? I'll pay <color\=#46CB4F>(.+?)<\/color> for it"=兄弟，你有 $1 份 $2 嗎？我會出 <color\=#46CB4F>$$$3</color>。
+r:"Ayo dawg, if you got (.+) I'll pay <color\=#46CB4F>(.+)<\/color> for it. Deal?"=嘿兄弟，如果你有 $1，我願意付 <color\=#46CB4F>$2</color>，成交？
+r:"Click and hold over buds to harvest \((\d+)/(\d+)\)"=使用滑鼠點擊並按住,劃過芽胚進行收穫（$1/$2）
+Click buds to harvest ({{A}})=點擊芽胚以收成（{{A}}）
+r:"Click buds to harvest \((\d+)\/(\d+)\)"=點擊芽胚以收成（$1/$2）
+r:"Click soil chunks to bury seed \((\d+)\/(\d+)\)"=點擊土塊以掩埋種子（$1/$2）
+r:"Complete 3 deals (.+)"=完成3筆交易 $1 
+r:"Cover soil with Fertilizer \((\d+)%\)"=用肥料覆蓋土壤（$1％）
+r:"Cover soil with PGR \((\d+)%\)"=用 PGR 覆蓋土壤（$1％）
+r:"Cover soil with Speed Grow (.+)"=使用速生劑覆蓋土壤 $1
+r:"CURFEW ACTIVE\n UNTIL (\d+)AM"=宵禁實施直到\n上午 $1 點
+r:"CURFEW ACTIVE\n(\d+)PM - (\d+)AM"=宵禁實施\n下午$1點 - 上午$2點
+r:"CURFEW SOON\n(\d+) MINS"=宵禁即將實施\n 在 60 分鐘後
+#r:"CURFEW TONIGHT\n(\d+)PM - (\d+)AM"=宵禁實施\n<size\=45>下午$1點 - 上午$2點
+CURFEW TONIGHT\n{{A}}PM - {{B}}AM"=宵禁實施\n<size\=45>下午{{A}}點 - 上午{{B}}點
+{{A}}CBC{{B}}FF={{A}}cbc{{B}}ff
+CA{{A}}D{{B}}FF=ca{{A}}d{{B}}ff
+{{A}}PM - {{B}}AM={{A}}PM -{{B}}AM
+CURFEW TONIGHT=宵禁實施
+CURFEW TONIGHT\n9PM - 5AM=宵禁實施\n下午9點-上午5點
+CURFEW TONIGHT\n{{A}}PM - {{B}}AM=宵禁實施{{A}}下午-{{B}}上午
+
+View mailbox=查看郵箱
+Hyland Manor Mailbox=海蘭德莊園郵箱
+{{A}} Mailbox={{A}} 信箱
+Insert requested product here=在此處插入請求的產品
+
+
+What do you have for sale?=你有什麼可以賣的?
+Hey there, I'm {{B}} - {{A}}'s best real estate agent. Come talk to me if you're looking to purchase something.=你好, 我是 {{B}} - {{A}}最棒的房產經紀人。\n如果您想買房，歡迎來找我。
+Hey there, I'm Ray - Hyland Point's best real estate agent. Come talk to me if you're looking to purchase something.=你好, 我是 睿 - 海蘭德角最棒的房產經紀人。\n如果您想買房，歡迎來找我。
+You can see all the available listings on the whiteboard to your left.=您可以在左側的白板上看到所有可用的清單。
+
+
+B{{A}}B{{B}}B{{C}}FF=B{{A}}B{{B}}B{{C}}FF
+FF{{A}}B{{B}}CFF=FF{{A}}B{{B}}CFF
+FF{{A}}DFAFF=FF{{A}}DFAFF
+
+Order too large=訂購太多
+{{A}}L={{A}}L
+Combine leaves and gasoline in cauldron=把 葉子 和 汽油 放入鍋爐中混合
+Mix Already Exists=混合已經存在
+Start cauldron=啟動鍋爐
+View table=查看桌子
+Table=桌子
+Access coffee table=查看咖啡桌
+Delivery already in progress=正在出貨中
+r:"Earn (.+) \((.+)\/(.+)\)"=賺取 $1 ($2/$3)
+r:"Pour product into mould \((\d+)/(\d+)\)$"=將產品倒入模具 ($1/$2)
+Rotate handle quickly to press product=快速旋轉手把，以壓實產品。
+This delivery is currently in transit.=這批貨物目前正在運送中。
+This delivery has arrived and is ready to be unloaded.=這批貨物已抵達，準備卸貨。
+r:"Fair price: (.+)"=公平價格：$1
+r:"Got it\. I'll let you know when it's ready\. Should be about (\d+) hour(s?) (\d+) min\.$"=了解。大約 $1 小時 $3 分鐘後準備完畢時我會通知你。
+r:"Got it\. I'll let you know when it's ready\. Should be about (\d+) hour(s?) (\d+) min$"=了解。大約 $1 小時 $3 分鐘後準備完畢時我會通知你。
+r:"Got it\. I'll let you know when it's ready\. Should be about (\d+) hour(s?)\.$"=了解。大約 $1 小時後準備就緒時我會通知你。
+r:"Got it\. I'll let you know when it's ready\. Should be about (\d+) hour(s?)$"=了解。大約 $1 小時後準備就緒時我會通知你。
+r:"Got it\. I'll let you know when it's ready\. Should be about (\d+) min$"=了解，準備好後我會通知你。大約需要 $1 分鐘。
+r:"Got it\. I'll let you know when it's ready\. Should be about (\d+) mins$"=了解，準備好後我會通知你。大約需要 $1 分鐘。
+r:"Hey, can I get (\d+)x (.+)? I'll pay <color\=#46CB4F>(.+)<\/color>"=嘿，我可以要 $1份 $2 我會出 <color\=#46CB4F>$3</color>
+r:"Hey, have you got (\d+)x (.+?)? I'll pay <color\=#46CB4F>(.+?)<\/color> for it"=嘿，你有 $1 份 $2 嗎？我出 <color\=#46CB4F>$3</color>，成交嗎？
+r:"How about (\d+)x (.+) for (.+)?"=$1 份 $2 賣 $3，怎麼樣？
+r:"Insert <color\=#FFC73D>(\d+x)</color> coca leaves and <color\=#FFC73D>(\d+x)</color> gasoline"=放入 <color\=#FFC73D>$1</color> 古柯葉和 <color\=#FFC73D>$2</color> 汽油
+r:"It is (\d+)AM "=現在是上午 $1 點 
+r:"It is (\d+)PM "=現在是下午 $1 點 
+Just reminding you that you owe me <color\=#46CB4F>${{A}}</color>. Please deposit the amount into my stash box when you're ready.=只是提醒你你欠我 <color\=#46CB4F>${{A}}</color>。\n準備就緒後，請將金額存入我的存儲盒中。
+r:"Just reminding you that you owe me <color\=#46CB4F>(.+?)<\/color>\. Please deposit the amount into my stash box when you're ready\."=只是提醒你你還欠我 <color\=#46CB4F>$1</color>。\n準備好後，請把金額放進我的藏匿盒中。
+r:"Place a product here for (.+) to try"=將產品放在這裡供 $1 嘗試
+Players ({{A}})=玩家（{{A}}）
+r:"Players \((\d+)\/(\d+)\)"=玩家（$1/$2）
+r:"Police curfew in effect until (\d+)AM"=警方實施宵禁至上午 $1 點
+r:"Potential Customer\n(.+)"=潛在客戶\n$1
+Potential Dealer\n{{A}}=潛在經銷商\n{{A}}
+r:"Potential Dealer\n(.+)"=潛在經銷商\n$1
+r:"REACH 'FRIENDLY' WITH ONE OF ([A-Z']+)'S CONNECTIONS"=與其一位人脈達到$1達到「友好」關係
+Start burner ({{A}}%)=啟動燃燒器（{{A}}％）
+r:"Start burner \((\d+)%\)"=啟動燃燒器（$1％）
+Stir mixture ({{A}}%)=攪拌混合物（{{A}}％）
+r:"Stir mixture \((\d+)%\)"=攪拌混合物（$1％）
+r:"Talk to (.+)"=與 $1 交談
+r:"Thank you\. You should go talk to ([A-Za-z' ]+) - they might be able to help you move your stuff\."=謝謝。你應該去和$1交談——他們也許可以幫助你移動你的東西。
+r:"Total: <color\=#5AB95A>(.+)"=總結： <color\=#5AB95A>$1
+r:"Total: <color\=#5AB95AFF>(.+)<\/color>"=總計： <color\=#5AB95AFF>$1</color>
+r:"U got (\d+)x (.+?)\?\?\? I'll pay <color\=#46CB4F>(.+?)<\/color> for it\. DEAL\?"=你有 $1 份 $2 嗎？我會付 <color\=#46CB4F>$3</color>，成交？
+r:"View (.+)'s stash"=查看 $1 的藏匿處
+r:"Wait (\d+)s"=等待 $1 秒
+r:"Waking up at (\d+):(\d+) AM"=在上午 $1:$2 醒來
+r:"You can now hire <color\=#88CBFF>(.+?)<\/color> as a dealer\."=你現在可以僱用 <color\=#88CBFF>$1</color> 作為經銷商。
+r:"You got (\d+)x (.+?)\? I'll pay <color\=#46CB4F>(.+)<\/color> for it"=你有 $1 份 $2 嗎？我會以<color\=#46CB4F>$3</color>購買
+r:"You have deposited (.+)"=你已存入 $1 至你的帳戶
+r:"You have withdrawn (.+)"=你已提取 $1 美元
+r:"Unlock (\d+) customers (.+)"=解鎖 $1 個客戶 $2
+r:"• Unlock (.+) customers (.+)"=• 解鎖 $1 個客戶 $2
+r:\+\$(\d{1,3}(?:,\d{3})*)\sBonus=\+\$1 獎金
+r:^Pots/Drying Racks \((\d+)/(\d+)\)$=盆栽/乾燥架（$1/$2）
+Raise boiling flask above burner=將沸騰瓶抬到燃燒器上方
+Ranged=遠程
+Rank\n\n\nRequired for this region=等級\n\n\n該地區需要相對等級
+Ready to begin cooking=可以開始烹製了
+Ready to collect product=準備收貨
+Recipe=配方
+Refreshing=清新
+Releasing on <color\=#7FFD63>March 24th</color> \n\n=發行日期：<color\=#7FFD63>3月24日</color>\n\n
+Releasing on <color\=#7FFD63>March 24th</color>=預定於<color\=#7FFD63>3月24日</color>發行
+Rent a motel room=租一間汽車旅館房間  
+Report Type=報告類型
+Request dead drop=請求死信投遞
+Required=必填
+Man, I'm aight...=伙計，我還行...
+Respawn=重生
+Restart=重啟
+Return to menu=返回選單
+Reverting in 30s=30 秒後恢復
+Right=向右
+Rotate Conveyor=轉動輸送帶
+Rotate Held Item=旋轉手持物品
+Rotate Pot=旋轉盆栽
+Rotate=旋轉  
+Routes=路線
+SAMPLE ALREADY OFFERED TODAY=今天已經給過樣品了
+Satisfaction=滿意度
+Saturday=週六
+Save game=存檔遊戲
+Save Options=儲存設定
+Schedule I pre-release=《Schedule I》預發行版本
+Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=《Schedule I》無法驗證文件寫入權限；保存時可能會出錯。這通常是因為 Windows 阻擋了文件寫入權限。\n\n若保存功能仍正常，可忽略此警告。
+Schedule I will be releasing in <color\=#5DD642>March 2025.</color>=《Schedule I》將於<color\=#5DD642>2025年3月</color>發布。
+Schedule I 將於 <color\=#5DD642>2025 年 3 月</color> 發行。\n\n如果你喜歡這個試玩版，請考慮將它加入願望清單 <color\=#000000><size=0>.</size>\n\n<color\=#5DD642>完整版特色</color>\n
+Schizophrenic=精神分裂
+Seizure-Inducing=誘發癲癇
+Select a category=選一個分類
+Select a destination=選擇一個目的地
+Select a friend of an unlocked customer in your contacts app=在通訊錄應用中選擇一位已解鎖顧客的朋友  
+Select a loading dock=選擇一個卸貨碼頭
+Select a product to view details=選一項商品查看詳情
+Select a single instance to use this=選一個實例來使用這個
+Select amount to deposit=選擇存款的金額
+Select amount to withdraw=選擇提取金額
+Select an object or employee to manage it=選一個物件或員工來管理
+Select Deal Time=選擇交易時間
+Select Recipe=選擇配方
+Select seed=選擇種子
+Select source=選擇來源
+Select/Deselect=選／取消
+Select=選擇
+Selected destination has no loading docks=這個目的地沒有卸貨區
+Send=發送
+Set the pot/grow tent destination=設定盆栽／帳篷目的地  
+Set the pot/grow tent destination=設置盆栽或帳篷目的地
+SFX=音效
+Shot Caller=指揮者
+Show on map=在地圖上顯示
+Shrinking=收縮
+Sick as, I'll meet you=酷喔，我會
+Skipping...=跳過...
+Sleep=睡覺
+Slippery=滑溜
+<Message>=<Message>
+
+Source cannot be the same as the destination=來源不能跟目標一樣
+Source=來源
+Speed Up Search=加快搜索  
+Spicy=辛辣
+sr:"(?i)^Unlocks at <color\=#2DB92D>(.+) ([IVX]+)</color>$"=達到 <color\=#2DB92D>$1 $2</color> 後解鎖
+sr:"(\d+) hrs"=$1 小時
+sr:"(\d+)h"=$1 小時
+sr:"(\d+x) (.+)\, (.+)"=$1 $2 | $3
+sr:"<color\=#([0-9A-Fa-f]{8})>•  (.+)</color>\n<color\=#([0-9A-Fa-f]{8})>•  (.+)</color>\n<color\=#([0-9A-Fa-f]{8})>•  (.+)</color>"=<color\=#$1>•  $2</color>\n<color\=#$3>•  $4</color>\n<color\=#$5>•  $6</color>
+sr:"^(?<npc>[A-Za-z].+) has requested a delivery of (?<qty>[0-9]+)x (?<item>(?:[A-Z][A-Za-z]*\s*)+) (?<loc>.+) for (?<price_i>\$\d+)\.$"=${npc}要求將${qty}份${item}送到${loc}，價格為${price_i}。
+sr:"^(?i)(.+), Day (\d+)$"=$1，第 $2 天
+sr:"^(?i)AVAILABLE AT ([A-Z]+ [IVX]+)$"=可在 $1 解鎖
+sr:"^(\d{1,2}) hours$"=$1 小時
+sr:"^Use (.+)$"=使用$1
+You owe {{A}} <color\=#54E717>{{B}}</color>\. Insert cash and exit stash to pay off your debt=你欠 {{A}} <color\=#54E717>{{B}}</color>，現金放入欄位並退出藏匿處以償還你的債務
+sr:"^You owe ([A-Z][a-z]+ [A-Z][a-z]+) <color\=#54E717>(\$\d{1,3}(?:,\d{3})*)</color>\. Insert cash and exit stash to pay off your debt$"=你欠 $1 <color\=#54E717>($2)</color>，現金放入欄位並退出藏匿處以償還你的債務
+sr:"Combine ingredients in (beaker|bowl) \((\d{1,2})/(\d{1,2})\)"=在$1中混合成分（$2/$3）
+sr:"Deal completed for (.+)"=$1 的交易完成
+sr:"Reach the rank of <color\=#88CBFF>(.+) ([IVX]+)<\/color> to access this area."=達成 <color\=#88CBFF>$1 $2</color> 才可拜訪此區域。
+sr:"So you'd like to purchase the ([a-zA-Z ]+)\?"=那麼你想要購買$1？
+sr:"That'll be <color\=#54E717>(\$\d+)<\/color> for the (.+)\. Sound good?"=這塊 $2 要 <color\=#54E717>$1</color>，可以嗎？
+sr:"^That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. Sound good\?$"='$2'的話要<color\=#54E717>$$1</color>。聽起來不錯吧？
+sr:"That'll be <color\=#54E717>(\$\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=$2要<color\=#54E717>$1</color>，成交嗎，夥計？
+sr:"The (.+) <color\=#19BEF0>(\$\d+)</color>"=$1 <color\=#19BEF0>$2</color>
+sr:"Unlocks at (.+) ([IVX]+)"=達到 <color\=#2DB92D>$1 $2</color> 後解鎖
+sr:(.+)<color\=#54E717>(/$/d)</color>=$1<color\=#54E717> (\$\d)</color>
+sr:^"Hello, (.+)"=您好，$1
+sr:Poor (.)=劣質 $1
+SSAO=環境光遮蔽
+Start a new mix at the mixing station=在混合站開始新的混合  
+Start mixing machine=啟動混合器
+Start oven=開啟烤箱
+START=開始
+Stop Arrow=停止箭頭
+Stop the arrow in the green area to unlock item=在綠色區域內停止箭頭以解鎖物品
+Street Rat=過街老鼠
+Submit Feedback=提交回饋
+Submit=提交
+Subtitle=字幕
+Success!=成功！
+Summary=摘要
+Sunday=週日
+Supplies=供應來源
+Supplies=補給品
+Suspension Rack is supporting another item=吊架上已經掛了東西
+Sweet as homie, I'll meet you=太爽了，老兄，我會在
+Switch off=關閉
+Switch on=打開
+Talk to Officer=與 警官 對話
+Talk to Uncle Nelson=與 尼爾森叔叔 對話
+Target Quality=目標品質
+Task Details=任務詳情
+Tasks=任務
+Text=文字
+Hey there=嘿
+<color\=#54E717>+$124</color> Curfew Bonus=<color\=#54E717>+$ 124</color> 宵禁獎金
+
+Thank you for playing the pre-release version of Schedule I. I'm still polishing everything up for release so I apologize if you encounter any bugs or confusion. If you have any issues or questions, feel free to shoot me an email at <color\=#00ADEF>tyler@tvgs-games.com</color> - Tyler, Schedule I Developer=感謝你遊玩《Schedule I》的預發行版本。我仍在為正式版進行最後潤飾，如有錯誤或混淆之處，敬請見諒。若你有任何問題或建議，歡迎寄信至 <color\=#00ADEF>tyler@tvgs-games.com</color> - Tyler，《Schedule I》開發者
+Thank you for playing the pre-release version of Schedule I.\n\nI'm still polishing everything up for release so I apologize if you encounter any bugs or confusion.\n\nIf you have any issues or questions, feel free to shoot me an email at \n<color\=#00ADEF>tyler@tvgs-games.com</color>\n\n- Tyler,\n  Schedule I Developer=感謝你遊玩《Schedule I》的預發行版。\n\n我仍在進行最終潤飾，如遇錯誤或混淆，敬請見諒。\n\n如有問題，請隨時電郵至\n<color\=#00ADEF>tyler@tvgs-games.com</color>\n\n- 泰勒，《Schedule I》開發者
+Thanks for playing!=感謝你的遊玩！
+The best way to gain new customers is to give a <color\=#4CB0FF>free sample</color> to a friend of an existing customer.=要找新客戶，最有效的方法是送 <color\=#4CB0FF>免費樣品</color> 給現有客的朋友
+The fastest way to unlock new customers is to give a <color\=#88CBFF>free sample</color> to a friend of an existing customer.=最快拓客方法就是送 <color\=#88CBFF>免費樣品</color> 給現有客的朋友
+The law will be your foremost obstacle. You'll have to deal with patrols, body searches, vehicle checkpoints, curfews, and more.=法律將成為你首要的阻礙，你必須應付巡邏、車身搜索、檢查站、宵禁等等。
+The officer will search your inventory from <color\=#62BDFF>left to right</color>.\n\n<color\=#62BDFF>Click and hold</color> an item to <color\=#62BDFF>conceal</color> it. You can only conceal one item at a time.=警察會從 <color\=#62BDFF>左到右</color> 搜你的包。\n\n<color\=#62BDFF>按住</color> 物品可以 <color\=#62BDFF>藏起來</color>，但一次只能藏一樣
+The purple area indicates the <color\=#88CBFF>approximate area</color> of the customer.=紫色區塊表示客人大概位置
+theft=偷竊
+There are no active deliveries=沒有正在進行的配送
+There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. {{A}} pay with cash, but most legal shops only accept card.=有兩種錢：<color\=#46CB4F>現金</color> 跟 <color\=#88CBFF>電子帳戶</color>，{{A}}付現，但合法商店只收卡。
+There are two types of currency: <color\=#46CB4F>cash</color> and <color\=#88CBFF>online balance</color>. Customers pay with cash, but most legal shops only accept card.=有兩種錢：<color\=#46CB4F>現金</color> 跟 <color\=#88CBFF>電子帳戶</color>，客戶付現，但合法商店只收卡。
+There is a <color\=#88CBFF>map</color> on your phone. Press <color\=#88CBFF>M</color> to quickly open it.=你的手機裡有<color\=#88CBFF>地圖</color>，按<color\=#88CBFF>M</color>可以快速開啟。
+There is a <color\=#F86266>mandatory curfew</color> between 9PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside.=晚上9點到凌晨5點是 <color\=#F86266>強制宵禁</color>，被警察看到會被 <color\=#F86266>抓</color>。
+This is a beta version of the game - save files may get corrupted. Don't load any saves that are important to you.=這是遊戲的測試版，存檔可能會損壞。請勿載入任何對你來說重要的存檔。
+This is the vehicle you last drove.\nMust be within 20 meters.=這是你上次開的車，必須離你20公尺內
+This is your <color\=#88CBFF>contacts web</color>. This is where you can view all your customers and potential customers.=這是你的 <color\=#88CBFF>聯繫網</color>，你可以在此查看所有客戶及潛在客戶。
+This packaging type requires <color\=#FFC73D>5x</color> product=這種包裝方式需要 <color\=#FFC73D>5份</color> 商品
+Thought-Provoking=發人深省
+Time Remaining=剩餘時間
+Time:=時間：
+To move a custom amount, <color\=#62BDFF> right-click</color> drag an item and <color\=#62BDFF>scroll</color> to change the amount.=要移動自訂數量，<color\=#62BDFF>右鍵拖</color>，再 <color\=#62BDFF>滾動滑鼠</color> 改數字
+Tools=工具
+Total: <color\=#5AB95A>$100,000=總計：<color\=#5AB95A>$100,000
+Toxic=有毒
+Tropic Thunder=熱帶雷霆
+Trunk=車尾箱
+Turn off=關掉
+Turn on=打開
+UI Inspector Results=UI檢查結果
+UNDER ARREST=逮捕
+Underlord=地下權威
+Unlock the pseudo supplier in {{A}} (see contacts app for more info)=在 {{A}} 解鎖 偽麻黃鹼 供應商（詳情請查看通訊錄應用）  
+Unlock the pseudo supplier in Westville (see contacts app for more info)=在 西村區 解鎖 偽麻黃鹼 供應商（詳情請查看通訊錄應用）  
+Unlock this dealer by reaching 'friendly' with one of their connections.=與其一位人脈達到「友好」關係即可解鎖此經銷商。
+UNPACK=拆包
+UNPACKAGE=<i>拆包</i>
+Unpackaged items won't fit!=沒包裝的東西不適合！
+Unspecified=未指定
+Use ATM=使用ATM
+Use Chemistry Station=使用化學工作站
+Use Drying Rack=使用乾燥架
+Use Game Camera?=使用遊戲相機？
+Use hammer to break up the product=使用錘子將產品打碎
+Use Lab Oven=使用實驗室烤箱
+Use Mixing Station Mk2=使用混合站 MK2
+Use Mixing Station=使用混合站
+Use Packaging Station Mk II=使用包裝站MK II
+Use Packaging Station=使用包裝站
+Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers.=用 <color\=#88CBFF>經銷管理App</color> 分配客戶
+Use the <color\=#88CBFF>product manager app</color> on your phone to list products for sale.=用手機裡的 <color\=#88CBFF>商品管理App</color> 列出要賣的東西
+Use trimmers to harvest=使用修剪器收穫
+Use TV=使用電視
+V=V
+VEHICLE MUST BE PARKED INSIDE THE SHOP=車輛必須停進店裡
+Vehicle=車輛
+vehicular assault=襲擊車輛
+assault with a deadly weapon=致命武器襲擊
+Very Low standards.=標準非常低
+Very Low=非常低
+VI=VI
+View Cart=查看購物車
+View Commands=查看指令
+View fix instructions=查看修復說明
+View note=查看紙條
+VII=VII
+VIII=VIII
+violating curfew=違反宵禁
+Visit an <color\=#88CBFF>ATM</color> to deposit or withdraw cash.=到 <color\=#88CBFF>ATM</color> 存錢或領錢。
+Wait for {{A}} to complete a deal=等待 {{A}} 完成交易
+Wait for Benji to complete a deal=等待 班吉 完成交易  
+Wait for the mix to complete=等待混合完成  
+Waking up at=醒來時間
+WANTED DEAD OR ALIVE=通緝：無論生死
+WANTED=通緝
+Watering can empty=澆水壺已空
+Weekly Deposit Limit=每週存款限額
+Weight=重量
+What would you like to do?=你想做什麼？
+Where is my room?=我的房間在哪裡？
+While dragging an item, press <color\=#88CBFF> A </color> or <color\=#88CBFF> D </color> to rotate it.=拖動物品時，按下<color\=#88CBFF>A</color>或<color\=#88CBFF>D</color>以旋轉
+Wishlist on=加入願望清單
+WITHDRAW=提取
+X=X
+XP Earned=獲得經驗值
+Yep=可以
+You are being searched=你正在被搜身
+You are providing more items than required.=你放太多東西了
+You are providing more product than required.=你放太多貨了
+You can complete deals any time within the window you choose. For now, choose the morning window.=你可以在選好的時間段內成交，現在選早上那段吧
+You can complete the deal any time within the window=你可以在指定時段內任意完成交易
+You haven't recruited any dealers=你尚未招募任何經銷商
+You need to park your car nearby for me to search it.=那樣的話, 你需要將車停在附近，我才能檢查。  
+You only know one way to make money. Time to get to work.=你只知道一種賺錢方法，是時候開始做事了。
+You Receive=你將收到
+You Receive=你收到
+You wanna buy something? [Offer a deal]=你想買點什麼嗎？ [<i>提出交易</i>]
+You're a small time drug dealer from the south.=你是來自南方的小型毒販。
+You're in room 1. It's the one closest to the motel office.=你在 1 號房，離汽車旅館辦公室最近的那間.
+You've unlocked {{A}} as a customer. She will now start sending you deal offers.=你已成功解鎖{{A}}為客戶，她將開始向你提供交易優惠。
+You've unlocked Chelsey as a customer. She will now start sending you deal offers.=你已成功解鎖切爾西為客戶，她將開始向你提供交易優惠。
+You=你
+You’re under arrest!=你正在被捕！
+Zombifying=殭屍化
+{{A}} 10th Co-op & deliveries, {{A}} 17th Casino, {{A}} 22nd Boutique store, wall decorations, pawn shop, {{A}} 24th - Release!=週一10日：合作模式與運送功能，週一17日：賭場，週六22日：精品店、牆面裝飾、當舖，週一24日：正式發售！
+{{A}} 10th\nCo-op & deliveries\n\n{{A}} 17th\nCasino\n\n{{A}} 22nd\nBoutique store, wall decorations, pawn shop\n\n{{A}} 24th - Release!\n\n\n=週一10日：合作與交貨\n\n週一17日：賭場\n\n週六22日：精品店、牆面裝飾、當舖\n\n週一24日：正式發售！\n\n\n
+• Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• 撿起垃圾\n\n• 將垃圾桶裝滿\n\n• 處理滿載的垃圾袋
+• Use chemistry \n  stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=•使用化學站\n\n•使用實驗室烤箱\n\n•使用鍋爐\n\n•使用攪拌站
+sr:"(.+) \(Owned\)"=$1\n（已擁有）
+r:"EMPLOYEE LIMIT REACHED \((\d+)/(\d+)\)"=員工數已達上限（$1/$2）
+{{B}}x {{A}}={{B}}x {{A}}
+Arrived=抵達
+r:"Bungalow \[(\d+)\]"=平房 [$1]
+r:"(\d+)h\s(\d+)m"=$1小時$2分鐘
+Arrived=抵達
+r:"This delivery is waiting for the loading dock (\d+) to be empty."=貨物正在等待裝卸區1清空。
+Waiting=等待
+Hardware Store=五金行
+Artwork (Beach Day)=藝術作品（海灘日）
+The business is already at maximum laundering capacity.=這個業務已經達到最大的洗錢能力。
+
+#===================================================
+# 小遊戲
+#===================================================
+Bet Amount=下注金額
+BET MULTIPLIER=賭注倍數
+Bet Multiplier=賭注倍數
+BIG WIN!=大獲全勝！
+BLACKJACK!=二十一點！
+Blackjack=二十一點
+Body Search=身體搜索
+CORRECT!=正確！
+Dealer=經銷商
+Decrease bet=減少賭注
+Drop=放下
+EGG RUN=雞蛋快跑
+Egg Run=雞蛋快跑
+FirstName\nLastName=名\n姓
+Get as close as possible to 21 without going bust.=盡量接近 21 點\n但不要爆牌
+Headlights=大燈
+High Score=最高分數
+HIGH SCORE=高分
+Higher=高
+Hit=要牌
+Increase bet=增加賭注
+JACKPOT!=中獎啦！
+Lower=低
+Mixer=混合器
+Open Hatch=打開艙口
+Place your bet and press 'ready'=<i>下注後按「準備」</i>
+Play Balckjack=玩二十一點
+Play Blackjack=玩二十一點
+Play Ride the Bus=玩撲克搭車
+Pong=桌球
+Predict the next card to multiply your winnings!=預測下一張牌\n以增加你的獎金！
+r:"Forfeit and collect (.+)"=放棄並收取 $1
+Repaint vehicle=重新粉刷車輛
+Ride the Bus=撲克搭車
+SCORE=分數
+Snake=蛇
+Stand=停牌
+Start=開始
+What will the next card be?=下一張牌是？
+Will the next card be higher or lower?=下一張牌會是高還是低？
+Will the next card be inside or outside?=下一張牌會落在範圍內還是範圍外？
+Win!=贏了！
+WIN!=贏！
+What will the suit of the next card be?=下一張會是哪個花色？
+Dealer's turn...=莊家的回合…
+Spades=黑桃
+Diamonds=鑽石
+Clubs=俱樂部
+MASSIVE WIN!=超級大獎！
+Spades=黑桃
+
+#===================================================
+# 不用翻的自動翻譯產生語句
+#===================================================
+#===================================================
+# 私人資訊+不用翻的自動翻譯產生語句
+#===================================================
+
+Plastic Table=塑膠桌
+Sewer {{A}}=下水道{{A}}
