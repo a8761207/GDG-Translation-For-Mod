@@ -1,0 +1,1204 @@
+#===================================================
+# 翻譯手動調整參數
+#===================================================
+#文字大小 <size\=18></size>
+#底線 <u>123</u>
+#粗體 <b>123</b>
+#換行 \n 
+#圖片 <sprite name\=clock>
+#顏色 <color\=#1A66CCFF>
+#===================================================
+
+#=========================================
+Unlocks at Street Rat I=在 過街老鼠I 上解鎖
+Unlocks at Street Rat II=在 過街老鼠II 上解鎖
+Unlocks at Street Rat III=在 過街老鼠III 上解鎖
+Unlocks at Street Rat IV=在 過街老鼠IV 上解鎖
+Unlocks at Street Rat V=在 過街老鼠V 上解鎖
+Unlocks at Hoodlum I=在 地痞 I 上解鎖
+Unlocks at Hoodlum II=在 地痞 II 上解鎖
+Unlocks at Hoodlum III=在 地痞 III 上解鎖
+Unlocks at Hoodlum IV=在 地痞 IV 上解鎖
+Unlocks at Hoodlum V=在 地痞 V 上解鎖
+
+STREET RAT I=過街老鼠 I
+Street Rat I=過街老鼠 I
+Street Rat II=過街老鼠 II
+Street Rat III=過街老鼠 III
+Street Rat IV=過街老鼠 IV
+Street Rat V=過街老鼠 V 
+
+10 potential customers\n1 dealer\n1 supplier=10個潛在客戶\n1個經銷商\n1個供應商
+HOODLUM I=地痞 I
+Hoodlum I=地痞 I
+Hoodlum II=地痞 II
+Hoodlum III=地痞 III
+Hoodlum IV=地痞 IV
+Hoodlum V=地痞 V
+
+Peddler I=小販 I
+Peddler II=小販 II
+Peddler III=小販 III
+Peddler IV=小販 IV
+Peddler V=小販 V
+
+HUSTLER i=騙徒 i
+Hustler I=騙徒 I
+Hustler II=騙徒 II
+Hustler III=騙徒 III
+Hustler IV=騙徒 IV
+Hustler V=騙徒 V
+
+Bagman I=中間人 I
+Bagman II=中間人 II
+Bagman III=中間人 III
+Bagman IV=中間人 IV
+Bagman V=中間人 V
+
+Enforcer I=執行者 I
+Enforcer II=執行者 II
+Enforcer III=執行者 III
+Enforcer IV=執行者 IV
+Enforcer V=執行者 V
+
+Shot Caller I=指揮者 
+Shot Caller II=指揮者 II
+Shot Caller III=指揮者 III
+Shot Caller IV=指揮者 IV
+Shot Caller V=指揮者 V
+
+Block Boss I=地盤老大 I
+Block Boss II=地盤老大 II
+Block Boss III=地盤老大 III
+Block Boss IV=地盤老大 IV
+Block Boss V=地盤老大 V
+
+Underlord I=地下權威 I
+Underlord II=地下權威 II
+Underlord III=地下權威 III
+Underlord IV=地下權威 IV
+Underlord V=地下權威 V
+
+Baron I=巨頭 I
+Baron II=巨頭 II
+Baron III=巨頭 III
+Baron IV=巨頭 IV
+Baron V=巨頭 V
+
+Kingpin I +=首腦 I +
+
+#===================================================
+# 主線
+#===================================================
+Welcome to {{A}}=歡迎來到{{A}}
+Save $800 for a new property=存下 $800 購買新物業
+• Unlock {{A}} customers ({{B}})=• 解鎖 {{A}} 個客戶 ({{B}})
+• Save ${{A}} for a new property=存下 ${{A}} 購買新物業
+• Talk to 'U.N.' at a payphone=與 '尼叔' 在公共電話 交談
+• Talk to Uncle Nelson at a payphone=與 尼爾森叔叔 在公共電話 交談
+• Talk to Benji Coleman in Motel Room #2=與 班吉·科爾曼 在 汽車旅館#2房 交談
+Order {{C}}x {{A}} from {{B}}=從 {{B}} 訂購 {{C}}x {{A}}
+Earn ${{A}} (${{B}} / ${{C}})=賺取 ${{A}} (${{B}} / ${{C}})
+
+#===================================================
+# 支線
+#===================================================
+You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=您已經達到了ATM日期存款限額。如果您想將更多的現金轉換為線上餘額，則需要通過企業開始洗錢。
+
+#===================================================
+# 店家相關
+#===================================================
+You wanna buy something?=你想買東西嗎？
+
+#====== 租屋(唐娜)
+Thank you. You're in Room 1, closest to the office.=謝謝. 您的房間是 1號房, 離這個辦公室最近的那間。
+
+#====== 黑市
+You’re welcome friend. If you need special equipment or supplies, {{A}} has what you need.=歡迎光臨 朋友.\n如果您需要特殊的設備或用品,\n{{A}} 擁有您需要的東西.
+You’re welcome friend. If you need special equipment or supplies, Oscar has what you need.=歡迎朋友.\n如果您需要特殊設備, 奧斯卡有.
+{{A}} sells special equipment and supplies.={{A}} 提供特殊設備和補給品。
+Oscar sells special equipment and supplies.=奧斯卡 提供特殊設備和補給品。
+Thanks, partner.=謝了，夥伴。
+
+#====== 房地產
+{{A}} <color\=#19BEF0>(${{B}})</color>={{A}} <color\=#19BEF0>(${{B}})</color>
+The Barn <color\=#19BEF0>($0)</color>=穀倉 <color\=#19BEF0>($ 0)</color>
+The {{A}} at {{B}} <color\=#19BEF0>(${{C}})</color>={{B}}的{{A}} <color\=#19BEF0>(${{C}})</color>
+The storage unit at Stash & Dash <color\=#19BEF0>($5,000)</color>=《藏&衝》的倉庫隔間房 <color\=#19BEF0>($5,000)</color>
+So you'd like to purchase storage unit? Payments are made from your online balance.=所以你想購買 倉庫隔間房 嗎？\n付款將從你的線上餘額中扣除。
+sr:"So you'd like to purchase ([a-zA-Z ]+)\? Payments are made from your online balance\."=所以你想購買 $1 嗎？\n付款將從你的線上餘額中扣除。
+
+#====== 車行
+[VIEW MORE OPTIONS]=[查看更多選項]
+The Hotbox <color\=#19BEF0>($30,000)</color>=熱箱 <color\=#19BEF0>($30,000)</color>
+#===================================================
+# 其他對話
+#===================================================
+
+#========= 班基斯黑幫 前置任務
+I have a business proposition I would like to discuss with you. Meet me at the parking lot next to {{A}}. I'll be in the black SUV.=我有一個商業提議想與您討論. 在 {{A}} 旁邊的停車場 與我見面. 我會在黑色SUV車上。
+You wanted to meet?=你想開會嗎？
+Ah, it's you... I'm {{A}}. I believe we share a similar line of work.=啊, 是你... 我是 {{A}}.\n我相信我們都在做類似的工作.
+I'd like to apologise for the minor altercation we had earlier involving your {{A}}. We have a rather successful operation here in {{B}}, and we're not keen on sharing the market.=我想為我們之前對你的 {{A}} 發生的小爭執而道歉.\n我們在 {{B}} 運營相當成功,\n且我們不熱衷於共享市場.
+Go ahead=繼續
+However, I'd like to extend an offer. You will sell us product on an ongoing basis; {{A}} times per week. Large quantities and wholesale prices.=不過, 我想出一個提議.\n你能持續出貨給我們； 每週 {{A}}次.\n批發價大量訂購.
+Additionally, you will refrain from dealing with customers outside of {{A}} and {{B}}. The rest of {{C}} is our territory - end of story.=此外, 你要避開 {{A}} 和 {{B}} 之外的客人來往.\n因為 {{C}} 剩下的部分是我們的地盤 - 故事說完了.
+What's in it for me?=對我來說有什麼？
+In return, we will not blow up any more of your property, and will not harass you in any way. You're free to continue operating in your corner of the market, as long as you uphold your end of the deal.=作為回報,\n我們不會再炸毀你的財產, 也不會以任何方式騷擾你.\n只要你履行交易義務,\n你就可以繼續在你市場的角落自由運作.
+How much will you pay me?=你要付多少錢？
+How much product do you need?=您需要多少產品？
+[AGREE TO DEAL]=[同意交易]
+[REFUSE DEAL]=[拒絕交易]
+Certainly not market prices - that's for sure. About half of what you'd usually get. We've got to make money somehow, don't we?=當然不會是市場價 - 這是肯定的.\n大概是你平常的一半.\n我們總得找方法賺錢, 不是嗎？
+Anything else?=還有別的事？
+{{A}}g a few times a week. Once we know you're reliable, the quantity will increase.=每週幾次 {{A}}公克.\n我們一旦知道你可靠的話, 數量就會增加.
+Maybe I wasn't clear - you WILL be working with us. And if you don't, we're going to make your life very, very difficult. Is that clear?=也許我沒有說清楚 - 你"將會"和我們一起工作.\n如果你不要, 我們會讓你的日子變得非常非常難熬.\n清楚？
+Fine, you've got a deal.=好的成交, 你來生意了.
+Good choice. You keep that product coming, stay out of our territory, and we'll get along just fine. You'll be hearing from us soon.=不錯的選擇.\n你保持供應產品, 遠離我們的地盤, 我們就會相處得很好.\n你很快就會收到我們的訊息.
+TRUCED=停戰
+{{A}} Benzies={{A}} 班基斯家族
+And by the way, step out of line in any way, and you're done for. Take care...=順便說一句, 任何越界行為, 你就完了.\n請保重...
+While working with the cartel=與販毒集團合作時
+Region Unavailable=區域不可用
+{{A}} clear. Now piss off.=非常清楚. 你現在滾開吧.
+Crystal clear. Now piss off.=非常清楚. 你現在滾開吧.
+Very well - see you around...=非常好 - 我們走著瞧...
+
+
+#========= 班基斯黑幫 最終任務
+Go to {{A}}=前往 {{A}}
+Well, sounds like you've been busy! You've got influence over nearly every corner of Hyland Point. I couldn't have done better myself, buddy. Well done.=好吧, 聽起來您一直很忙！\n您幾乎對 海蘭德角 的每個角落都有影響力。\n我自己都不可能做得更好了,哥們.\n做得好。
+You've hurt the Benzies pretty bad, but they ain't dealt with yet. They'll keep pestering you until they're wiped out.=你重傷了 班基斯家族, 但他們還沒完。\n他們會持續纏擾您, 直到他們被消滅為止.
+Thomas and the last of his goons are holed up in Hyland Manor. It's a well fortified old place, so attacking them head on is a death wish. Luckily, there might be another way...=托馬斯 和他的最後一個傻瓜被困在 海蘭德莊園.\n這是一個設施良好的舊場所，因此攻擊他們就像是許願去死一樣.\n幸運的是，可能還有另一種方法...
+There's an old <color\=#4CB0FF>escape tunnel</color> that runs from the manor down to the cliff face beneath it. It's sealed up from the inside, but if you could get access to it, you could get real close to them without their knowing...=有一個老 <color\=#4CB0FF>逃生隧道</color> 從莊園下面一直到懸崖那側.\n它是從內部密封的，但是如果您可以通過那，那麼您可以在不知情的情況下真正接近他們...
+I say you treat these clowns to a taste of their own medicine. If you could plant a <color\=#4CB0FF>bomb</color> in that tunnel... well, safe to say they won't be a problem no more. =我說你應該讓這些小丑嚐嚐苦頭.\n如果你可以放置 <color\=#4CB0FF>炸彈</color> 在那個隧道中...那麼,可以確定的說, 他們不再是問題了. 
+A bomb of that size won't be easy to come by - go ask around <color\=#4CB0FF>Koyama Chemical Company</color> and see if someone can sneak you some raw explosives. After that, <color\=#4CB0FF>Stan</color>, the weapons dealer, should be able to wire it up to a usable bomb for you.=這麼大的炸彈不容易取得 - 去詢問 <color\=#4CB0FF>小山化工廠</color> 看看是否有人能偷偷給你一些炸藥原料.\n之後, <color\=#4CB0FF>斯坦</color> 武器商 應該能夠將它裝接成可用的炸彈.
+You'll also need to get into that tunnel. <color\=#4CB0FF>Sam</color>, the local construction and demolition guy can probably help you out for the right price.=您還需要進入該隧道. <color\=#4CB0FF>山姆</color> 當地的拆建人員應該會有合適的價格為您提供幫助。
+Time to take out the trash. Godspeed, buddy.=是時候倒垃圾了. 一路順風, 夥計.
+• Talk to Billy at the chemical plant about buying explosives=• 與 比例 交談 在化工廠購買炸藥
+• Get Sam to dig access to the tunnel under Hyland Manor=• 讓 山姆 挖掘 海蘭德莊園下面的隧道
+I need access to the tunnel under Hyland Manor=我需要進入 海蘭德莊園下的隧道
+I can do that, but digging holes on other people's property isn't exactly legal. That sort of job is gonna cost a premium.=我可以這樣做，但是在別人的財產上挖洞並不合法。\n這樣的工作費用會很高。
+Let's say <color\=#54E717>$10,000</color> in cash, and I can get it done for you overnight.=假如有 <color\=#54E717>$10,000</color> 現金，我可以一夜之間幫您搞定。
+Thank you - I'll get to work tonight. It should be done by tomorrow morning.=謝謝 - 我今晚要上班。\n明天早上應該就能完成。
+• Wait for Sam to dig access to the tunnel=• 等待 山姆 挖掘隧道
+Theoretically, if someone needed explosives, could you help with that?=理論上來說, 如果有人需要炸藥, 您能幫上忙嗎？
+Hmmm... I guess there's some <color\=#FF6666>RDX</color> down at the plant. That would definitely get the job done.=嗯...我想有一些在植物上取下的 <color\=#FF6666>RDX(黑索金)</color> .\n這肯定能完成工作.
+Although you'd need some heavy paperwork to get your hands on any of that stuff. Unless we could work out a special deal... =不過正常要拿到這些東西, 你得做一堆繁瑣的文書工作.\n除非我們能達成什麼特別協議…
+• Trade Billy {{A}}x cocaine in return for RDX=• 與 比例 交易 {{A}}x 古柯鹼 以換取 RDX(黑索金)
+Let's say, <color\=#76C9FF>20 grams of the white stuff</color>. Pure - no additives or shit. You bring me that, and you've got your RDX.=假如說, <color\=#76C9FF>20克 白色的東西</color>。\n純淨 - 無任何添加劑或任何雜質. 你帶來的話, 就能得到你的 RDX(黑索金).
+I'll think about it=我會考慮
+I've got what you asked for.=我有你要的東西。
+• Talk to Stan about turning the RDX into a bomb=• 和 斯坦 交談 如何把 RDX(黑索金) 變成 炸彈
+Thanks, here's your RDX.=謝謝, 這是您的 RDX(黑索金).
+Can you wire up some explosives for me?=你能幫我拼接一些炸藥嗎？
+Sure I can, friend. But I've got a little favour to ask in return...=當然我可以, 朋友.\n但我想請您幫個小忙作為回報我…
+You see, I get my supplies in every month through a shipment at the docks. But recently, some rat bastard keeps nabbin' them before they get to me.=你知道, 我每個月都會透過碼頭的貨運收我的補給.\n但是最近, 有些混蛋老鼠在我拿到貨前就把東西幹走了。
+I see him skulking around the docks at night every now and them. He needs to go. You do that for me, and I'll wire up anything you need.=我時不時看到他\n晚上會在碼頭附近鬼鬼祟祟地徘徊.\n他快要跑了.\n你幫我做這件事, 我會把你需要的任何東西都拚接好.
+Sure=當然
+Why not just deal with him yourself?=為什麼不親自對付他呢？
+I'm a man of God, my friend. "Thou shalt not kill" - Exodus {{A}}=我是上帝的人, 我的朋友.\n"你不殺生"  - 出埃及記 {{A}}
+Alright...=好吧...
+Thanks, partner. Come let me know when it's done.=謝謝, 夥伴.\n快讓我知道什麼時候搞定.
+• Kill the thief who keeps stealing Stan's supplies. He is often seen at the docks at night.=• 殺死那個一直偷 斯坦 補給品的竊賊.\n他經常在晚上出現在碼頭。
+• Get Stan to turn the RDX into a bomb=• 讓 斯坦 將 RDX(黑索金) 變成 炸彈
+I dealt with the thief who kept stealing your supplies.=我處理掉了那個一直偷你貨物的賊.
+Buddy, you are a lifesaver - thanks for taking care of that. Now let me hold up my end of the bargain...=兄弟,您真是我的救星 - 謝謝你幫我解決了這個問題.\n現在請讓我履行承諾…
+[Hand over RDX]=[交出 RDX(黑索金)]
+Woowee, this is some serious stuff, partner. Don't worry, I won't be askin' what it's for. Give me one sec...=Woowee，這些是嚴肅的東西, 夥伴。\n不用擔心, 我不會問它的用途.\n等我一下...
+...and there you are - one bigass bomb. It's on a {{A}} second timer. Make sure you're not anywhere near it when it goes off.=...然後在這裡了 - 一枚屁股大的炸彈.\n它裝在 {{A}} 秒的計時器上。\n保障你在它倒數完的時候不在附近.
+The job is done. The entry point is on the cliff face directly below the north side of the house.=工作完成了.\n入口在房屋北側正下方的懸崖那一面.
+Plant bomb=安置炸彈
+DEFEATED=被擊敗
+Talk to {{A}} about turning the RDX into a bomb=與 {{A}} 交談如何把 RDX(黑索金) 加工成 炸彈
+Talk to Stan about turning the RDX into a bomb=與 斯坦 交談如何把 RDX(黑索金) 加工成 炸彈
+Talk to {{A}} at the chemical plant about buying explosives=與 化工廠 的 {{A}} 談論購買炸藥的事
+Talk to Billy at the chemical plant about buying explosives=與 化工廠 的 比利 談論購買炸藥的事
+Get {{B}} to dig access to the tunnel under {{A}}=讓 {{B}} 挖掘 {{A}} 下方的隧道
+Get Sam to dig access to the tunnel under Hyland Manor=讓 山姆 挖掘 海蘭德莊園 下方的隧道
+Trade {{A}} {{B}}x cocaine in return for RDX=與 {{A}} 交易 {{B}}x 古柯鹼 以換取 RDX(黑索金)
+Trade Billy {{A}}x cocaine in return for RDX=與 比利 交易 {{A}}}x 古柯鹼 以換取 RDX(黑索金)
+Get {{A}} to turn the RDX into a bomb=讓 {{A}} 將 RDX(黑索金) 變成 炸彈
+Get Stan to turn the RDX into a bomb=讓 斯坦 將 RDX(黑索金) 變成 炸彈
+Kill the thief who keeps stealing {{A}}'s supplies. He is often seen at the docks at night.=殺死不斷竊取 {{A}}補給品 的小偷。\n晚上經常在 碼頭 上看到他。
+Kill the thief who keeps stealing Stan's supplies. He is often seen at the docks at night.=殺死不斷竊取 斯坦補給品 的小偷。\n晚上經常在 碼頭 上看到他。
+Wait for {{A}} to dig access to the tunnel=等待 {{A}} 挖掘隧道
+Wait for Sam to dig access to the tunnel=等待 山姆 挖掘隧道
+Complete {{A}} deals ({{B}})=完成 {{A}}次 交易（{{B}}）
+Read the message from the unknown contact=從 未知聯繫人 中閱讀消息
+Meet the stranger at the parking lot next to {{A}}=在 {{A}} 旁邊的停車場 見到陌生人
+Meet the stranger at the parking lot next to Taco Ticklers=在 撓癢癢塔可餅店旁的停車場 見到陌生人
+Unlock {{A}} customers ({{B}})=解鎖 {{A}}客戶（{{B}}）
+{{A}} FPS={{A}} FPS
+Deliver X to {{A}}=將 X 交付到 {{A}}
+Deliver X to Hyland Manor=將 X 交付到 海蘭德莊園
+Plant the bomb under {{A}}=在 {{A}}下 安置炸彈
+Plant the bomb under Hyland Manor=在 海蘭德莊園下 安置炸彈
+Wait for the bomb to detonate=等待炸彈爆炸
+
+#========= 其他
+How does ${{A}} sound?=$ {{A}} 聽起來如何？
+Let's call it ${{A}}. Deal?=我們叫價 ${{A}}.成交？
+Hmm?=蛤？
+
+sr:"^Select items to order from (.+)$"=從$1那選擇要訂購的東西
+sr:"^Your drop is ready\. Grab it (.+)$"=你的物品已經準備好了。去$1拿
+Can I interest you in a free sample?=要不要試試免費樣品？
+I also need some {{A}}=我還需要一些{{A}}
+I also need some weed seeds=我還需要一些大麻種子
+I also need some weed seeds.=我還需要一些大麻種子。
+I need to order a dead drop=我需要訂購死信投遞  
+I want to pay off my debt=我想還清債務  
+I'm here for Nelson's package.=我是來取 尼爾森 的包裹的。
+If you're heading in to town for some deals, would you mind grabbing something for me?=如果你要去鎮上做交易，能不能順便幫我帶點東西？
+If you're lookin' to pick up any supplies for yourself, just throw 'em on my tab.=如果你要買些用品，直接記在我的帳上就行。
+Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=幸好他迄今信守承諾,\n但你得讓他知道, 最好盡快結清欠款...
+Les Ordures\nPuantes \n=臭爛垃圾 \n
+I’ve heard you’re in some trouble. Best not to talk over your mobile phone. Go find a payphone.\n- U.N.=我聽說你有些麻煩.\n最好不要在手機上說話.\n去找一部公用電話.\n – 尼叔
+No it ain't. In fact, ol' Nellie already owes us some serious cash...=不，那可不是。其實，老尼爾 早就欠我們一大筆錢了……
+When you're ready please deposit <color\=#46CB4F>(\$\d+)</color> into my stash box - your debt is still unpaid.=準備好就把 <color\=#46CB4F>$1</color> 放我的藏匿處，你還欠我呢。
+How's ${{A}}?=如何？ {{A}}?
+Get over here, punk=過來呀,廢物
+Good doin' business with you=與您做了筆好生意
+Appreciate it!=太感謝啦！
+Thanks, buddy.=謝了，哥們.
+Nevermind=沒關係
+'Sup=嘿安怎
+<color\=#FF6455>Deal Expired</color>=<color\=#FF6455>交易逾期</color>
+About time...=總算…
+Acquaint yourself with the inhabitants of the warehouse, the local place of business for people in your line of work.=熟悉一下倉庫裡的居民，那是幹你這行的人做生意的地方。
+Actually, nevermind.=還是算了。
+Actually, nevermind=算了，沒事
+After that, you'll be needing some new equipment. There's a hardware store just north-east of the motel. Grab a <color\=#4CB0FF>grow tent, soil</color>, and <color\=#4CB0FF>watering can.</color>=之後你會需要一些新設備。汽車旅館東北方有家五金行，去買一個 <color\=#4CB0FF>種植帳篷</color>、<color\=#4CB0FF>土壤</color> 還有 <color\=#4CB0FF>澆水壺</color>。
+Aight bro maybe next time=可能下次兄弟
+Aight homie. What time you wanna meet?=好啊兄弟，你想什麼時候見？
+Aight. What time?=可以，幾點？
+Aight. What time?=好啊。什麼時候？
+All clear.=全都搞定。
+All good. Got your package but those guys were pretty antsy=很順利，貨也拿到了，但那些傢伙挺難纏的
+Alright come on=好了，來吧
+Alright cool=好啊
+Alright dude. What time?=好吧兄弟，幾點？
+Alright dude. What time?=好吧，伙伴。什麼時候？
+Alright dude. What time?=好吧，老兄。幾點？
+Alright fine=也行啦
+Alright then, fuck off.=好吧，那就滾吧。
+Alright then, I've moved it just outside. Try not to do that again...=好啦，我已經把它移到外面了。請不要再這樣了……
+Alright then. What time?=那好吧，幾點？
+Alright then. You know where to find me if you change your mind.=那行啦，如果你改變主意知道在哪找我
+Alright, I’ll be a dealer for you but there is a $500 signing fee, and I’ll take a 20% cut of each sale. We got a deal?=好吧，我會成為你的經銷商，但是有一個$500簽署費，我將獲得每次銷售的20%提成。我們有交易嗎？
+Another Day in Paradise=天堂裡的另一天
+Are these weapons legal?=這些武器合法嗎？
+Are you blind??=你瞎啦？？
+Are you joking?=你在開玩笑嗎？
+Are you sure?=你確定嗎？
+Argh! That's nasty=嘔！這好噁心
+Arghh fine. What time?=好的。什麼時候？
+Arghhh!!!=呃啊啊！！！
+{{A}} a packaging station to the packager={{A}}一個包裝站給包裝員
+{{A}} a supplies source to the botanist={{A}}供應來源給植物專家
+Assign a packaging station to the packager=指派一個包裝站給包裝員
+Assign a supplies source to the botanist=指派供應來源給植物專家
+Awesome, thanks!=太讚了，感謝
+Aww man...=天啊…
+Back before I moved to Serena Flats, I used to live out there in {{A}}. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=在我搬到 塞雷娜平原 之前，我曾住在 {{A}}. <br>那裡不算最棒的城鎮，但對於搞Do…(咳)<br>(咳)我是說，對於做我們這行來說機會不少.
+Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=在我搬到 <塞雷娜平原> 之前，我曾住在 <海蘭德角>. <br>那裡不算最棒的城鎮，但對於搞Do…(咳)<br>(咳)我是說，對於做我們這行來說機會不少.
+Bag the contents of the trash can=打包垃圾桶裡的內容物
+Bake the liquid meth with the lab oven=用實驗室烤箱烘乾液態冰毒
+{{A}}y today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=今兒個挺敢的啊？\n行，但要是那傢伙不付錢，下個就輪到你。
+Ballsy today, huh? Fine, but if Nelson doesn't pay up, you'll be next in line.=今兒個挺敢的啊？\n行，但要是那傢伙不付錢，下個就輪到你。
+Bro...=兄弟…
+Buy 10x baggies=購買 10 個小袋子
+Buy 1x grow tent=購買 1 個種植帳篷
+Buy 1x packaging station=購買 1 個包裝站  
+Buy 1x plant trimmers=購買 1 個植物修剪器  
+Buy 1x soil=購買 1 包土壤
+Buy 1x watering can=購買 1 個澆水罐
+Buy a trash bag from the hardware store=去五金行買一個垃圾袋
+Buy and place another grow tent=購買並放置另一個種植帳篷  
+Bye=掰啦
+Can I come in?=我能進去嗎？
+Cheers bro=感謝兄弟
+Cheers buddy. Feel free to take my truck.=謝啦，夥伴，隨意用我的卡車吧。
+Cheers dog=謝啦老兄
+Cheers homedog, here's your board.=謝啦老兄，滑板拿去
+Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=好，我現在把你新員工送過去，也給你一個寫板夾，可以用來管理設備和員工。
+Cheers. I'll send your new employee over to your property now.=好，我現在把你新員工送過去。
+
+Cheers. My friend {{A}} is a dealer and might be able to help you move your stuff. You should go speak to them.=謝啦。我朋友 {{A}} 是個經銷商，也許能幫你賣點貨。你應該去找他聊聊。
+Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=謝啦。我朋友 班吉·科爾曼 是個經銷商，也許能幫你賣點貨。你應該去找他聊聊。
+Cheers. My friend Brad Crosby is a dealer and might be able to help you move your stuff. You should go speak to them.=謝啦。我朋友 布拉德‧克羅斯比 是個經銷商，也許可以幫你出貨。你應該去找他談談。
+Cheers. My friend Jane Lucero is a dealer and might be able to help you move your stuff. You should go speak to them.謝啦。我朋友 珍·盧塞羅 是個經銷商，也許可以幫你出貨。你應該去找他談談。
+Cheers. My friend Leo Rivers is a dealer and might be able to help you move your stuff. You should go speak to them.=謝啦。我朋友 利歐·里弗斯 是個經銷商，也許可以幫你出貨。你應該去找他談談。
+Cheers. My friend Molly Presley is a dealer and might be able to help you move your stuff. You should go speak to them.=謝啦。我朋友 莫莉·普雷斯利 是個經銷商，也許可以幫你出貨。你應該去找她談談。
+Cheers. My friend Wei Long is a dealer and might be able to help you move your stuff. You should go speak to them.=謝啦。我朋友 魏龍 是個經銷商，也許可以幫你出貨。你應該去找他談談。
+
+
+Cheers=謝謝
+Clean Cash=洗錢
+Click and drag to cut soil bag=點擊並拖動以切割土壤袋
+Cold hard cash.=冷硬的現金。
+Collect the cash from {{A}}=從 {{A}} 那裡收取現金  
+Collect the cash from Benji=從 班吉 那裡收取現金  
+Collect the dead drop=收集死信投遞點的物資
+Collect the new product=收集新產品  
+Collect the stash {{A}}=收集{{A}}的藏匿處
+Collect the stash behind the supermarket=收集超市後面的藏匿處  
+Collect the stash near the canal=在運河附近收集藏匿處  
+Collect the stash near the fountain=在噴泉附近收集藏匿處  
+Come on come on!=拜託拜託！
+Come on dog, what the hell is this?=拜託啊狗，這他媽是什麼東西？
+Come on lets go=開始吧！
+Come on man, I really need something=拜託老兄，我真的需要一點貨
+Come on!!=快點！！
+Come on, I need it now!=拜託，我現在就要！
+Come on, I really need something=拜託，我真的需要一點貨…
+Come on, let's do do this=來吧，我們幹這票吧
+Come on, let's do this=來吧，幹起來
+Come on...=拜託…
+Congratulations! The business has been transferred to your name.=恭喜！這門生意已經轉到你名下了。
+Connections=人脈
+Contains trash=包含垃圾
+Cook liquid meth at the chemistry station=在化學站製作液態冰毒
+Cool=不錯啊
+Cool=酷
+Cool=酷啊
+Crap!=靠！
+Damn bro=兄弟…幹
+Damn dog that's pretty good, I'll message you=不錯喔兄弟，我等等聯絡你
+Damn it fine. What time?=幹，好吧。幾點？
+Damn it!=幹！
+Damn!=幹！
+Damn, that's pretty nice. You'll hear from me soon.=哇，這真不錯，你很快就會看到我的訊息。
+Damn, that's pretty nice. You'll hear from me soon=不錯喔，很快會聯絡你
+Damn, that's some good shit. You'll hear from me soon=靠，這太讚了，我會再聯絡你
+Damn=幹
+Dead Drop=死信點
+Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready.=死信投遞會根據訂單大小花些時間處理。準備好時供應商會 <color\=#88CBFF>發訊息給你</color>。  
+Deal (<color\=#54E717>(\d)</color>)=成交 (<color\=#54E717>$1</color>)
+Deal=成交
+Deposit cash at an ATM=將現金存入 ATM
+Dispose of the trash bag=處理垃圾袋  
+Do you want to work for me as a distributor?=你想幫我做分銷嗎？
+Dodgy Dealing=非法交易
+Don't worry about it=不用擔心這件事了
+Down to Business=進入正題
+Drive back to the ranch=開車返回牧場
+Drive into town=開車進城
+Drug dealer=毒販  
+Dude!=老兄！
+Each customer has their own preferences for drug type and effects.=每個客戶都有自己對藥物類型和影響的偏好。
+Eh, I don't think so loco=唉，我覺得不行，兄弟
+Eh... not what I'm after=嗯……不是我想要的
+Evenin' bro=晚上好，兄弟
+Evenin' bro=晚上好，兄弟
+Evenin' partner, what can I do you for?=晚上好老兄，要我幹嘛？
+Evenin' there, what can I do for ya?=晚上好，需要什麼？
+Evenin', you'd you get on in town?=晚安啊，你在鎮上混得如何？
+Evening. What do you need?=晚上好，你要什麼？
+Oh shit that's good stuff homie, I'll text you=哦，該死的好東西兄弟，我會再發簡訊給你
+Ew, no.=呃，不要。
+Ew. Get out of here!=噁，滾開！
+Ew. Get out of here!=噁，滾開！
+Fantastic! Which model are you interested in?=太棒了！你想看哪一款？
+Fill up the watering can at the sink and water the other weed plant=在水槽邊裝滿水壺，給另一株大麻澆水
+Finally...=終於…
+Finally=終於
+Fine, you're clean. Lucky this time, I guess. But I know you and your Uncle are up to something on that ranch.=好吧，你這次沒問題。但我知道你跟你叔叔在牧場搞鬼。
+First thing's first, you're gonna need a business. Go check out <color\=#4CB0FF>Rays Realty</color>. You're probably not gonna be buying out the casino any time soon, but there should be a cheap business for sale.=首先你要搞個事業。去 <color\=#4CB0FF>睿氏房地產</color>看看。賭場你買不起，但應該有便宜的行號可下手。
+Follow me, I need to grab it first=跟我來，我得先拿東西
+Forget it!=算了吧！
+Fuck...=幹...
+Gain access to the warehouse=取得倉庫存取權
+Gearing Up=做好準備
+Get away!=快滾！
+Get out of here=離開這裡
+Get some deals done, and start expanding your network.=完成一些交易，開始擴展你的人脈。
+Getting Started=萬事起頭
+Give me a sec...=等我一下...
+Go to Gas-Mart=去加油站超市
+Go to your new business=前往你的新業務
+God damn it=媽的
+Goddammit no. I'll just look elsewhere=不行，我去找別人
+Goddamn!=靠！
+Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=天殺的, 很高興聽到你的聲音, 夥伴！\n看來我們的運氣終於用完了 — 聯邦政府把我抓起來關了, 現在等著開庭.\n不過, 很高興聽到你想辦法溜了.
+Goddamn, that's nice!! I'll message you later=哇靠，不錯！我晚點聯絡你
+Good doin' business=合作愉快
+Good doing business with ya! Your new ride is waiting outisde.=跟你合作很愉快！你的新車在外面等你了。
+Good doing business with you, sir.=合作愉快，先生。
+Good enough I guess. You'll hear from me=應該夠了，我會再聯絡
+Good evening=晚上好
+Good idea my friend. What are you after?=不錯的主意，想找點什麼？
+Good morning=早安
+Good. I’m {{A}}. I’m the local fixer. You looking to hire workers, you talk to me.=很好. 我是 {{A}}.\n當地的仲介. 想顧用工人的話跟我說.
+Good. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=很好。我是 曼尼，是當地的仲介人。\n你想僱用工人，就跟我說。
+Grab the trimmers from the storage rack and harvest the fully-grown weed plant=從儲物架上拿起剪刀，收割已經成熟的大麻
+Grab the watering can from the storage rack=從儲物架上拿起澆水壺
+Great choice!=好選擇！
+Great idea! Which business are you interested in?=好主意！您對哪個業務感興趣？
+Greetings mate, welcome to {{A}}. Come talk to me if you're interested in acquiring one of my fine automobiles.=哈囉，夥伴，歡迎來到{{A}}。\n如果你對我這些高級車感興趣，來找我聊聊吧。
+Greetings mate, welcome to Hyland Auto. Come talk to me if you're interested in acquiring one of my fine automobiles.=哈囉，夥伴，歡迎來到海蘭德汽車。\n如果你對我這些高級車感興趣，來找我聊聊吧。
+
+
+# 拿到任務後的選項三 (選這個的話，丹不會送你東西)
+You wanna try minding your own business?=你能不能只管好自己的事？ 
+Haha good one partner. Tell you what, take some SpeedGrow on the house - them '{{A}}' plants will love it.=笑死我了兄弟，這瓶速生劑算我送你的，\n你的「{{A}}」會愛死它。
+Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=笑死我了兄弟，這瓶速生劑算我送你的，\n你的「大麻」會愛死它。
+
+
+Haha very cute. I’m {{A}}. I’m the local fixer. You looking to hire workers, you talk to me.=哈哈，真可愛。我是 {{A}}，是當地的仲介人。\n你想僱用工人，就跟我說。
+Haha very cute. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=哈哈，真可愛。我是 曼尼，是當地的仲介人。\n你想僱用工人，就跟我說。
+Harvest the weed plant once fully grown=等大麻植物完全成熟後再收穫
+Head back to the {{A}}=返回 {{A}}
+Head back to the motel room=返回 汽車旅館房間
+Head back to the RV=返回 房車  
+Head to bed when you're ready=準備好就上床睡覺
+Hehe nothing... just {{A}} being friendly. If you need special equipment or supplies, {{A}} has what you need.=呵呵 沒事啦... {{A}} 只是熱情點.\n如果你需要特殊設備和物資, {{A}} 有你需要的.
+Hehe nothing... just Oscar being friendly. If you need special equipment or supplies, Oscar has what you need.=呵呵 沒事啦... 奧斯卡 只是熱情點. 如果你需要特殊設備, 他有。
+Hehe {{A}} was just joking. If you need special equipment or supplies, {{A}} has what you need.=呵呵 {{A}} 只是在開玩笑.\n如果你需要特殊設備和物資, {{A}} 擁有你需要的.
+Hehe Oscar was just joking. If you need special equipment or supplies, Oscar has what you need.=奧斯卡 只是在開個玩笑，如果你要特殊設備或補給，奧斯卡 有的。
+Hell yeah brotha=太棒了，兄弟！
+Hell yeah my friend=當然啦兄弟
+Hello sir. Ready to peruse the supplies?=你好，要看看貨嗎？
+Hello there! What can I do for you?=你好呀！我能為你做些什麼？
+Hello there, what can I do for you?=嘿 - 我能為你做什麼？
+Hello there, you smell nice...=嗨，你聞起來不錯…
+Hello=你好
+Hello?? Nevermind then=你好？？算了
+Here's my selection of melee weapons, let me know what catches your eye.=這是我這邊的近戰武器，有看上的就說
+Here's the ranged weapons, let me know what tickles your fancy.=這邊是遠程武器，有想試的就講
+Hey boss, I've run out of product.=老闆，我這邊斷貨了
+Hey friend, you're new, right? Nice to see a fresh face in town.=嘿，朋友，你是新來的，對吧？\n很高興在鎮上看到新面孔。  
+Hey there - what can I do for you?=嘿～需要什麼？
+Hey there, what can I do for you?=嘿，我能為你做什麼？
+HEY! I really need some of your stuff right now... you got anything?!=嘿！我現在急需你的貨…還有東西嗎？
+Hey! I really need some of your stuff right now... you got anything?=嘿！我現在真的需要你的一些東西...你有什麼嗎？
+Hey! I'm really in need right now. Please tell me you've got something I can buy..?=拜託我現在真的需要，你還有貨能賣嗎？
+Hey! I’m really in need right now. Please tell me you’ve got something I can buy..?=嘿！我現在真的需要。請告訴我你有我可以買的東西..？
+Hey!=嗨！
+Hey, you've been great to work with so I'm willing to start doing in-person meetings with you. At a meeting, you buy as much pseudo as you can carry - no more order limits.=嘿，跟你合作得很愉快，所以我認為可以開始跟你進行面對面的交易了。面交時，你可以購買你能攜帶的所有假麻黃鹼——沒有訂單上限。
+Heyo - if you're looking to streamline, I'm now doing deliveries. Use your deliveries app to place an order and I'll get it to you ASAP.=嘿喲——如果你想省事，我現在提供外送服務。用你的配送App下單，我會盡快送到你手上。
+Heyo dog=嘿兄弟
+Heyo=呦
+Hi boss, just letting you know I'm out of product.=老闆，我這邊賣完了
+Hi boss, just letting you know I’m out of product.=嗨，老闆，只是讓你知道我沒有產品。
+Hi boss, what do you need?=嗨，老闆，你需要什麼？
+Hi boss, what do you need?=老闆，需要什麼？
+Hi boss=老闆你好
+Hi boss=老闆好
+Hi dawg=嘿老哥
+Hi=嗨
+Hiya there, can I help you with something?=嗨，需要幫忙嗎？
+Hmm ok. What time?=嗯，好吧，幾點？
+Hmm...=嗯……
+hmmmmm FINE. When?=好啦，什麼時候？
+Hold on=等一下
+Hold still - you are under arrest!=別動，你被逮捕了！
+Hold still while I search you=別動，我要搜你身
+Holds water.=可裝水
+Holy hell!=我靠！
+Holy shit!=靠北！
+How can I fix this?=那我該怎麼做？
+How do I assign customers to you?=我要怎麼把客人分給你？
+How do I assign your bed?=我要怎麼把床分配給你？
+How do I pay you?=我要怎麼付錢？
+How do I pay you?=我該如何付款？
+How much does it cost to hire someone?=僱用某人要多少錢？
+How much does it cost to hire someone?=請人要多少錢？
+How's it goin' my man?=嘿兄弟，最近怎樣？
+Howdy buddy. If you’re looking for protection, you’ve come to the right place.=嗨伙計. 要找保衛的話, 你來對地方了.
+Howdy, buddy. You need somethin'?=你好，夥伴。你需要什麼嗎？
+Howdy, I'm {{A}}. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=你好啊，我是 {{A}}。如果你想幫愛車重新烤漆，或是需要拖吊服務，找我就對了。
+Howdy, I'm Marco. If you're looking for a fresh paint job, or need your car towed, I'm the fella for the job.=你好啊，我是 馬可。如果你想幫愛車重新烤漆，或是需要拖吊服務，找我就對了。
+How’s it goin’ my man?=我的兄弟怎麼了？
+Huh?!=蛤？！
+I can give you ${{A}}=我可以給你 $ {{A}}
+Huh?=啊？
+HYDROBRO=水電
+I can help you with that. What sort of employee are you looking for?=我可以幫你。你想找什麼類型的員工？
+I don't know any pseudo suppliers, so you're on your own for this one. There ought to be someone in <color\=#4CB0FF>Westville</color> that can get you what you need.=我不認識 偽麻黃鹼 的供應商，所以這次得靠你自己了.\n在 <color\=#4CB0FF>韋斯特維爾</color> 應該有人可以幫你弄到你需要的東西。
+I don't know any pseudo suppliers=我不知道任何假麻供應商
+I don't really like that...=我不太喜歡那個……
+I don't think so. Nevermind=我覺得不太行，算了
+I don't think so...=我覺得不太行…
+I guess that's fine bro. When?=我想這樣也行，兄弟。什麼時候？
+I guess that's fine. When?=行吧，什麼時候？
+I haven't been assigned any pots or drying racks=我還沒有被分配到盆栽或乾燥架。
+I haven't been assigned any stations= 我還沒有被分配任何工作站。
+I haven't been assigned any trash cans=我還沒有被分配到垃圾桶
+I haven't been assigned to any stations or routes.= 我還沒有被分配到任何工作站或路線。
+I haven't had my fix in too long, I really need something right now bro. You got anything I can buy??=我已經太久沒抽了, 現在真的需要點東西老兄.\n你有什麼能賣我嗎??
+I haven't had my fix in too long, I really need something right now. You got anything I can buy??=我已經太久沒抽了, 現在真的需要點東西.\n你有什麼能賣我嗎??
+I need a dead drop:=我需要死信箱投遞:
+I need one of my assigned stations to have enough product and packaging to get to work.=我需要我指定工作站有足夠的產品和包裝才能開始工作。
+I need to trade some items=我需要交易一些東西
+I want to hire an employee=我想聘請一位員工
+I work in agriculture=我從事農業工作  
+I'd like a hair cut=我想剪個頭髮
+I'd like to browse your stock=我想看看你的商品
+I'd like to buy a skateboard=我想買一個滑板
+I'd like to buy the room=我想買這個房間
+I'd like to get a tattoo=我想刺個青
+I'd like to purchase a business=我想購入一筆生意
+I'd like to purchase a property=我想購入一處房產
+I'd like to purchase a vehicle=我想買輛車
+I'd like to purchase something=我想買東西
+I'd like to rent a room=我想租一個房間
+I'd like to repaint my vehicle=我想給我的車重新上色
+I'd like to sell something=我想要賣東西。
+I'll be done shortly=我很快就好
+Gross!=好噁！
+I'm {{A}}, I run this here hardware store. What line of work are you in?=我是{{A}}, 我在這裡經營五金行. 你從事哪方面的工作？  
+I'm Dan, I run this here hardware store. What line of work are you in?=我是丹, 我在這裡經營五金行. 你從事哪方面的工作？  
+I'm feining for something! You got anything I can buy??=我超想要來點什麼！你有啥可以買的？
+I'm good thanks=我很好，謝啦
+I'm here for Nelson's package=我是來拿貨的
+I'm looking for some weaponry.=我想找點武器
+I've got some business with some fellas staying down at the motel, tell them you're here for Nelson's package. No need to pay for anything.=我跟汽車旅館裡那些人有些生意往來，告訴他們你是來取尼爾森的包裹，不需要另外付錢。
+If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=如果沒記錯，我在那裡藏了些錢。<br>不多，但足夠讓你東山再起了。
+If you want to convert more cash to online balance, you're gonna need to start <color\=#4CB0FF>laundering</color>.=如果你想把更多現金轉成帳戶餘額，就得開始 <color\=#4CB0FF>洗錢</color>
+If you're needing to order larger quantities of supplies, you can now organize an in-person meeting with me. Just send me a text.=要大量進貨的話，現在可以約我面交，需要的話傳個簡訊吧。
+Inactive=不活動  
+Investigate the explosion=調查爆炸  
+It is up the stairs behind my restaurant! Go around back and you'll see.=就在我餐廳後面的樓梯上！繞到後面你就會看到。
+Jesus christ!=我的天啊！
+Just send me a text if you'd like to meet.=要是你想面交的話就傳個訊息。
+Keep trying different mix recipes, and you'll be able to make some seriously valuable product.=持續嘗試不同的混合配方，你就能夠製作出非常有價值的產品。
+Keeping it Fresh=保持乾淨
+Learn the basics of growing and selling weed.=學習種植和銷售大麻的基本知識。
+Let's call it \(\$\d+)\. Deal?=定價 $，怎麼樣？
+Let's see...=來看看…
+Lets get this over with=趕快結束吧
+Lets get this over with=趕快解決吧
+Lets get this party started=派對開搞！
+List {{A}} for sale in the product manager app=在App的產品管理列表出售 {{A}}
+List OG Kush for sale in the product manager app=在App的產品管理列表出售 OG庫什
+Looks like you're gonna need somewhere low key to stay for a while. Head over to the <color\=#4CB0FF>motel</color> and ask about getting a room.=看來你得找個低調的地方暫時藏身，去<color\=#4CB0FF>汽車旅館</color>問問還有沒有房間。
+Looks like you've reached your <color\=#4CB0FF>weekly deposit limit...</color> To avoid arousing suspicion, you can only deposit so much cash each week via ATMs.=你已經碰到 <color\=#4CB0FF>每週存款上限</color>... 為了不被懷疑，每週ATM只能存這麼多現金。
+Loyal=忠誠客戶
+Machete<color\=#54E717> ($250)</color>=開山刀<color\=#54E717> ($250)</color>
+Make sure I have the right seeds in my supplies stash.=確認我的供應品庫存中有正確的種子。
+Making the Rounds=繞圈子
+Many different items can be used as a mixer. Consider buying a few different mixing ingredients for experimenting.=很多東西都能當混合材料，不妨多買幾種來試試。
+Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=近戰武器、鈍器、刀具、當然還有槍跟子彈，\n我會不定期補貨。
+Message {{A}} about buying some pseudo=傳訊給 {{A}} 詢問購買 偽麻黃鹼
+Message Shirley about buying some pseudo=傳訊給 雪莉 詢問購買 偽麻黃鹼
+Mix a strain worth at least $60=混合出一株至少值60塊的品種。
+Mixing Mania=混合狂熱
+Mmm not bad at all... I'll message you=嗯，不錯喔…我再聯絡你
+Mmm not bad... I'll message you=嗯，還不錯... 我會私訊你
+Money Management=資金管理
+Mornin` dude=早安兄弟
+Morning bud, come talk to me after you've got everything done in the RV.=早安，夥伴，房車工作結束後來找我聊聊
+Morning buddy, lovely day ain't it?=早安兄弟，天氣不錯對吧？
+Morning mate, what can I get ya?=早安夥計，想買點啥？
+Move the grow tents and packaging station to the new room=將種植帳篷和包裝站搬移至新房間
+Moving Up=向上發展
+Much appreciated homie=感謝啦兄弟
+Much appreciated homie=非常感謝兄弟
+Much appreciated.=非常感謝
+Much appreciated=非常感謝
+My vehicle is stuck=我的車卡住了
+Nah nevermind man=沒事了老兄
+Nah, not for me dog=不了，這不我要得
+Needin' the Green=需要鈔票
+Nevermind!=算了！
+New Laundering Operation=新增洗錢作業
+Nice=不錯
+No issues.=沒問題
+No problem homie, see ya later.=沒事啦兄弟，回頭見
+No thanks brody=不用了謝謝
+No thanks dude. I'll just look elsewhere=不用了兄弟，我去別處看看
+No thanks mulatto=不用了，混血兒
+No thanks. I'll just look elsewhere=謝了，我自己找
+No thanks=不，謝了
+No way man=別鬧了
+No way=不可能
+No worries, here you are.=別客氣，給你
+NO!!! Nevermind=不！！！算了
+No!=不！
+No, not right now=現在不要
+Noooo!=不！
+Noooo...=不…
+Nope - nevermind=嗯…還是算了
+Nope!! Nevermind=不可能！算了
+Nope=沒門
+Nopeskies bro - nevermind=不用了兄弟，算了吧
+Not again...=又來…
+Not bad... I'll message you=還不錯…我聯絡你
+Not enough cash=錢不夠
+Not gonna happen brody. I'll get it somewhere else=不行兄弟，我去別處搞
+Not gonna happen!! I'll get it somewhere else bitch=做夢去吧！我去找別人買
+Not gonna happen. I'll get it somewhere else=不行，我另找人買
+Not interested, sorry=不感興趣，抱歉
+Not interested=沒興趣
+Not right now=現在不是時候
+Not too bad, I'll message you some time=東西還行，有空再聯絡你
+Not too bad, I'll message you some time=還行，我回頭聯絡
+Not what I asked for. The deal is off.=跟說好的不一樣。交易取消了。
+Not what I like, sorry=不是我的菜，抱歉
+Not what I like=不喜歡
+Not yet=還沒
+Nothing=沒事了
+Nvm dog=沒事朋友
+nvm dog=算了，夥伴
+nvm=算了
+Nvm=算啦
+Oh ain't that nice, I always fancied a bit of gardening myself. Here's some SpeedGrow on the house. Welcome to {{A}}.=哦，那不錯，我自己也一直想嘗試園藝.\n這是免費贈送的速生劑\n歡迎來到{{A}}.
+Oh ain't that nice, I always fancied a bit of gardening myself. Here's some SpeedGrow on the house. Welcome to Hyland Point.=哦，那不錯，我自己也一直想嘗試園藝。\n這是免費贈送的速生劑\n歡迎來到海蘭德角。
+Oh alright=哦，好吧。
+Oh alright=喔，好吧
+Oh damn, I need me more of that. I'll text you=哇靠，這東西給我多來點。我再聯絡你
+Oh fuck!=靠！
+Oh no!=糟了！
+Oh ok=哦，好吧
+Oh okay, I'll be here if you change your mind.=哦，好的...如果你改變主意的話可以再來找我。
+Oh okay... I'll finish my current task and leave after that. Are you sure you want me to stop working for you?=好, 我先完成手邊工作再走.\n你真的要我別幹了嗎？
+Oh shit!=幹！
+Oh sorry partner, didn't mean to pry. I'll let you be on your way...=喔，抱歉兄弟，我不是故意要打探你的。你請便……
+Oh thank god=喔，謝天謝地
+Oh very nice! You'll be hearing from me=不錯喔！我會再聯絡你
+Oh yeah, boss man told me about you. Come in.=哦，可以，老大跟我說過你。
+Oh yeah? And you gonna pay for it?=哦，是嗎？那你打算付錢嗎？
+Oh yeah? Eh don't worry about 'em. I'll settle with them soon enough. Thanks for grabbing that for me.=喔是嗎？別理他們，我很快會搞定的。\n謝啦，幫我拿到那玩意。
+Oh yes very good! <color\=#54E717>$800</color> for room, yes?=很好！房間是 <color\=#54E717>$800</color> ，對吧？
+Ok bro. What time?=好啊兄弟，幾點？
+OK FINE! What time????=好啦好啦！到底幾點？
+OK FINE! What time????=好啦！幾點啊？
+Ok maybe next time=好吧，也許下次
+Ok no problem=沒問題
+Ok whatever. What time?=好啦，那幾點？
+Ok. What time you wanna meet?=好，幾點見？
+Ok...=嗯…
+Ok=好
+Okay, let me know if you change your mind.=好啊，改變主意再說
+Okay=好的  
+On the Grind=打拼中
+On your way.=回到你要去的路上吧.  
+One moment bro...=稍等一下，兄弟…
+One moment please=等我一下
+One sec...=等一下…
+Oof!=哎呀！
+Oof!=哎呀！
+Oooh yeah not bad! I'll text you=唔～不錯喔，我再聯絡你
+Ooooh yeah=哦耶～
+Open the contacts app=打開通訊錄應用
+Open up your contacts app and look for a supplier in {{A}}. Keep unlocking customers in that region, and you'll get their attention in no time.=打開你的通訊錄應用程式, 尋找在 {{A}} 的供應商.\n持續解鎖該區域的客戶, 你很快就會引起他們的注意.
+Open up your contacts app and look for a supplier in Westville. Keep unlocking customers in that region, and you'll get their attention in no time.=打開你的通訊錄應用程式, 尋找在韋斯特維爾的供應商.\n持續解鎖該區域的客戶, 你很快就會引起他們的注意.
+Open your phone (press Tab) and read your messages=打開手機(按Tab)並閱讀你的訊息
+Open your phone and read your messages=打開手機並閱讀訊息
+{{A}} says thanks={{A}} 說了謝謝
+Oscar says thanks=奧斯卡 很感謝
+
+{{A}} will sell everything you need to make meth, with the exception of <color\=#4CB0FF>pseudo</color>. For that, you're gonna need to hook yourself up with a supplier.={{A}} 能賣給你製作 冰毒 所需東西,\n但 <color\=#4CB0FF>偽麻黃鹼</color> 除外. 因為如此,\n你需要找一個供應商合作.
+Oscar will sell everything you need to make meth, with the exception of <color\=#4CB0FF>pseudo</color>. For that, you're gonna need to hook yourself up with a supplier.=奧斯卡 能賣給你製作 冰毒 所需東西,\n但 <color\=#4CB0FF>偽麻黃鹼</color> 除外. 因為如此,\n你需要找一個供應商合作.
+#Oscar will sell everything you need to make meth=奧斯卡 會出售製作冰毒的所有必需品
+Ouch!=哎喲！
+Output slot is full!=輸出格滿了！
+Outstanding, the property has been transferred to your name.=讚啦，這房產現在登記在你名下了
+Ow!=哇！
+Owww...=嗚啊……
+Package all the weed at the packaging station=在包裝站包裝所有大麻
+Package at least 3x weed=至少包裝 3 份大麻
+Packin'=包裝
+Packin'=打包
+Park the car=停車停車
+{{A}} off!=滾！
+{{A}} off=滾
+Piss off!=滾！
+Piss off=滾
+Place cash in the briefcase on the botanist's bed=將現金放進植物學家床上的公事包  
+Place cash in the briefcase on the chemist's bed=把錢放進化學家床上的公事包
+Place cash in the briefcase on the cleaner's bed=將現金放進清潔員床上的公事包  
+Place cash in the briefcase on the packager's bed=將現金放在包裝員床上的公事包裡
+Place the expected products here=將預期產品放在這裡
+Place the grow tent and fill it with soil=放置種植帳篷並填入土壤
+Place the mixing station=放置混合站
+Place the packaging station in the motel room=將 包裝站 放在 汽車旅館房間 裡
+Place the soil bag and seed vial in the motel room trash can=將 土壤袋 和 種子小瓶 丟進 汽車旅館 的 垃圾桶 中
+Plant a {{A}} in the empty pot=在空盆栽裡種下一粒{{A}}
+Plant a weed seed in the empty pot=在空盆栽裡種下一粒大麻種子
+Please tell me you're ready...=告訴我準備好了…
+Pot already full=盆栽已經滿了
+Pour soil=倒土
+Pretty good. I'll message you soon=好東西，會再聯絡你
+Probably=大概吧
+Provide a sample to {{A}} near the doctor's office=在診所附近向 {{A}} 提供樣品
+Provide a sample to Chelsey near the doctor's office=在診所附近向 切爾西 提供樣品
+Provide {{A}} with at least {{B}}x Weed=提供 {{A}} 至少 {{B}}x 大麻
+Provide Benji with at least 10x Weed=提供 班吉 至少 10x 大麻
+Provide ingredients then select recipe=提供原料並選擇配方
+Purchase 2x soil from the hardware store=從 五金行 購買 2x 土壤
+Purchase a business at {{A}}'s Realty=在 {{A}}式房地產 購入 1筆 生意
+Purchase a business at Ray's Realty=去 睿式房地產 購入 1筆 生意
+Purchase a chemistry station from {{A}}=從 {{A}} 購買 化學站
+Purchase a chemistry station from Oscar=從 奧斯卡 購買 化學站
+Purchase a lab oven from {{A}}=從 {{A}} 購買 實驗室烤箱
+Purchase a lab oven from Oscar=向 奧斯卡 購買 實驗室烤箱
+Purchase a mixing station and make your first custom mix.=買個 混合站 來調配你的第一個配方
+Purchase a mixing station from the hardware store= 從五金行 購買 混合站
+Purchase acid from {{A}}=從 {{A} }購買 酸液
+Purchase acid from Oscar=向 奧斯卡 購買 酸液
+Purchase at least one mixing ingredient=購買至少一種混合成分  
+Purchase Cuke=購買 酷樂
+Purchase phosphorus from {{A}}=向 {{A}} 購買 磷
+Purchase phosphorus from Oscar=向 奧斯卡 購買 磷
+Purchase the room above the Chinese Restaurant=購買 中餐館樓上的房間
+Purchase=購買
+Quit it!=別鬧了！
+r:"^Alright, I'll be a dealer for you but there is a <color\=#54E717>(.+)<\/color> signing fee, and I'll take a <color\=#54E717>(.+)<\/color> cut of each sale\. We got a deal\?$"=行，我幫你賣貨，不過你得先付 <color\=#54E717>$1</color> 的簽約費，而且我每筆還要抽 <color\=#54E717>$2</color>。成交嗎？
+r:"^I'm still currently waiting on a payment of (<color\=#46CB4F>\$\d+(?:,\d+)?<\/color>)\. Please deposit it into my stash box when you've got a chance\."=我還在等你補上 $1 呢，有空就把錢放我的藏匿處。
+r:"Click and hold over leaves to harvest \((\d+)/(\d+)\)"=使用滑鼠點擊葉子進行收穫($1/$2)
+r:"Click leaves to harvest \((\d+)/(\d+)\)"=點擊葉子進行收穫($1/$2)
+r:"Need me (\d+)x (.+?)! I'll pay <color\=#46CB4F>(.+)<\/color> yeah\?\?"=我需要 $1 份 $2！我會付<color\=#46CB4F>$3</color>，可以嗎？
+Pour soil into pot ({{A}}%)=將土壤倒入盆栽中 ({{A}}%)
+r:"Pour soil into pot (.+)"=將土壤倒入盆栽中 $1
+r:"Save (.+) for a new property"=存下 $1 購買新物業
+r:"You can pay off your debt by placing cash in my stash. It's (.+)"==你可以透過將現金放進我的藏匿處來還清債務。它在 $1
+Reach 'friendly' relationship status with {{A}}, {{C}}, or {{B}}=與 {{A}}, {{C}} 或 {{B}} 達到「友好」關係狀態
+Reach 'friendly' relationship status with Chloe, Ludwig, or Beth=與 Chloe、Ludwig 或 Beth 達到「友好」關係狀態
+Read the note=閱讀紙條  
+Ready bro??=好了兄弟？
+Ready to roll?=開工了嗎？
+Ready when you are homie=你隨時準備好我就上，兄弟。
+Ready when you are=我準備好了
+Ready when you are=當你準備好就來吧
+Ready yet??=你好了沒？
+Ready=準備
+Ready?=準備好了？
+Ready??=準備好了？
+Receding=後退
+Recipe(s)=配方
+Hey bro! I really need some of your stuff right now... you got anything?=嘿兄弟！我現在真的需要你的東西……你有什麼嗎？
+Recruit and manage your first dealer to handle distribution for you.=招募並管理你的第一位經銷商來處理分銷事宜。
+Recruit Benji Coleman as a dealer=招募 班吉·科爾曼 作為你的經銷商
+Red=紅色
+Remember to list your new product for sale in the product manager app.=記得在<color\=#88CBFF>產品管理App</color>中列出你的新產品以供銷售。
+Remember to list your new product for sale in the <color\=#88CBFF>product manager app</color>.=記得在 <color\=#88CBFF>商品管理App</color> 中列出你的新產品以供銷售.
+Respond to your customers in the messages app=在訊息App中回覆顧客
+Return to {{A}}=回去找 {{A}}
+Return to Uncle Nelson=回去找 尼爾森叔叔
+Schedule your first deal=安排你的第一筆交易
+Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=給他發個 <color\=#4CB0FF>訊息</color> 並要一個 <color\=#4CB0FF>指定地點</color>。<br>我幫你擔保了，所以你可以先賒帳，之後再還就好。
+Send me a message if you want to order a drop.=如果您想訂購一筆投遞，請傳訊息給我。
+Shit!=幹！
+Shit...=爛貨…
+Shit=幹
+Sink or Swim=孤注一擲
+Sorry boss, I haven't been paid to work today.=老闆我今天沒領薪水，不能幹
+Sorry boss, I need to be assigned a bed before I can get to work.=抱歉老闆，我需要先被分配到一張床才能開始工作。
+Sorry boss, my shift ends at 4AM.=抱歉老闆，我的班次是凌晨 4 點結束。
+Sorry homie, not my taste=抱歉兄弟，不是我的菜
+Sow a {{A}}=播種一顆{{A}}
+Sow a weed seed=播種一顆大麻種子
+sr:"'(.+)' REGION MUST BE UNLOCKED"=必須先解鎖「$1」地區
+sr:"(\d+x) (.+)\, (.+)"=$1 $2, $3
+sr:"^Cheers. My friend (.+) might like your stuff. Go check them out$"=謝啦。我的朋友 $1 可能會喜歡你的東西。去跟他聊聊吧。
+sr:"^Much appreciated. Maybe go talk to (.+). I think they'd like your product$"=非常感謝。你或許可以去跟 $1 聊聊。我想他會喜歡你的產品。
+sr:"^Thanks. Hey my friend (.+) might be interested in your stuff. You should go talk to them.$"=謝啦。我的朋友 $1 可能會喜歡你的東西。去跟他聊聊吧。
+sr:Learn how to manage (.+).=學習如何管理$1。
+sr:• Learn how to manage (.+).=• 學習如何管理$1。
+Stand still - you're under arrest.=別動！你被捕了
+{{A}}d still while you are searched=被搜身時請站好
+Stand still while you are searched=被搜身時請站好
+Stand still while you are searched=被搜身時請站好
+Stand still while you are searched=被搜身時請站好
+{{A}}d still. You're being searched=站好. 正在對你搜身
+Stand still. You're being searched=站好. 正在對你搜身
+START=開始
+Stay here while I search your vehicle=停下來，我要搜查你的車輛
+Stop!=停下！
+Stop!=站住！
+STOP=停下
+SUBURBIA=郊區
+Supplier Meeting=供應商會面
+sr:"Supplier Meeting \((.+)\)"=供應商會面 ($1)
+Sure is=當然是
+Sure thing=沒問題
+{{A}} as my man=麻吉如老兄
+Sweet as my man=太棒了老兄
+Enough!=夠了！
+Talk to 'U.N.' at a payphone=在公用電話中與「尼叔」對話
+Talk to {{B}} in {{A}} #{{C}}=與 {{A}}#{{C}}號房 的 {{B}} 交談
+Talk to Benji Coleman in Motel Room #2=與 汽車旅館2號房 的 班吉·科爾曼 交談
+Talk to {{A}} at the Chinese restaurant=與 中餐館 的 {{A}} 交談
+Talk to Mrs. Ming at the Chinese restaurant=與 中餐館 的 明太太 交談
+Talk to Nelson's contact=與 尼爾森的聯絡人 交談
+Talk to the dealership manager=與 車行經理 交談
+Talk to the manager in the motel office=與 汽車旅館辦公室 的 經理 交談
+Talk to the mechanic=與機械師交談
+Talk to the real estate agent=與房仲交談 
+Talk to {{A}} at a payphone=用 公用電話 與 {{A}} 交談
+Talk to Uncle Nelson at a payphone=用 公用電話 與 尼爾森叔叔 交談
+Task Details=任務詳細資訊
+Tasks=任務
+Thank you partner.=謝啦，夥伴。
+Thank you!=謝謝你！
+Thank you, come again!=謝謝，歡迎再來！
+Thank you, very good! You can get to the room behind the restaurant, up the stairs.=謝謝，很好！你可以從樓梯上去，到餐廳後面的房間。
+Thank you. Bring me some product and assign some customers to me, and I'll get to work.=謝謝。給我點產品，分幾個客戶給我，我就開工。
+Thank you. You should go talk to {{A}} - I think she'll like your stuff=謝謝你. 你應該找 {{A}} 談談 - 我想她會喜歡你的東西
+Thank you. You should go talk to {{A}} - they might be able to help you move your stuff.=謝謝你. 你應該找 {{A}} 談談 - 他也許能幫你出貨.
+Thank you.=謝謝。
+No thanks...=不了 謝謝...
+Thanks boss.=謝啦，老闆。
+Thanks boss=謝謝老闆
+Thanks buddy=謝謝你，夥伴。
+Thanks for choosing {{A}}.=感謝你來 {{A}} 購物
+Thanks for choosing Dan's Hardware.=感謝你來丹氏五金行購買
+Thanks for choosing Handy Hanks!=感謝你來漢克五金行購買！
+Thanks for shopping at {{A}}.=感謝您在 {{A}} 購物。
+Thanks for shopping at Dan's Hardware.=感謝你在丹氏五金行購物。
+Thanks for shopping at Handy Hanks!=感謝你在漢克五金行購物！
+Thanks for shopping with {{A}}.=感謝您與 {{A} }購物.
+Thanks for shopping with {{A}}=感謝您與 {{A} }購物
+Thanks for shopping with Oscar.=感謝你向奧斯卡購物。
+Thanks for shopping with Oscar=感謝來 奧斯卡 我這購物。
+Thanks for your order!=感謝你的訂單！
+Thanks for your purchase!=感謝你的購買！
+Thanks for your purchase.=感謝你的購買。
+Thanks mate!=謝啦，哥兒們！
+Thanks my man.=感謝你，老兄。
+Thanks my man=謝謝你，我的朋友。
+Thanks!=謝啦！
+Thanks, we're done.=謝啦，我們搞定了。
+Thanks. By the way, my friend {{A}} can hook you up with pseudo. I've passed your number on to her.=謝啦。對了，我的朋友 {{A}} 可以幫你搞到 偽麻黃鹼，我已經把你的聯絡方式給她了。
+Thanks. By the way, my friend Shirley can hook you up with pseudo. I've passed your number on to her.=謝啦。對了，我的朋友 雪莉 可以幫你搞到 偽麻黃鹼，我已經把你的聯絡方式給她了。
+Thanks. Hey, I know a guy called Salvador who can hook you up with coca seeds. I've given your number to him.=謝啦。嘿，我認識一個叫 薩爾瓦多 的，他可以幫你搞到古柯種子。我已經把你的聯絡方式給他了。
+Thanks. Hey, my friend {{A}} is a dealer and can help you move your product. You should go speak to them.=謝啦。嘿，我朋友 我的朋友 {{A}} 是個經銷商，可以幫你賣貨。你應該去找他聊聊。
+Thanks...=謝啦……
+Thanks=謝謝  
+That's crap=那太爛了
+That's good stuff. You'll hear from me=不錯的東西，我會再找你
+That's great to hear. Which property are you interested in?=很好啊，你對哪個地點有興趣？
+That's shit!=這東西太爛了吧！
+That's some good shit!! You'll hear from me=這太讚了！！我會再聯絡你
+That's your first mix done! There's a wide range of different <color\=#4CB0FF>ingredients</color> with <color\=#4CB0FF>unique effects</color>. Each one will affect the value of your product differently.=第一個混合完成！每種 <color\=#4CB0FF>材料</color> 都具有 <color\=#4CB0FF>獨特效果</color>，而這些將會影響你產品的價值。
+The best way to gain new customers is to give a free sample to a friend of an existing customer.=獲取新客戶的最好方法是給現有客戶的朋友一個免費樣品。
+The deal is off. This is not what I wanted.=這筆交易取消了。這不是我要的。
+The Deep End=深水區
+The hell bro?=搞啥鬼？
+The hell was that?=那是什麼鬼東西？
+The hell?=搞啥？
+There is a plant ready for harvest, but it has no destination or it's destination is full.=有株植物已經準備好收穫了，但它沒有目的地或是目的地已經滿了。
+There is a pot ready for sowing, but I don't have any seeds for it.=有一個盆栽準備好播種了，但我沒有種子。
+There's a cheap room for sale above the Chinese restaurant just north of your motel room. Save <color\=#4CB0FF>$800</color>, then go ask about buying the room.=你房間北邊的中餐館樓上有間便宜的房，存 <color\=#4CB0FF>$800</color> 再去問問。
+There's a powerful cartel in town, the <color\=#4CB0FF>Benzies family.</color> I figured they'd eventually be a problem, but didn't think they'd find you this quickly...=鎮上有個強大的販毒集團，<color\=#4CB0FF>班基斯家族</color>。<br>我早料到他們遲早會是個麻煩，但沒想到他們這麼快就找上你了……
+There's nothing for me to do right now.=我現在沒事可做。
+This isn't right. The deal is off.=這不對。這筆交易取消了。
+This isn't what I asked for! The deal is off.=這不是我要的！交易取消！
+Time to clean some shit up.=是時候來清一下爛攤子了。
+Time to expand your customer base, grab some supplies and talk to {{A}}'s contact at the motel.=是時候擴張客群了，先拿點補給，再去旅館找 {{A}}的聯絡人
+Time to expand your customer base, grab some supplies and talk to Uncle Nelson's contact at the motel.=是時候擴張客群了，先拿點補給，再去旅館找 尼爾森叔叔的聯絡人
+Time to make some MONEY!!!!!=是時候賺點錢了!!!!!
+To keep up with more customers, you'll need more product. The motel room isn't gonna cut it for much longer - time for an upgrade.=隨著客戶變多，你需要的貨就越多。這間汽車旅館的房間很快就會不夠你用——是時候擴張了。
+TOO LONG!! Nevermind=等太久了！算了
+Unlock {{A}}, {{C}}, or {{B}} as customers=將 {{A}}, {{C}} 或 {{B}} 解鎖成為顧客 
+Unlock Chloe, Ludwig, or Beth as customers=將 Chloe、 Ludwig 或 Beth 解鎖成為顧客 
+Unlock the pseudo supplier in Westville (see contacts app for more info)=解鎖韋斯特維爾的偽麻黃鹼供應商(詳情請查看通訊錄App)
+Unlock this customer by giving them a free sample. Use your map to see their approximate location.=給他們免費的樣品，鎖定這位顧客。使用你的地圖查看他們的大概位置。
+Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers.=使用<color\=#88CBFF>經銷商管理App</color>來分配客戶給經銷商。
+EMPLOYEE LIMIT REACHED ({{A}})=達到員工數限制（{{A}}）
+
+Use the laundering station to start a new laundering operation=用洗錢站開始新的洗錢業務
+
+
+V-Neck=V領
+Very nice!=不錯喔！
+Very nice=不錯
+View dead drop=查看死信點
+Wait for a message from a customer=等待客戶的訊息
+Wait for the dead drop=等待死信投遞點的物資
+Wait for the laundering operation to complete=等待洗錢業務完成
+Wait! You're under arrest=站住！你被捕了
+Water the seed=給種子澆水
+Water the weed plant=給大麻植物澆水
+We Need To Cook=我們得幹一票了
+We need to meet up=我們得碰個面
+We've been working together for a while now, and you've proven to be quite reliable.=我們已經合作一陣子了，你挺靠譜的。
+We've been working together for a while now=我們合作有段時間了
+Welcome to Gas-Mart=歡迎來到 加油站超市
+Welcome to {{A}}. What can I do for you?=歡迎光臨 {{A}}\n有什麼我能效勞的？
+Welcome to Hyland Auto. What can I do for you?=歡迎光臨 海蘭德車行\n有什麼我能效勞的？
+Welcome to Hyland Point=歡迎來到 海蘭德角
+Well I'll let you get on with it. See ya tomorrow, bud.=行，那你先忙，明天見啦，夥伴。
+Well shit... that's not ideal.=好吧……那可不太妙。
+What can I do for you?=我能為你做什麼？
+What can I do for you?=有什麼需要？
+What do you sell?=你賣什麼？
+What do you sell?=你這賣什麼？
+What do you want?=你要什麼？
+What is this? The deal is off!=這啥啦？我不買了！
+What sort of stuff do you sell?=你賣哪種東西？
+What the hell?=搞啥啦？
+What time you wanna meet?=你什麼時候見面？
+What's up homedog, what can I do for you?=兄弟啥事？要我幹嘛？
+What's wrong with you?=你這人是怎樣啊？
+What's your problem?=你有啥問題？
+What?!=啥？
+What?=啥？
+WHAT?=蛤？
+Whats up bro=兄弟怎樣
+What’s up homedog, what can I do for you?=霍姆醫生怎麼了，我該怎麼做？
+Where you do want them? Keep in mind you'll have to provide a bed for this employee.=你要他們在哪裡？記得要準備床位喔
+Who the hell are you? Get lost.=你是誰啦？走開！
+Why aren't you working?=你為什麼還不動工？
+Wicked sick my man, which board are you looking for?=帥爆了兄弟，想要哪塊滑板？
+Woah man...=哇哦…
+Woah!=哇靠！
+Wow that's pretty good, I'll message you=哇～這不錯，我再聯絡你
+Wrapping Up=收尾工作
+Wretched Hive of Scum and Villainy=人渣和惡棍的窩點
+Yeah okay thanks...=好啦謝啦...
+Yeah?=啊？
+Yeah??=行嗎？？
+Yeahhhh, more or less. Most of them are probably not completely non-illegal… what’re you askin' for anywho?=大致是啦，也不是真的全合法…你到底想幹嘛？
+Yes =是 
+Yes!!!=是的！
+Yes=是
+Yes?=是？
+Yikes!=哎呀！
+
+So you'd like to purchase laundromat? Payments are made from your online balance.=所以你想購買 自助洗衣店 嗎？\n付款將從你的線上餘額中扣除。
+
+You better watch your back - this town won't tolerate scum like you for much longer...=你最好小心點，這地方不會一直容忍你這種人
+You can assign customers to me with the dealer management app on your phone.=你可以用手機裡的管理App把客戶分配給我
+You can assign customers to me with the dealer management app on your phone.=你可以透過手機上的經銷商管理App將客戶分配給我。
+You can complete deals any time within the window you choose. For now, choose the morning window.=你可以在選擇窗口中的任何時間完成交易。現在，選擇早上的窗口。
+
+You can find it stashed near the <color\=#{{D}}CB{{E}}FF>{{A}}, in the canal,</color> and <color\=#{{F}}CB{{G}}FF>{{B}}</color>. Go grab it, head back to the {{C}}, and we'll go from there.=你可以在 <color\=#{{D}}CB{{E}}FF>{{A}}、運河中</color> 以及 <color\=#{{F}}CB{{G}}FF>{{B}}</color> 找到。<br>把錢收好，回到{{C}}，我們到時候再說。
+You can find it stashed near the <color\=#4CB0FF>town hall fountain, in the canal,</color> and <color\=#4CB0FF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=你可以在 <color\=#4CB0FF>市政廳噴泉、運河中</color> 以及 <color\=#4CB0FF>超市後面</color> 找到。<br>把錢收好，回到房車，我們到時候再說。
+
+You can pay off your debt by placing cash in my stash. It's behind {{A}}.=你可以把現金放在我的藏匿處來還債，就在{{A}}後面。
+You can pay off your debt by placing cash in my stash. It's behind the {{A}}.=你可以把現金放在我的藏匿處來還債，就在{{A}}西側。
+You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.=你可以把現金放在我的藏匿處來還債，就在倉庫西側。
+
+You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.=你可以把現金放在我的藏匿處來還債，就在丹氏五金行後面。
+You can pay off your debt by placing cash in my stash. It's behind the Church.=你可以把現金放在我的藏匿處來還債，就在教堂西側。
+You can pay off your debt by placing cash in my stash. It's on the west face of the warehouse.=你可以把現金放在我的藏匿處來還債，就在倉庫西側。
+
+You can place cash in the briefcase on my bed.=你可以把錢放在我床上的公事包裡。
+You can use your management clipboard for that.=你可以使用 管理寫板夾[9] 來做到。
+You can use your management clipboards to assign pots/drying racks to me.=你可以用 管理寫板夾[9] 將 盆栽/乾燥架 指派給我。
+You can use your management clipboards to assign stations to me.= 你可以使用你的 管理寫板夾[9] 將 工作站 指派給我。
+You can use your management clipboards to assign trash cans to me.=你可以使用 管理寫板夾[9] 將 垃圾桶 指派給我。
+You can use your managment clipboards to assign stations or routes to me.= 你可以使用你的 管理寫板夾[9] 將 工作站或路線 指派給我。
+You can view all potential customers on your <color\=#4CB0FF>map</color>. Grab some weed and give them a <color\=#4CB0FF>free sample</color>. With a bit of luck, they'll agree to become a customer.=你可以在 <color\=#4CB0FF>地圖</color> 上看到所有潛在客戶。拿點大麻給他們試用一下 <color\=#4CB0FF>免費樣品</color>，運氣好他們就會成為你的客戶。
+You can view all potential customers on your map. Grab some weed and give them a free sample. With a bit of luck, they’ll agree to become a customer.=你可以查看你所有潛在客戶的地圖。抓一些大麻並給他們一個免費樣品。運氣好的話，他們會同意成為客戶。
+You crazy bro? No thanks=你瘋了嗎兄弟？不了
+You crazy? No thanks=你瘋了嗎？不用了
+You finally ready?=你終於準備好了？
+YOU FUCKER!=你他媽的混帳！
+You got it?=你懂了嗎？
+You got the stuff?=東西到齊了嗎？
+You insane?! No thanks=你瘋了嗎？！不用了謝謝
+You know everything you need to get yourself established. I'll call you later when you're ready to start manufacturing some harder stuff...=你已經知道怎麼立足了。等你準備好開始做重貨，我會再聯絡你…
+You need at least $10 cash to launder.=洗錢至少得準備 $10 
+You ready?=你準備好了嗎？
+You the new guy in town?=你是鎮上新來的傢伙？
+You think I'm stupid? Deal is off.=你當我傻啊？交易取消.
+
+
+You've got a decent base of operations and a growing customer base. You'll be pulling in some proper cash now, but you'll need help to manage all your customers.=你已經有了像樣的基本營運跟成長的客源.\n現在有賺錢了, 但你會需要有人幫忙管理所有的客人.
+Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>Benji Coleman</color> his name is, I think. He'll be the first dealer you can work with.=是時候考慮招募一名<color\=#4CB0FF>經銷商</color>了.\n我記得有個傢伙叫... 嗯... <color\=#4CB0FF>班吉·科爾曼</color>, 這是他的名字\n我認為, 他會是你第一個可以合作的經銷商.
+You won't be able to hire a dealer until one of their friends has recommended you. {{A}} is friends with <color\=#4CB0FF>{{B}}, {{C}},</color> and <color\=#4CB0FF>{{D}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{A}} 和 <color\=#4CB0FF>{{B}}、{{C}}</color>、還有 <color\=#4CB0FF>{{D}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{A}} is friends with <color\=#4CB0FF>{{B}}, {{D}},</color> and <color\=#4CB0FF>{{C}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{A}} 和 <color\=#4CB0FF>{{B}}、{{D}}</color>、還有 <color\=#4CB0FF>{{C}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{A}} is friends with <color\=#4CB0FF>{{C}}, {{B}},</color> and <color\=#4CB0FF>{{D}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{A}} 和 <color\=#4CB0FF>{{C}}、{{B}}</color>、還有 <color\=#4CB0FF>{{D}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{A}} is friends with <color\=#4CB0FF>{{C}}, {{D}},</color> and <color\=#4CB0FF>{{B}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{A}} 和 <color\=#4CB0FF>{{C}}、{{D}}</color>、還有 <color\=#4CB0FF>{{B}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{A}} is friends with <color\=#4CB0FF>{{D}}, {{B}},</color> and <color\=#4CB0FF>{{C}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{A}} 和 <color\=#4CB0FF>{{D}}、{{B}}</color>、還有 <color\=#4CB0FF>{{C}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{A}} is friends with <color\=#4CB0FF>{{D}}, {{C}},</color> and <color\=#4CB0FF>{{B}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{A}} 和 <color\=#4CB0FF>{{D}}、{{C}}</color>、還有 <color\=#4CB0FF>{{B}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{B}} is friends with <color\=#4CB0FF>{{A}}, {{C}},</color> and <color\=#4CB0FF>{{D}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{B}} 和 <color\=#4CB0FF>{{A}}、{{C}}</color>、還有 <color\=#4CB0FF>{{D}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{B}} is friends with <color\=#4CB0FF>{{A}}, {{D}},</color> and <color\=#4CB0FF>{{C}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{B}} 和 <color\=#4CB0FF>{{A}}、{{D}}</color>、還有 <color\=#4CB0FF>{{C}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{B}} is friends with <color\=#4CB0FF>{{C}}, {{A}},</color> and <color\=#4CB0FF>{{D}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{B}} 和 <color\=#4CB0FF>{{C}}、{{A}}</color>、還有 <color\=#4CB0FF>{{D}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{B}} is friends with <color\=#4CB0FF>{{C}}, {{D}},</color> and <color\=#4CB0FF>{{A}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{B}} 和 <color\=#4CB0FF>{{C}}、{{D}}</color>、還有 <color\=#4CB0FF>{{A}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{B}} is friends with <color\=#4CB0FF>{{D}}, {{A}},</color> and <color\=#4CB0FF>{{C}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{B}} 和 <color\=#4CB0FF>{{D}}、{{A}}</color>、還有 <color\=#4CB0FF>{{C}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{B}} is friends with <color\=#4CB0FF>{{D}}, {{C}},</color> and <color\=#4CB0FF>{{A}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{B}} 和 <color\=#4CB0FF>{{D}}、{{C}}</color>、還有 <color\=#4CB0FF>{{A}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{C}} is friends with <color\=#4CB0FF>{{A}}, {{B}},</color> and <color\=#4CB0FF>{{D}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{C}} 和 <color\=#4CB0FF>{{A}}、{{B}}</color>、還有 <color\=#4CB0FF>{{D}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{C}} is friends with <color\=#4CB0FF>{{A}}, {{D}},</color> and <color\=#4CB0FF>{{B}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{C}} 和 <color\=#4CB0FF>{{A}}、{{D}}</color>、還有 <color\=#4CB0FF>{{B}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{C}} is friends with <color\=#4CB0FF>{{B}}, {{A}},</color> and <color\=#4CB0FF>{{D}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{C}} 和 <color\=#4CB0FF>{{B}}、{{A}}</color>、還有 <color\=#4CB0FF>{{D}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{C}} is friends with <color\=#4CB0FF>{{B}}, {{D}},</color> and <color\=#4CB0FF>{{A}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{C}} 和 <color\=#4CB0FF>{{B}}、{{D}}</color>、還有 <color\=#4CB0FF>{{A}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{C}} is friends with <color\=#4CB0FF>{{D}}, {{A}},</color> and <color\=#4CB0FF>{{B}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{C}} 和 <color\=#4CB0FF>{{D}}、{{A}}</color>、還有 <color\=#4CB0FF>{{B}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{C}} is friends with <color\=#4CB0FF>{{D}}, {{B}},</color> and <color\=#4CB0FF>{{A}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{C}} 和 <color\=#4CB0FF>{{D}}、{{B}}</color>、還有 <color\=#4CB0FF>{{A}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{D}} is friends with <color\=#4CB0FF>{{A}}, {{B}},</color> and <color\=#4CB0FF>{{C}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{D}} 和 <color\=#4CB0FF>{{A}}、{{B}}</color>、還有 <color\=#4CB0FF>{{C}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{D}} is friends with <color\=#4CB0FF>{{A}}, {{C}},</color> and <color\=#4CB0FF>{{B}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{D}} 和 <color\=#4CB0FF>{{A}}、{{C}}</color>、還有 <color\=#4CB0FF>{{B}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{D}} is friends with <color\=#4CB0FF>{{B}}, {{A}},</color> and <color\=#4CB0FF>{{C}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{D}} 和 <color\=#4CB0FF>{{B}}、{{A}}</color>、還有 <color\=#4CB0FF>{{C}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{D}} is friends with <color\=#4CB0FF>{{B}}, {{C}},</color> and <color\=#4CB0FF>{{A}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{D}} 和 <color\=#4CB0FF>{{B}}、{{C}}</color>、還有 <color\=#4CB0FF>{{A}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{D}} is friends with <color\=#4CB0FF>{{C}}, {{A}},</color> and <color\=#4CB0FF>{{B}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{D}} 和 <color\=#4CB0FF>{{C}}、{{A}}</color>、還有 <color\=#4CB0FF>{{B}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. {{D}} is friends with <color\=#4CB0FF>{{C}}, {{B}},</color> and <color\=#4CB0FF>{{A}}</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. {{D}} 和 <color\=#4CB0FF>{{C}}、{{B}}</color>、還有 <color\=#4CB0FF>{{A}}</color> 是朋友. 專心賣他們產品, 等有人推薦你了再說.
+You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>Ludwig</color>. Focus on selling to them until one of them recommends you.=不過, 你得先獲得經銷商的其中一位朋友推薦, 否則無法雇傭經銷商. 班吉 跟 <color\=#4CB0FF>佩姬、貝絲</color>、還有 <color\=#4CB0FF>路德維希</color> 是朋友.\n專心賣他們產品, 等有人推薦你了再說.
+You'll need more space if you're looking to get serious. Time to save for and purchase a new property.=要是你想認真幹，就得多點空間了。該開始存錢買個新地盤。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{A}}CB{{B}}FF>{{C}}</color> - the local {{D}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{A}}CB{{B}}FF>{{C}}</color><br> - 這地區的{{D}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{A}}CB{{B}}FF>{{D}}</color> - the local {{C}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{A}}CB{{B}}FF>{{D}}</color><br> - 這地區的{{C}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{A}}CB{{C}}FF>{{B}}</color> - the local {{D}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{A}}CB{{C}}FF>{{B}}</color><br> - 這地區的{{D}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{A}}CB{{C}}FF>{{D}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{A}}CB{{C}}FF>{{D}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{A}}CB{{D}}FF>{{B}}</color> - the local {{C}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{A}}CB{{D}}FF>{{B}}</color><br> - 這地區的{{C}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{A}}CB{{D}}FF>{{C}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{A}}CB{{D}}FF>{{C}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{B}}CB{{A}}FF>{{C}}</color> - the local {{D}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{B}}CB{{A}}FF>{{C}}</color><br> - 這地區的{{D}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{B}}CB{{A}}FF>{{D}}</color> - the local {{C}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{B}}CB{{A}}FF>{{D}}</color><br> - 這地區的{{C}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{B}}CB{{C}}FF>{{A}}</color> - the local {{D}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{B}}CB{{C}}FF>{{A}}</color><br> - 這地區的{{D}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{B}}CB{{C}}FF>{{D}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{B}}CB{{C}}FF>{{D}}</color><br> - 這地區的{{A}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{B}}CB{{D}}FF>{{A}}</color> - the local {{C}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{B}}CB{{D}}FF>{{A}}</color><br> - 這地區的{{C}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{B}}CB{{D}}FF>{{C}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{B}}CB{{D}}FF>{{C}}</color><br> - 這地區的{{A}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{C}}CB{{A}}FF>{{B}}</color> - the local {{D}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{C}}CB{{A}}FF>{{B}}</color><br> - 這地區的{{D}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{C}}CB{{A}}FF>{{D}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{C}}CB{{A}}FF>{{D}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{C}}CB{{B}}FF>{{A}}</color> - the local {{D}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{C}}CB{{B}}FF>{{A}}</color><br> - 這地區的{{D}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{C}}CB{{B}}FF>{{D}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{C}}CB{{B}}FF>{{D}}</color><br> - 這地區的{{A}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{C}}CB{{D}}FF>{{A}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{C}}CB{{D}}FF>{{A}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{C}}CB{{D}}FF>{{B}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{C}}CB{{D}}FF>{{B}}</color><br> - 這地區的{{A}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{D}}CB{{A}}FF>{{B}}</color> - the local {{C}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{D}}CB{{A}}FF>{{B}}</color><br> - 這地區的{{C}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{D}}CB{{A}}FF>{{C}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{D}}CB{{A}}FF>{{C}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{D}}CB{{B}}FF>{{A}}</color> - the local {{C}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{D}}CB{{B}}FF>{{A}}</color><br> - 這地區的{{C}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{D}}CB{{B}}FF>{{C}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{D}}CB{{B}}FF>{{C}}</color><br> - 這地區的{{A}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{D}}CB{{C}}FF>{{A}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{D}}CB{{C}}FF>{{A}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#{{D}}CB{{C}}FF>{{B}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#{{D}}CB{{C}}FF>{{B}}</color><br> - 這地區的{{A}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>{{A}}</color> - the local {{B}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#4CB0FF>{{A}}</color><br> - 這地區的{{B}}供應商。
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>{{B}}</color> - the local {{A}} supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#4CB0FF>{{B}}</color><br> - 這地區的{{A}}供應商。
+You’ll need to speak to a supplier to get your hands on some seeds. I’ve passed your number onto {{A}} - the local {{B}} supplier.=你需要與供應商交談以獲取一些種子. 我將你的電話號碼傳給 {{A}} - 當地的{{B}}供應商。1
+You’ll need to speak to a supplier to get your hands on some seeds. I’ve passed your number onto Albert Hoover - the local weed seed supplier.=你需要與供應商交談以獲取一些種子. 我將你的電話號碼傳給 阿爾伯特·胡佛 - 當地的大麻種子供應商。2
+You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=想拿到種子的話你得聯絡供應商。<br>我把你的電話給了 <color\=#4CB0FF>阿爾伯特·胡佛</color><br> ——這地區的大麻種子供應商。
+With {{A}}'s help, you'll be able to move a good quantity of product. Now it's time to start manufacturing and selling <color\=#4CB0FF>higher value</color> product.=有了 {{A}} 的協助, 你就能賣掉更多的貨.\n現在是時候開始生產和銷售 <color\=#4CB0FF>更高價值</color> 的產品了.
+With Benji's help, you'll be able to move a good quantity of product. Now it's time to start manufacturing and selling <color\=#4CB0FF>higher value</color> product.=有了 班吉 的協助，你就能賣掉更多的貨。現在是時候開始生產和銷售 <color\=#4CB0FF>更高價值</color> 的產品了。
+You might've noticed you can buy different {{A}} strains from {{B}}, but you can create even more unique products with a <color\=#{{C}}CB{{D}}FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{A}}, 但是用 <color\=#{{C}}CB{{D}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{A}} strains from {{B}}, but you can create even more unique products with a <color\=#{{D}}CB{{C}}FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{A}}, 但是用 <color\=#{{D}}CB{{C}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{A}} strains from {{C}}, but you can create even more unique products with a <color\=#{{B}}CB{{D}}FF>mixing station</color>.=你大概有注意到 {{C}} 那邊能買到各種{{A}}, 但是用 <color\=#{{B}}CB{{D}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{A}} strains from {{C}}, but you can create even more unique products with a <color\=#{{D}}CB{{B}}FF>mixing station</color>.=你大概有注意到 {{C}} 那邊能買到各種{{A}}, 但是用 <color\=#{{D}}CB{{B}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{A}} strains from {{D}}, but you can create even more unique products with a <color\=#{{B}}CB{{C}}FF>mixing station</color>.=你大概有注意到 {{D}} 那邊能買到各種{{A}}, 但是用 <color\=#{{B}}CB{{C}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{A}} strains from {{D}}, but you can create even more unique products with a <color\=#{{C}}CB{{B}}FF>mixing station</color>.=你大概有注意到 {{D}} 那邊能買到各種{{A}}, 但是用 <color\=#{{C}}CB{{B}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{B}} strains from {{A}}, but you can create even more unique products with a <color\=#{{C}}CB{{D}}FF>mixing station</color>.=你大概有注意到 {{A}} 那邊能買到各種{{B}}, 但是用 <color\=#{{C}}CB{{D}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{B}} strains from {{A}}, but you can create even more unique products with a <color\=#{{D}}CB{{C}}FF>mixing station</color>.=你大概有注意到 {{A}} 那邊能買到各種{{B}}, 但是用 <color\=#{{D}}CB{{C}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{B}} strains from {{C}}, but you can create even more unique products with a <color\=#{{A}}CB{{D}}FF>mixing station</color>.=你大概有注意到 {{C}} 那邊能買到各種{{B}}, 但是用 <color\=#{{A}}CB{{D}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{B}} strains from {{C}}, but you can create even more unique products with a <color\=#{{D}}CB{{A}}FF>mixing station</color>.=你大概有注意到 {{C}} 那邊能買到各種{{B}}, 但是用 <color\=#{{D}}CB{{A}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{B}} strains from {{D}}, but you can create even more unique products with a <color\=#{{A}}CB{{C}}FF>mixing station</color>.=你大概有注意到 {{D}} 那邊能買到各種{{B}}, 但是用 <color\=#{{A}}CB{{C}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{B}} strains from {{D}}, but you can create even more unique products with a <color\=#{{C}}CB{{A}}FF>mixing station</color>.=你大概有注意到 {{D}} 那邊能買到各種{{B}}, 但是用 <color\=#{{C}}CB{{A}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{C}} strains from {{A}}, but you can create even more unique products with a <color\=#{{B}}CB{{D}}FF>mixing station</color>.=你大概有注意到 {{A}} 那邊能買到各種{{C}}, 但是用 <color\=#{{B}}CB{{D}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{C}} strains from {{A}}, but you can create even more unique products with a <color\=#{{D}}CB{{B}}FF>mixing station</color>.=你大概有注意到 {{A}} 那邊能買到各種{{C}}, 但是用 <color\=#{{D}}CB{{B}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{C}} strains from {{B}}, but you can create even more unique products with a <color\=#{{A}}CB{{D}}FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{C}}, 但是用 <color\=#{{A}}CB{{D}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{C}} strains from {{B}}, but you can create even more unique products with a <color\=#{{D}}CB{{A}}FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{C}}, 但是用 <color\=#{{D}}CB{{A}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{C}} strains from {{D}}, but you can create even more unique products with a <color\=#{{A}}CB{{B}}FF>mixing station</color>.=你大概有注意到 {{D}} 那邊能買到各種{{C}}, 但是用 <color\=#{{A}}CB{{B}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{C}} strains from {{D}}, but you can create even more unique products with a <color\=#{{B}}CB{{A}}FF>mixing station</color>.=你大概有注意到 {{D}} 那邊能買到各種{{C}}, 但是用 <color\=#{{B}}CB{{A}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{D}} strains from {{A}}, but you can create even more unique products with a <color\=#{{B}}CB{{C}}FF>mixing station</color>.=你大概有注意到 {{A}} 那邊能買到各種{{D}}, 但是用 <color\=#{{B}}CB{{C}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{D}} strains from {{A}}, but you can create even more unique products with a <color\=#{{C}}CB{{B}}FF>mixing station</color>.=你大概有注意到 {{A}} 那邊能買到各種{{D}}, 但是用 <color\=#{{C}}CB{{B}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{D}} strains from {{B}}, but you can create even more unique products with a <color\=#{{A}}CB{{C}}FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{D}}, 但是用 <color\=#{{A}}CB{{C}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{D}} strains from {{B}}, but you can create even more unique products with a <color\=#{{C}}CB{{A}}FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{D}}, 但是用 <color\=#{{C}}CB{{A}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{D}} strains from {{C}}, but you can create even more unique products with a <color\=#{{A}}CB{{B}}FF>mixing station</color>.=你大概有注意到 {{C}} 那邊能買到各種{{D}}, 但是用 <color\=#{{A}}CB{{B}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{D}} strains from {{C}}, but you can create even more unique products with a <color\=#{{B}}CB{{A}}FF>mixing station</color>.=你大概有注意到 {{C}} 那邊能買到各種{{D}}, 但是用 <color\=#{{B}}CB{{A}}FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different {{A}} strains from {{B}}, but you can create even more unique products with a <color\=#4CB0FF>mixing station</color>.=你大概有注意到 {{B}} 那邊能買到各種{{A}}, 但是用 <color\=#4CB0FF>混合站</color> 能做出更獨特的產品.
+You might've noticed you can buy different weed seed strains from Albert, but you can create even more unique products with a <color\=#4CB0FF>mixing station</color>.=你大概發現 阿爾伯特 那邊能買到各種大麻種子, 但是用 <color\=#4CB0FF>混合站</color> 還能做出更獨特的產品.
+You might've noticed you can buy different weed seed strains from Albert, but you can create even more unique products with a mixing station.=你可能已經注意到，你可以從 阿爾伯特 購買不同的大麻種子菌株，但是你可以使用 混合站 製作更多獨特的產品.
+At a <color\=#4CB0FF>mixing station</color>, you mix products with special <color\=#4CB0FF>ingredients</color> to create new mixes with <color\=#4CB0FF>unique effects</color>. {{A}} will pay more for these products.=在 <color\=#4CB0FF>混合站</color>, 你可以用特別的 <color\=#4CB0FF>原料</color> 混合產品, 調出帶有 <color\=#4CB0FF>獨特效果</color> 的新配方. {{A}}會願意多付錢給這些產品.
+At a <color\=#4CB0FF>mixing station</color>, you mix products with special <color\=#4CB0FF>ingredients</color> to create new mixes with <color\=#4CB0FF>unique effects</color>. Customers will pay more for these products.=在 <color\=#4CB0FF>混合站</color>, 你可以用特別的 <color\=#4CB0FF>原料</color> 混合產品, 調出帶有 <color\=#4CB0FF>獨特效果</color> 的新配方. 客人會願意多付錢給這些產品.
+To get started, go purchase a <color\=#4CB0FF>mixing station</color> from {{A}}'s hardware. After that, you'll want to grab something to mix with your weed from the local {{B}}.=在開始之前, 先去 {{A}}氏五金行 買一台 <color\=#4CB0FF>混合站</color>. 之後, 你再去本地的{{B}}買點東西來跟你的大麻混合.
+To get started, go purchase a <color\=#4CB0FF>mixing station</color> from {{B}}'s hardware. After that, you'll want to grab something to mix with your weed from the local {{A}}.=在開始之前, 先去 {{B}}氏五金行 買一台 <color\=#4CB0FF>混合站</color>. 之後, 你再去本地的{{A}}買點東西來跟你的大麻混合.
+To get started, go purchase a <color\=#4CB0FF>mixing station</color> from Dan's hardware. After that, you'll want to grab something to mix with your weed from the local Gas-Mart.=在開始之前, 先去 丹氏五金行 買一台 <color\=#4CB0FF>混合站</color>. 之後, 你再去本地的加油站超市買點東西來跟你的大麻混合.
+10K in earnings - not bad at all! Soon you'll have the capital needed to start manufacturing <color\=#4CB0FF>meth</color>. But first, you're gonna need to purchase some equipment.=賺了1萬塊 — 還不賴！ 很快你就能有資本開始製造 <color\=#4CB0FF>冰毒</color> 了。但首先，你得買一些設備。
+Your best bet for getting the tools you need is the <color\=#4CB0FF>warehouse.</color> It's the local spot where you can do business with... like-minded individuals. Weapons, specialized equipment, workers for hire - all the good stuff.=要搞到需要的工具, <color\=#4CB0FF>倉庫(黑市)</color> 是你最好的選擇. 可以和一群志同道合的人交易的當地場所. 武器、專業設備、可僱工人 - 全是好東西. 
+It's the big brick building behind the liquor store. Head down there and see if you can mosey your way in. Just keep in mind they'll only let you in once you've built a solid rep for yourself.=就在酒品店後面那棟大型砌磚建築. 去看看能不能混進去, 記住你得先有點名聲他們才會放你進去.
+
+Oh yeah, boss man told me about you. You can come in, but you'll have to wait until {{A}}PM.=哦 對啦, 老闆人跟我說過你了.\n你可以進入, 但必須等到 下午{{A}}點 營業之後.
+
+
+You're a small-time drug dealer from the south.=你是來自南方的小毒販。
+You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0FF>weed seeds</color>.=你差不多準備好了, 還缺一樣關鍵成分 - <color\=#4CB0FF>大麻種子</color>。
+You’re almost ready to go, but you’re missing one key ingredient - weed seeds.=你差不多準備好了, 但是你缺少一個關鍵成分 - 大麻種子。
+You're coming with me!=你跟我走！
+You're in a new town with no cash and no product. Get in contact with a distant relative and ask for some help.=你來到了一座新城鎮，身上沒錢也沒貨。聯絡遠房親戚求點幫助吧。
+You're in a new town with no cash and no product. Get in contact with a distant relative and get some advice.=你來到了一座新城鎮，身上沒錢也沒貨。聯絡遠房親戚求點建議吧。
+You're not going to get too far if you're only pushing weed. Time to move onto something a bit harder.=如果你只賣大麻，是走不遠的。該開始碰點更硬的貨了。
+You're under arrest!=你被捕了！
+You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=別客氣，朋友。如果您需要特殊設備或用品，奧斯卡 可以滿足你。
+You've finished a few deals and made some decent cash, but if you're looking to make real money, you'll need to expand your operations - more <color\=#4CB0FF>product</color> and more <color\=#4CB0FF>customers</color>.=你做了幾筆生意也賺了點錢，但要想賺大錢，就得擴展你的規模——更多的 <color\=#4CB0FF>貨</color> 和 <color\=#4CB0FF>客戶</color>。
+your management clipboard to assign a destination for each of my pots, and make sure the destination isn't full.=用你的 管理寫板夾[9] 用來為我的每個盆栽指定一個目的地，並確保目的地還沒滿。
+Your services are no longer required.=你的服務不需要了。
+Your turn!=輪到你了！
+ Thank you!= 謝謝你！
+You’ll need more space if you’re looking to get serious. Time to save for and purchase a new property.=如果你想認真對待，你需要更多的空間。是時候節省併購買新物業了。
+You’re a small-time drug dealer from the south.=你是南方的小型毒販。
+You’re coming with me!=你和我一起來！
+You’re under arrest!=你被逮捕了！
+You’ve finished a few deals and made some decent cash, but if you’re looking to make real money, you’ll need to expand your operations - more product and more customers.=你已經完成了幾筆交易並賺了一些不錯的現金，但是如果你想賺錢，你需要擴大業務 - 更多產品還有更多顧客。
+You’ve got a decent base of operations and a growing customer base. You’ll be pulling in some proper cash now, but you’ll need help to manage all your customers.=你擁有不錯的運營基礎和不斷增長的客戶群。你現在將拿一些適當的現金，但是你需要幫助來管理所有客戶。
+
+• {{A}} a packaging station to the packager=• {{A}}包裝站給包裝員
+• {{A}} a pot or grow tent to the botanist=• 為植物學家{{A}}盆栽或種植帳篷
+• {{A}} a station to the chemist=• {{A}}工作站給化學員
+• {{A}} a supplies source to the botanist=• 將物資來源{{A}}給植物學家
+• {{A}} a trash can to the cleaner=• 將垃圾桶{{A}}給清潔員
+• {{A}} at least 3 customers to Benji=• 至少將 3 位顧客{{A}}給 班吉  
+
+• Assign a packaging station to the packager=• 分配包裝站給包裝員
+• Assign a pot or grow tent to the botanist=• 為植物學家分配盆栽或種植帳篷
+• Assign a station to the chemist=• 分配工作站給化學員
+• Assign a supplies source to the botanist=• 將物資來源分配給植物學家
+• Assign a trash can to the cleaner=• 將垃圾桶分配給清潔員
+• Assign at least 3 customers to Benji=• 至少將 3 位顧客分配給 班吉  
+
+• Bag the contents of the trash can=• 將垃圾桶內容裝袋
+• Bag the contents of the trash can=• 將垃圾桶內的物品裝入袋中
+• Buy 10x baggies=• 購買 10 個小袋子  
+• Buy 1x grow tent=• 購買 1 個種植帳篷
+• Buy 1x packaging station=• 購買 1 個包裝站
+• Buy 1x plant trimmers=• 購買 1 把植物修剪器
+• Buy 1x soil=• 購買 1 包土壤
+• Buy 1x watering can=• 購買 1 個澆水罐
+• Buy a trash bag from the hardware store=• 去五金行買個垃圾袋
+• Buy and place another grow tent=• 購買並放置另一個種植帳篷
+• Collect the dead drop=• 收集死信投遞點的物資
+• Collect the new product=• 收集新產品
+• Collect the stash {{A}}=• 收集 {{A}} 藏匿處
+• Cook liquid meth at the chemistry station=• 在化學站製作液態冰毒
+• Gain access to the warehouse=• 取得倉庫使用權 
+• Go to Gas-Mart=• 去加油站超市
+• Go to the hardware store=• 前往五金行  
+• Go to your new business=• 去你新的事業點
+• Head back to the motel room=• 回到汽車旅館房間  
+• Head back to the RV=• 回到房車
+• Investigate the explosion=• 調查爆炸
+• Message {{A}} about buying some pseudo=• 傳訊給 {{A}} 詢問購買偽麻黃鹼 
+• Message Shirley about buying some pseudo=• 傳訊給 雪莉 詢問購買偽麻黃鹼 
+• Move the grow tents and packaging station to the new room=• 將種植帳篷和包裝站搬移至新房間
+• Open the map app to see your potential customers=• 打開地圖 App 查看潛在顧客  
+• Open your phone (press Tab) and read your messages=• 打開手機(按Tab鍵)並閱讀你的訊息
+• Package at least 3x weed=• 至少包裝3份大麻
+• Package product\n\n• Transport items\n  between stations,\n  storage racks,\n  loading bays, etc.=• 包裝產品\n\n• 在工作站、儲物架、\n裝卸區等地之間搬運\n物品  
+• Place the grow tent and fill it with soil=• 放置種植帳篷並填入土壤
+• Place the mixing station=• 放置混合站
+• Place the soil bag and seed vial in the motel room trash can=• 將土壤袋和種子小瓶放入汽車旅館垃圾桶
+• Provide Benji with at least 10x Weed=• 提供至少 10 份大麻給 班吉
+• Purchase a chemistry station from {{A}}=• 從 {{A}} 購買 化學站
+• Purchase a chemistry station from Oscar=• 向 奧斯卡 購買 化學站
+• Purchase a lab oven from {{A}}=• 從 {{A}} 購買 實驗用烤箱
+• Purchase a lab oven from Oscar=• 向 奧斯卡 購買 實驗用烤箱
+• Purchase a mixing station from the hardware store=• 去五金行買混合站
+• Purchase acid from {{A}}=• 從 {{A}} 購買 酸液  
+• Purchase acid from Oscar=• 向 奧斯卡 購買酸液  
+• Purchase at least one mixing ingredient=•  至少購買一種混合材料 
+• Purchase phosphorus from Oscar=• 向 奧斯卡 購買 磷  
+• Purchase the room above the Chinese Restaurant=• 購買中餐館樓上的房間
+• Read the note=• 看一下便條
+• Recruit Benji Coleman as a dealer=• 招募 班吉·科爾曼 作為你的經銷商
+• Set the pot/grow tent destination=• 設定盆栽/種植帳篷的放置位置
+• Sow a weed seed=• 播種大麻種子
+• Sow seeds; Water plants; Apply additives; Harvest plants; Use drying racks=• 播種; 澆水植物; 施用添加劑; 收穫植物; 使用乾燥架
+• Sow seeds\n\n• Water plants\n\n• Apply additives\n\n• Harvest plants\n\n• Use drying racks=• 播種\n\n• 澆水\n\n• 加入添加劑\n\n• 收割植物\n\n• 使用乾燥架
+• Start a new mix at the mixing station=• 在混合台開始調製新的混合物 
+• Talk to {{A}} at the Chinese restaurant=• 與 中餐館 的 {{A}} 交談
+• Talk to Mrs. Ming at the Chinese restaurant=• 與 中餐館  的 明太太 交談
+• Talk to the arms dealer=• 與軍火商交談 
+• Talk to the dealership manager=• 與車行經理交談 
+• Talk to the fixer=• 與仲介人交談 
+• Talk to the mechanic=• 與機械師交談
+• Talk to the merchant=• 與商人交談 
+• Talk to the real estate agent=• 與房仲交談 
+• Transport items\n  between stations,\n  storage racks,\n  loading bays, etc.=• 包裝產品\n\n• 在工作站、儲物架、裝貨區等之間搬運物品
+• Unlock Chloe, Ludwig, or Beth as customers=• 解鎖 Chloe, Ludwig, 或 Beth 為你的客戶
+• Unlock the pseudo supplier in {{A}} (see contacts app for more info)=• 解鎖 {{A}} 的 偽麻黃鹼 供應商(詳情請查看通訊錄App)
+• Unlock the pseudo supplier in Westville (see contacts app for more info)=• 解鎖韋斯特維爾的偽麻黃鹼供應商(詳情請查看通訊錄App)
+• Use the laundering station to start a new laundering operation=• 使用洗錢站開始新的洗錢行動
+• Use the management clipboard to assign the botanist to a bed=• 使用 管理寫板夾[9] 分配床位 給 植物學家
+• Use the management clipboard to assign the chemist to a bed=• 使用 管理寫板夾[9] 分配床位 給 化學員
+• Use the management clipboard to assign the cleaner to a bed=• 使用 管理寫板夾[9] 分配床位 給 清潔員
+• Use the management clipboard to assign the packager to a bed=• 使用 管理寫板夾[9] 分配床位 給 包裝員
+• Wait for a message from a customer=• 等待客戶發送訊息
+• Wait for the dead drop=• 等待指定地點送貨
+• Wait for the mix to complete=• 等待混合完成
+• Water the weed plant=• 對大麻澆水
