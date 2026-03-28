@@ -1,0 +1,35 @@
+
+Community Vote=社區投票
+CLOSED=已關閉
+ACTIVE=活動中
+
+
+#===================================================
+# 2025/11/01
+#===================================================
+Thanks for voting! Shrooms won this vote, receiving over {{A}}K submissions. This update is estimated to release in November.=感謝您的投票！\n迷幻蘑菇 贏得了這次投票, 收到了超過 {{A}}K投票數.\n此更新預計於 11 月發布.
+
+#===================================================
+# 2025/09/01
+#===================================================
+Fishing=釣魚
+Hireable Drivers=可僱用司機
+What do you want to see in the next Schedule I update?=您想在下一個更新看到什麼？
+Your vote has been recorded.=您的投票已被記錄。
+Your vote has been recorded.\n Thank you!=您的投票已被記錄。\n 謝謝你！
+Thanks for voting! Shrooms won this vote, receiving over {{B}}K submissions. This will arrive in Oct-Nov. There will also be a {{A}} update releasing October {{C}}st.=感謝您的投票！\n迷幻蘑菇 贏得了這次投票, 並獲得了{{B}}K投票數.\n這將會在10-11月到來.\n還將有一個 {{A}}更新 發佈於 10月{{C}}日.
+
+#===================================================
+# 2025/08/28
+#===================================================
+Confirmation message=確認訊息
+{{B}} {{C}}th\nCo-op & deliveries\n\n{{B}} {{D}}th\nCasino\n\n{{A}} {{E}}nd\nBoutique store, wall decorations, pawn shop\n\n{{B}} {{F}}th - Release!\n\n\n={{B}} {{C}}th Co-＆送貨\n\n{{B}} {{D}}TH賭場\n\n{{A}} {{E}}ND精品店，牆壁裝飾，典當\n\n{{B}} {{F}}TH-發布！\n\n\n
+
+#===================================================
+# 2025/07/07
+#===================================================
+Thanks for voting, everyone! With over 440,000 submissions, 64% voted for the Rival Cartel Update. You can expect this to arrive in late July.=感謝您的投票，大家！\n有超過440,000份提交的內容，有64％的人投票贊成競爭對手卡特爾更新。\n您可以期望於7月下旬實現。
+What do you want to see in the next major Schedule I update?=您想在下一個重大計劃中看到什麼？
+
+Rival Cartel=競爭對手卡特爾
+Police Expansion=警察功能擴增
