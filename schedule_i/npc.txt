@@ -1,0 +1,222 @@
+
+#===================================================
+# NPC 名字
+#===================================================
+#===================================================
+# 翻譯手動調整參數
+#===================================================
+#文字大小 <size\=18></size>
+#底線 <u>123</u>
+#粗體 <b>123</b>
+#換行 \n 
+#圖片 <sprite name\=clock>
+#顏色 <color\=#1A66CCFF>
+#===================================================
+{{B}}\n{{A}}={{B}}\n{{A}}
+{{A}}\n{{B}}={{A}}\n{{B}}
+
+
+Officer Leo=利歐警官
+Officer Sanchez=桑切斯警官
+
+Officer Cooper=庫珀警官
+Officer Howard=霍華德警官
+Officer Lopez=洛佩茲警官
+Officer Murphy=墨菲警官
+Officer Bailey=貝利警官
+
+
+#============= 名\n姓
+Tylah\nCannell=泰拉\n卡內爾
+Debbie\nCannell=黛比\n坎內爾
+Will\nJackson=威爾\n傑克森
+Adam\nWalton=亞當\n沃爾頓
+Sam\nThompson=山姆\n湯普森
+Mick\nLubbin=米克\n盧本
+Kyle\nCooley=凱爾\n庫利
+Kathy\nHenderson=凱西\n亨德森
+Jessi\nWaters=傑西\n沃特斯
+Austin\nSteiner=奧斯汀\n斯坦納
+Beth\nPenn=貝絲\n佩恩
+Chloe\nBowers=克洛伊\n鮑爾斯
+Peggy\nMyers=佩姬\n邁爾斯
+Joyce\nBall=喬伊斯\n鮑爾
+Keith\nWagner=基斯\n瓦格納
+Meg\nCooley=梅格\n庫利
+Peter\nFile=彼得\n法艾爾
+Ludwig\nMeyer=路德維希\n邁耶
+Jerry\nMontero=傑瑞\n蒙特羅
+Jennifer\nRivera=珍妮佛\n里維拉
+Trent\nSherman=特倫特\n謝爾曼
+Charles\nRowland=查爾斯\n羅蘭
+Elizabeth\nHomley=伊麗莎白\n霍姆利
+Doris\nLubbin=朵麗絲\n拉本
+George\nGreene=喬治\n格林
+Dean\nWebster=迪恩\n韋伯斯特
+Donna\nMartin=唐娜\n馬丁
+Philip\nWentworth=菲利普\n溫特沃斯
+Kim\nDelaney=金\n德萊尼
+Randy\nCaulfield=蘭迪\n考菲爾德
+Lucy\nPennington=露西\n彭寧頓
+Kevin\nOakley=凱文\n奧克利
+Jeff\nGilmore=傑夫\n吉爾莫爾
+Louis\nFourier=路易斯\n傅立葉
+Greg\nFiggle=格雷格\n菲格爾
+Melissa\nWood=梅利莎\n伍德
+Tobas\nWentworth=托巴斯\n溫特沃斯
+Javier\nPérez=哈維爾\n佩雷斯
+Billy\nKramer=比利\n克萊默
+Lisa\nGardener=麗莎\n加德納
+Eugene\nBuckley=尤金\n巴克利
+Chris\nSullivan=克里斯\n沙利文
+Walter\nCussler=沃爾特\n庫斯勒
+Lily\nTurner=莉莉\n特納
+Jackie\nStevenson=傑基\n史蒂文森
+Michael\nBoog=麥可\n布格
+Dennis\nKennedy=丹尼斯\n甘迺迪
+Tobias\nWentworth=托比亞斯\n溫特沃斯
+Jen\nHeard=詹\n賀德
+Cranky\nFrank=暴躁\n弗蘭克
+Genghis\nBarn=成吉斯\n巴恩
+Marco\nBarone=馬可\n巴隆
+Mac\nCooper=麥克\n庫珀
+Alison\nKnight=艾莉森\n奈特
+Jack\nKnight=傑克\n奈特
+Anna\nChesterfield=安娜\n切斯特菲爾德
+Jeremy\nWilkinson=傑瑞米\n威爾金森
+Karen\nKennedy=凱倫\n甘迺迪
+Hank\nStevenson=漢克\n史蒂文森
+Harold\nColt=哈羅德\n柯爾特
+Pearl\nMoore=珍珠\n摩爾
+Carl\nBundy=卡爾\n邦迪
+Fiona\nHancock=菲歐娜\n漢庫克
+Ray\nHoffman=睿\n霍夫曼
+Herbert\nbleuball=赫伯特\n布魯巴爾
+Dan\nSamwell=丹\n薩姆韋爾
+Mrs.\nMing=女士\n明
+
+#============= 經銷商
+Recruit {{A}} as a dealer=招募 {{A}} 擔任經銷商
+You can now hire <color\=#88CBFF>{{A}}</color> as a dealer.=您現在可以僱用 <color\=#88CBFF>{{A}}</color> 作為經銷商。
+Alright, I'll be a dealer for you but there is a <color\=#54E717>$2,000</color> signing fee, and I'll take a <color\=#54E717>20%</color> cut of each sale. We got a deal?=好吧，我會成為你的經銷商，但是有一個 <color\=#54E717>$ 2,000</color> 簽署費，每次銷售我將獲得 <color\=#54E717>20％</color> 。\n我們說好了嗎？
+{{A}}\n(Dealer)={{A}}（經銷商）
+{{A}} is out dealing={{A}}  正外出交易中
+r:"^I need to collect the earnings <color\=#54E717>\((\$\d{1,3}(?:,\d{3})*)\)</color>$"=我需要領取收益 <color\=#54E717>($1)</color>
+I need to collect the earnings <color\=#54E717>(${{A}})</color>=我需要收取收入 <color\=#54E717>($ {{A}})</color>
+I need to collect the earnings <color\=#54E717>(${{A}},{{B}})</color>=我需要收取收入 <color\=#54E717>($ {{A}},{{B}})</color>
+
+Arms Dealer=武器經銷商
+
+#============= 手機APP查看經銷商物品
+{{A}}x {{B}}={{A}}x {{B}}
+
+#============= 供應商 藏匿處
+{{A}} (Weed Supplier)={{A}}（大麻供應商）
+View {{A}}'s stash=查看 {{A}} 的藏匿處
+{{A}}'s Stash={{A}} 的藏匿處
+Supplier Meeting\n({{A}})=供應商會面\n({{A}})
+
+#============= 交談
+Talk to {{A}}=與 {{A}} 交談
+• Talk to {{A}}=與 {{A}} 交談
+
+#============= 解鎖人脈
+ONE OF {{A}} CONNECTIONS MUST FIRST RECOMMEND YOU={{A}} 的其中一個聯絡人必須先推薦過您
+UNLOCK ONE OF {{A}}'S CONNECTIONS=需解鎖 {{A}} 的其中一位人脈
+UNLOCK ONE OF {{A}} CONNECTIONS=需解鎖 {{A}} 的其中一位人脈
+UNLOCK ONE OF {{A}} CONNECTIONS FIRST=必須先解鎖 {{A}} 的其中一位人脈
+
+#===================================================
+# 雇用相關
+#===================================================
+#===================================================
+# 翻譯手動調整參數
+#===================================================
+#文字大小 <size\=18></size>
+#底線 <u>123</u>
+#粗體 <b>123</b>
+#換行 \n 
+#圖片 <sprite name\=clock>
+#顏色 <color\=#1A66CCFF>
+#===================================================
+
+
+#===================================================
+# 雇用相關
+#===================================================
+{{A}} locker={{A}}儲物櫃/床位 (左鍵點選目標)
+Assign locker=分配儲物櫃/床位 (左鍵點選目標)
+Briefcase=公事包
+Good lord!=好雇主！
+I need to transfer you to another property=我需要將您轉移到另一個財產
+Okay - which property should I transfer to?=好的 - 我應該轉移到哪個財產？
+So you'd like to reassign me to {{A}}? I'll go there as soon as I finish my current task.=所以您想重新派工讓我去 {{A}} 嗎？\n完成當前的任務後，我會盡快去那裡。
+
+Manage Brick Press=管理磚壓機
+Manage {{A}}=管理{{A}}
+
+{{A}}'s Locker={{A}} 的儲物櫃
+{{A}}'s Briefcase={{A}} 的公事包
+
+{{A}}igned {{B}} ({{C}})={{A}}igned {{B}}（{{C}}）
+Assigned {{A}}s=已分配{{A}}
+Assigned {{A}}s ({{B}})=已分配{{A}}（{{B}}）
+Assigned to {{A}}=已分配給 {{A}}
+Assigned {{A}}=已分配 {{A}}
+
+{{A}} {{B}}'s Inventory={{A}}·{{B}} 的道具欄
+{{B}} {{A}}'s Inventory={{B}}·{{A}} 的道具欄
+{{A}}'s Inventory={{A}} 的道具欄
+
+# 轉移資產
+{{A}} ({{B}})={{A}} ({{B}})
+
+# 自己摸索的公式
+sr:"^(.+) (.+) will draw his daily wage of <color\=#54E717>\$(.+)</color> from this briefcase$"=$1·$2 將從這個 公文包 取走他的 <color\=#54E717>$3</color> 日薪
+sr:"^(.+) (.+) will draw his daily wage of <color\=#54E717>\$(.+)</color> from this locker$"=$1·$2 將從這個 儲物櫃 取走他的 <color\=#54E717>$3</color> 日薪
+sr:"^(.+) (.+) will draw her daily wage of <color\=#54E717>\$(.+)</color> from this briefcase$"=$1·$2 將從這個 公文包 取走她的 <color\=#54E717>$3</color> 日薪
+sr:"^(.+) (.+) will draw her daily wage of <color\=#54E717>\$(.+)</color> from this locker$"=$1·$2 將從這個 儲物櫃 取走她的 <color\=#54E717>$3</color> 日薪
+
+r:"^(.+) will draw her daily wage of <color\=#54E717>(\$\d{1,3}(?:,\d{3})*)</color> from this locker$"=$1 將從這個 儲物櫃 取走她的 <color\=#54E717>$2</color> 日薪
+r:"^(.+) will draw his daily wage of <color\=#54E717>(\$\d{1,3}(?:,\d{3})*)</color> from this locker$"=$1 將從這個 儲物櫃 取走他的 <color\=#54E717>$2</color> 日薪
+r:"([A-Za-z\s]+) will draw her daily wage of <color\=#54E717>(\$\d+)<\/color> from this locker"=$1 將從這個 儲物櫃 取走她的 <color\=#54E717>$2</color> 日薪
+r:"([A-Za-z\s]+) will draw his daily wage of <color\=#54E717>(\$\d+)<\/color> from this locker"=$1 將從這個 儲物櫃 取走他的 <color\=#54E717>$2</color> 日薪
+
+#======================= 化學家
+Place cash in the chemist's locker=將 現金 放在 化學家 的 儲物櫃/床位 中
+Assign Stations ({{A}})=分配機台（{{A}}） (左鍵點選目標)
+Insert <color\=#FFC73D>20x</color> coca leaves and <color\=#FFC73D>1x</color> gasoline=插入 <color\=#FFC73D>20x</color> 古柯鹼葉 和 <color\=#FFC73D>1x</color> 汽油
+{{A}}x Chemist={{A}}x 化學家
+{{A}}x Chemistry Station={{A}}x 化學站
+{{A}}x Drying Rack={{A}}x 乾燥架
+{{A}}x Pot={{A}}x 盆
+Drag {{A}}x product into input slots=將 {{A}}x 產品放進輸入槽
+Pour product into mould ({{A}})=將產品倒入模具（{{A}}）中
+Output slot does not have enough space=輸出欄位沒有足夠的空間
+
+#======================= 清潔工
+Place cash in the cleaner's locker=將 現金 放在 清潔工 的 儲物櫃/床位 中
+{{A}} Trash Cans ({{B}})={{A}}的垃圾桶（{{B}}）
+{{B}} Trash Cans ({{A}})={{B}}的垃圾桶（{{A}}）
+Assigned Trash Cans ({{A}})=已分配的垃圾桶（{{A}}）
+{{A}}x Cleaner={{A}}x 清潔工
+{{A}} {{B}} ({{C}})={{A}}{{B}}（{{C}}）
+Assign {{A}} ({{B}})=分配{{A}}（{{B}}）
+#======================= 植物學家
+Place cash in the botanist's locker=將 現金 放在 植物學家 的 儲物櫃/床位 中
+Pots/Drying Racks ({{A}})=花盆/乾燥架（{{A}}）
+{{A}} Pots/Drying Racks ({{A}})={{A}}花盆/乾燥架（{{A}}）(左鍵點選目標)
+Assign Pots/Drying Racks ({{A}})=分配花盆/乾燥架（{{A}}）(左鍵點選目標)
+Select Supplies Source=選擇供應來源 (左鍵點選目標)
+Select destination=選擇目的地 (左鍵點選目標)
+{{A}}x Botanist={{A}}x 植物學家
+#======================= 處理工
+{{A}}x Handler={{A}}x 處理工
+{{A}} Stations ({{B}})={{A}}的機台（{{B}}）
+{{A}} a packaging station to the handler=將 包裝站 {{A}}給 處理工
+{{A}} Packaging Stations ({{B}})={{A}}包裝站（{{B}}） (左鍵點選目標)
+
+Assigned Stations ({{A}})=已分配的機台（{{A}}）
+Assign a packaging station to the handler=將 包裝站 分配給 處理工
+Assign Packaging Stations ({{A}})=分配包裝站（{{A}}） (左鍵點選目標)
+Place cash in the handler's locker=將 現金 放在 處理工 的 儲物櫃/床位 中
