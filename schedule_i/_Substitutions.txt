@@ -742,6 +742,7 @@ Trash=垃圾
 Trent=特倫特
 Tylah=泰拉
 Ultra=究極
+Units=單位
 Urkle=烏克爾
 WEI'S=魏
 White=白
