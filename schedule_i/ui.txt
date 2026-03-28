@@ -54,6 +54,7 @@
 
 
 
+
 2x OG Kush, Behind gas station=2x OG庫什, 加油站後面
 2x OG Kush, Behind pawn shop=2x OG庫什, 當鋪後面
 2x OG Kush, Blue house=2x OG庫什, 藍屋
@@ -131,6 +132,7 @@ Enter name...=輸入名稱…
 Every customer has their own preferences for drug type and effects.=每個客戶都有自己對藥物類型和影響的偏好。
 Exclusive Fullscreen=獨佔全螢幕
 Exited Game=遊戲已退出
+Export Player.log=匯出 玩家日誌
 F=F
 FOV=FOV
 FXAA=FXAA
