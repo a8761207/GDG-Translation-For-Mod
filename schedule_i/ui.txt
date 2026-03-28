@@ -397,3 +397,4 @@ Export Player.log=匯出 玩家.log
 Imperial=英制
 Metric=公制
 On=開
+Weather=天氣
