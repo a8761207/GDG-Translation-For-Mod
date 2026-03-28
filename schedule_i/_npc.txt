@@ -1,0 +1,499 @@
+# _npc.txt - 繁體中文翻譯
+# 從舊版 v1.1.6 遷移，共 495 條
+# 遷移日期: 2026-03-28
+
+${{A}} cash=$ {{A}}現金
+<color\=#FFB43C>Quest Expiring Soon</color>=<color\=#FFB43C>任務即將到期</color>
+Adam\nWalton=亞當\n沃爾頓
+Alison\nKnight=艾莉森\n奈特
+Alright cool, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} AM.=好的喔, 我們碰面在\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} PM.=好的喔, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} AM.=好的喔, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=好的喔, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} AM.=好的喔, 我們碰面在\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} PM.=好的喔, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} AM.=好的喔, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Alright cool, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} PM.=好的喔, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Alright, I'll be a dealer for you but there is a <color\=#54E717>$2,000</color> signing fee, and I'll take a <color\=#54E717>20%</color> cut of each sale. We got a deal?=好吧，我會成為你的經銷商，但是有一個 <color\=#54E717>$ 2,000</color> 簽署費，每次銷售我將獲得 <color\=#54E717>20％</color> 。\n我們說好了嗎？
+Anna\nChesterfield=安娜\n切斯特菲爾德
+Arms Dealer=武器經銷商
+Assign a packaging station to the handler=將 包裝站 分配給 處理工
+Assign locker=分配儲物櫃/床位 (左鍵點選目標)
+Assign Packaging Stations ({{A}})=分配包裝站（{{A}}） (左鍵點選目標)
+Assign Pots/Drying Racks ({{A}})=分配花盆/乾燥架（{{A}}）(左鍵點選目標)
+Assign Stations ({{A}})=分配機台（{{A}}） (左鍵點選目標)
+Assign {{A}}=分配{{A}}
+Assign {{A}} ({{B}})=分配{{A}}（{{B}}）
+Assigned Stations ({{A}})=已分配的機台（{{A}}）
+Assigned to {{A}}=已分配給 {{A}}
+Assigned Trash Cans ({{A}})=已分配的垃圾桶（{{A}}）
+Assigned {{A}}=已分配 {{A}}
+Assigned {{A}} ({{B}})=分配{{A}}（{{B}}）
+Assigned {{A}}s=已分配{{A}}
+Assigned {{A}}s ({{B}})=已分配{{A}}（{{B}}）
+Austin\nSteiner=奧斯汀\n斯坦納
+Beth\nPenn=貝絲\n佩恩
+Billy\nKramer=比利\n克萊默
+Boss, some Benzies tried to jump me - I put up a fight but they got some stuff. Sorry.=老闆, 有幾個 班基斯家族 試圖攻擊我 - 我反抗了, 但他們還是拿走了一些東西. 對不起.
+Briefcase=公事包
+Calling off the agreement with the Benzies is irreversible.\n\nThey will immediately become hostile.=取消與 班基斯家族 的協議是不可逆轉的.\n\n\n他們會立即轉變為敵對狀態.
+Carl\nBundy=卡爾\n邦迪
+Charles\nRowland=查爾斯\n羅蘭
+Cheers bro, I'll meet you <b>{{A}}</b> between {{B}} AM and {(C}} AM.=歡呼啦兄弟, 我們碰面在\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{B}} AM and {(C}} PM.=歡呼啦兄弟, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{B}} PM and {(C}} AM.=歡呼啦兄弟, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=歡呼啦兄弟, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{C}} AM and {(B}} AM.=歡呼啦兄弟, 我們碰面在\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{C}} AM and {(B}} PM.=歡呼啦兄弟, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{C}} PM and {(B}} PM.=歡呼啦兄弟, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Cheers bro, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} AM.=歡呼啦兄弟, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Chloe\nBowers=克洛伊\n鮑爾斯
+Chris\nSullivan=克里斯\n沙利文
+Copy. I'll message you when it's ready in about {{A}} hour.=收到.\n大約 {{A}} 小時內\n準備好再通知你.
+Copy. I'll message you when it's ready in about {{A}} hours.=收到.\n大約 {{A}} 小時內\n準備好再通知你.
+Copy. I'll message you when it's ready in about {{A}} min.=收到.\n大約 {{A}} 分鐘內\n準備好再通知你.
+Copy. I'll message you when it's ready in about {{A}} mins.=收到.\n大約 {{A}} 分鐘內\n準備好再通知你.
+Cranky\nFrank=暴躁\n弗蘭克
+Dan\nSamwell=丹\n薩姆韋爾
+Deal for the Benzies Family\n<color\=green>({{B}} days, {{A}} hours remaining)=與 班基斯家族 交易 <color\=green>({{B}} 天 {{A}} 小時)
+Dean\nWebster=迪恩\n韋伯斯特
+Debbie\nCannell=黛比\n坎內爾
+Deliver {{C}}x {{A}} to {{B}}=將 {{C}}x {{A}} 送到 {{B}}
+Dennis\nKennedy=丹尼斯\n甘迺迪
+Donna\nMartin=唐娜\n馬丁
+Doris\nLubbin=朵麗絲\n拉本
+Drag {{A}}x product into input slots=將 {{A}}x 產品放進輸入槽
+Drop off at {{A}}. Don't be late.=投放在 {{A}}. \n不要遲交.
+Elizabeth\nHomley=伊麗莎白\n霍姆利
+Eugene\nBuckley=尤金\n巴克利
+Fiona\nHancock=菲歐娜\n漢庫克
+Fulfill your ongoing obligation to the Benzies Cartel.=履行您對 班基斯家族販毒集團 的持續義務.
+Genghis\nBarn=成吉斯\n巴恩
+George\nGreene=喬治\n格林
+Good lord!=好雇主！
+Good!! I'll see u <b>{{A}}</b> between {{B}} AM and {{C}} AM.=好啊!! 見尼~\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{B}} AM and {{C}} PM.=好啊!! 見尼~\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{B}} PM and {(C}} AM.=好啊!! 見尼~\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{B}} PM and {(C}} PM.=好啊!! 見尼~\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{C}} AM and {{B}} AM.=好啊!! 見尼~\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{C}} AM and {{B}} PM.=好啊!! 見尼~\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{C}} PM and {(B}} PM.=好啊!! 見尼~\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Good!! I'll see u <b>{{A}}</b> between {{C}} PM and {{B}} AM.=好啊!! 見尼~\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Got it. I'll let you know when it's ready. Should be about {{A}} hour=知道了.\n準備好後我會告訴你.\n應該大約是{{A}}小時
+Got it. I'll let you know when it's ready. Should be about {{A}} hour {{B}} min=知道了.\n準備好後我會告訴你.\n應該大約是{{A}}小時{{B}}分鐘
+Got it. I'll let you know when it's ready. Should be about {{A}} mins=知道了.\n準備好後我會告訴你.\n應該大約是{{A}}分鐘
+Great, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} AM.=好極了, 我們碰面在\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} PM.=好極了, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} AM.=好極了, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=好極了, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} AM.=好極了, 我們碰面在\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} PM.=好極了, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} AM.=好極了, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Great, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} PM.=好極了, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Greg\nFiggle=格雷格\n菲格爾
+Hank\nStevenson=漢克\n史蒂文森
+Harold\nColt=哈羅德\n柯爾特
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} AM.=棒死了我的朋友, 我們碰面在\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} PM.=棒死了我的朋友, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} AM.=棒死了我的朋友, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=棒死了我的朋友, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} AM.=棒死了我的朋友, 我們碰面在\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} PM.=棒死了我的朋友, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} AM.=棒死了我的朋友, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Hell yeah my friend, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} PM.=棒死了我的朋友, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Hello, I'm after {{A}}x {{B}} {{C}}. I can pay <color\=#{{D}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{B}}{{C}}. 我出 <color\=#{{D}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{B}} {{D}}. I can pay <color\=#{{C}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{B}}{{D}}. 我出 <color\=#{{C}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{B}} {{E}}. I can pay <color\=#{{C}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{B}}{{E}}. 我出 <color\=#{{C}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{B}} {{F}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{B}}{{F}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{B}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{B}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{C}} {{B}}. I can pay <color\=#{{D}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{C}}{{B}}. 我出 <color\=#{{D}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{C}} {{D}}. I can pay <color\=#{{B}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{C}}{{D}}. 我出 <color\=#{{B}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{C}} {{E}}. I can pay <color\=#{{B}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{C}}{{E}}. 我出 <color\=#{{B}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{C}} {{F}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{C}}{{F}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{C}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{C}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{D}} {{B}}. I can pay <color\=#{{C}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{D}}{{B}}. 我出 <color\=#{{C}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{D}} {{C}}. I can pay <color\=#{{B}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{D}}{{C}}. 我出 <color\=#{{B}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{D}} {{E}}. I can pay <color\=#{{B}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{D}}{{E}}. 我出 <color\=#{{B}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{D}} {{F}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{D}}{{F}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{D}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{D}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{E}} {{B}}. I can pay <color\=#{{C}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{E}}{{B}}. 我出 <color\=#{{C}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{E}} {{C}}. I can pay <color\=#{{B}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{E}}{{C}}. 我出 <color\=#{{B}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{E}} {{D}}. I can pay <color\=#{{B}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{A}}x {{E}}{{D}}. 我出 <color\=#{{B}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{A}}x {{E}} {{F}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{A}}x {{E}}{{F}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{A}}x {{E}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{A}}x {{E}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{A}}x {{F}} {{B}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{F}}{{B}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{F}} {{C}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{F}}{{C}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{F}} {{D}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{A}}x {{F}}{{D}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{A}}x {{F}} {{E}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{A}}x {{F}}{{E}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{B}}x {{A}} {{C}}. I can pay <color\=#{{D}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{A}}{{C}}. 我出 <color\=#{{D}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{A}} {{D}}. I can pay <color\=#{{C}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{A}}{{D}}. 我出 <color\=#{{C}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{A}} {{E}}. I can pay <color\=#{{C}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{A}}{{E}}. 我出 <color\=#{{C}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{A}} {{F}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{A}}{{F}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{A}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{A}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{C}} {{A}}. I can pay <color\=#{{D}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{C}}{{A}}. 我出 <color\=#{{D}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{C}} {{D}}. I can pay <color\=#{{A}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{C}}{{D}}. 我出 <color\=#{{A}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{C}} {{E}}. I can pay <color\=#{{A}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{C}}{{E}}. 我出 <color\=#{{A}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{C}} {{F}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{C}}{{F}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{C}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{C}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{D}} {{A}}. I can pay <color\=#{{C}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{D}}{{A}}. 我出 <color\=#{{C}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{D}} {{C}}. I can pay <color\=#{{A}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{D}}{{C}}. 我出 <color\=#{{A}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{D}} {{E}}. I can pay <color\=#{{A}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{D}}{{E}}. 我出 <color\=#{{A}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{D}} {{F}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{D}}{{F}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{D}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{D}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{E}} {{A}}. I can pay <color\=#{{C}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{E}}{{A}}. 我出 <color\=#{{C}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{E}} {{C}}. I can pay <color\=#{{A}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{E}}{{C}}. 我出 <color\=#{{A}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{E}} {{D}}. I can pay <color\=#{{A}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{B}}x {{E}}{{D}}. 我出 <color\=#{{A}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{B}}x {{E}} {{F}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{B}}x {{E}}{{F}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{B}}x {{E}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{B}}x {{E}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{B}}x {{F}} {{A}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{F}}{{A}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{F}} {{C}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{F}}{{C}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{F}} {{D}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{B}}x {{F}}{{D}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{B}}x {{F}} {{E}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{B}}x {{F}}{{E}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{C}}x {{A}} {{B}}. I can pay <color\=#{{D}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{A}}{{B}}. 我出 <color\=#{{D}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{A}} {{D}}. I can pay <color\=#{{B}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{A}}{{D}}. 我出 <color\=#{{B}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{A}} {{E}}. I can pay <color\=#{{B}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{A}}{{E}}. 我出 <color\=#{{B}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{A}} {{F}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{A}}{{F}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{A}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{A}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{B}} {{A}}. I can pay <color\=#{{D}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{B}}{{A}}. 我出 <color\=#{{D}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{B}} {{D}}. I can pay <color\=#{{A}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{B}}{{D}}. 我出 <color\=#{{A}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{B}} {{E}}. I can pay <color\=#{{A}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{B}}{{E}}. 我出 <color\=#{{A}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{B}} {{F}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{B}}{{F}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{B}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{B}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{D}} {{A}}. I can pay <color\=#{{B}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{D}}{{A}}. 我出 <color\=#{{B}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{D}} {{B}}. I can pay <color\=#{{A}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{D}}{{B}}. 我出 <color\=#{{A}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{D}} {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{D}}{{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{D}} {{F}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{D}}{{F}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{E}} {{A}}. I can pay <color\=#{{B}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{E}}{{A}}. 我出 <color\=#{{B}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{E}} {{B}}. I can pay <color\=#{{A}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{E}}{{B}}. 我出 <color\=#{{A}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{E}} {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{F}}</color> for it.=您好, 我需要 {{C}}x {{E}}{{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{F}}</color> 元
+Hello, I'm after {{C}}x {{E}} {{F}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{C}}x {{E}}{{F}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{C}}x {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{C}}x {{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{C}}x {{F}} {{A}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{F}}{{A}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{F}} {{B}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{F}}{{B}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{F}} {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{C}}x {{F}}{{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{C}}x {{F}} {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{C}}x {{F}}{{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{D}}x {{A}} {{B}}. I can pay <color\=#{{C}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{A}}{{B}}. 我出 <color\=#{{C}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{A}} {{C}}. I can pay <color\=#{{B}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{A}}{{C}}. 我出 <color\=#{{B}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{A}} {{E}}. I can pay <color\=#{{B}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{A}}{{E}}. 我出 <color\=#{{B}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{A}} {{F}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{A}}{{F}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{B}} {{A}}. I can pay <color\=#{{C}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{B}}{{A}}. 我出 <color\=#{{C}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{B}} {{C}}. I can pay <color\=#{{A}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{B}}{{C}}. 我出 <color\=#{{A}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{B}} {{E}}. I can pay <color\=#{{A}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{B}}{{E}}. 我出 <color\=#{{A}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{B}} {{F}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{B}}{{F}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{C}} {{A}}. I can pay <color\=#{{B}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{C}}{{A}}. 我出 <color\=#{{B}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{C}} {{B}}. I can pay <color\=#{{A}}CB{{E}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{C}}{{B}}. 我出 <color\=#{{A}}CB{{E}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{C}} {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{C}}{{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{C}} {{F}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{C}}{{F}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{E}} {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{E}}{{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{E}} {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{E}}{{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{E}} {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{F}}</color> for it.=您好, 我需要 {{D}}x {{E}}{{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{F}}</color> 元
+Hello, I'm after {{D}}x {{E}} {{F}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{D}}x {{E}}{{F}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{D}}x {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{D}}x {{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{D}}x {{F}} {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{F}}{{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{F}} {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{F}}{{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{F}} {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{D}}x {{F}}{{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{D}}x {{F}} {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{D}}x {{F}}{{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{E}}x {{A}} {{B}}. I can pay <color\=#{{C}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{A}}{{B}}. 我出 <color\=#{{C}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{A}} {{C}}. I can pay <color\=#{{B}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{A}}{{C}}. 我出 <color\=#{{B}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{A}} {{D}}. I can pay <color\=#{{B}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{A}}{{D}}. 我出 <color\=#{{B}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{A}} {{F}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{A}}{{F}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{B}} {{A}}. I can pay <color\=#{{C}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{B}}{{A}}. 我出 <color\=#{{C}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{B}} {{C}}. I can pay <color\=#{{A}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{B}}{{C}}. 我出 <color\=#{{A}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{B}} {{D}}. I can pay <color\=#{{A}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{B}}{{D}}. 我出 <color\=#{{A}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{B}} {{F}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{B}}{{F}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{C}} {{A}}. I can pay <color\=#{{B}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{C}}{{A}}. 我出 <color\=#{{B}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{C}} {{B}}. I can pay <color\=#{{A}}CB{{D}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{C}}{{B}}. 我出 <color\=#{{A}}CB{{D}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{C}} {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{C}}{{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{C}} {{F}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{C}}{{F}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{D}} {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{D}}{{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{D}} {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{D}}{{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{D}} {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{F}}</color> for it.=您好, 我需要 {{E}}x {{D}}{{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{F}}</color> 元
+Hello, I'm after {{E}}x {{D}} {{F}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{E}}x {{D}}{{F}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{E}}x {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{E}}x {{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{E}}x {{F}} {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{F}}{{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{F}} {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{F}}{{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{F}} {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{E}}x {{F}}{{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{E}}x {{F}} {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{E}}x {{F}}{{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{F}}x {{A}} {{B}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{A}}{{B}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{A}} {{C}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{A}}{{C}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{A}} {{D}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{A}}{{D}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{A}} {{E}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{F}}x {{A}}{{E}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{F}}x {{B}} {{A}}. I can pay <color\=#{{C}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{B}}{{A}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{B}} {{C}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{B}}{{C}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{B}} {{D}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{B}}{{D}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{B}} {{E}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{F}}x {{B}}{{E}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{F}}x {{C}} {{A}}. I can pay <color\=#{{B}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{C}}{{A}}. 我出 <color\=#{{B}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{C}} {{B}}. I can pay <color\=#{{A}}CB{{D}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{C}}{{B}}. 我出 <color\=#{{A}}CB{{D}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{C}} {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{C}}{{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{C}} {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{F}}x {{C}}{{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{F}}x {{D}} {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{D}}{{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{D}} {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{D}}{{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{D}} {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{E}}</color> for it.=您好, 我需要 {{F}}x {{D}}{{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{E}}</color> 元
+Hello, I'm after {{F}}x {{D}} {{E}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{F}}x {{D}}{{E}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Hello, I'm after {{F}}x {{E}} {{A}}. I can pay <color\=#{{B}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{F}}x {{E}}{{A}}. 我出 <color\=#{{B}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{F}}x {{E}} {{B}}. I can pay <color\=#{{A}}CB{{C}}F>${{D}}</color> for it.=您好, 我需要 {{F}}x {{E}}{{B}}. 我出 <color\=#{{A}}CB{{C}}F>${{D}}</color> 元
+Hello, I'm after {{F}}x {{E}} {{C}}. I can pay <color\=#{{A}}CB{{B}}F>${{D}}</color> for it.=您好, 我需要 {{F}}x {{E}}{{C}}. 我出 <color\=#{{A}}CB{{B}}F>${{D}}</color> 元
+Hello, I'm after {{F}}x {{E}} {{D}}. I can pay <color\=#{{A}}CB{{B}}F>${{C}}</color> for it.=您好, 我需要 {{F}}x {{E}}{{D}}. 我出 <color\=#{{A}}CB{{B}}F>${{C}}</color> 元
+Herbert\nbleuball=赫伯特\n布魯巴爾
+Hey boss, the Benzies tried to jump me but I backed those chumps down - they didn't get a thing from me.=嘿 老闆,\n班基斯家族 試圖攻擊我, 但我打退他們了 - 他們沒在我這拿走一件東西.
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{B}} {{C}}. Ill pay <color\=#46CB4F>${{D}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{B}}{{C}}. 我出 <color\=#46CB4F>${{D}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{B}} {{D}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{B}}{{D}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{B}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{B}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{C}} {{B}}. Ill pay <color\=#46CB4F>${{D}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{C}}{{B}}. 我出 <color\=#46CB4F>${{D}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{C}} {{D}}. Ill pay <color\=#46CB4F>${{B}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{C}}{{D}}. 我出 <color\=#46CB4F>${{B}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{D}} {{B}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{D}}{{B}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{A}}x {{D}} {{C}}. Ill pay <color\=#46CB4F>${{B}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{A}}x {{D}}{{C}}. 我出 <color\=#46CB4F>${{B}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{A}} {{C}}. Ill pay <color\=#46CB4F>${{D}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{A}}{{C}}. 我出 <color\=#46CB4F>${{D}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{A}} {{D}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{A}}{{D}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{A}}. Ill pay <color\=#{{C}}CB{{D}}F>${{E}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{A}}. 我出 <color\=#{{C}}CB{{D}}F>${{E}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{C}} {{A}}. Ill pay <color\=#46CB4F>${{D}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{C}}{{A}}. 我出 <color\=#46CB4F>${{D}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{C}} {{D}}. Ill pay <color\=#46CB4F>${{A}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{C}}{{D}}. 我出 <color\=#46CB4F>${{A}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{D}} {{A}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{D}}{{A}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{B}}x {{D}} {{C}}. Ill pay <color\=#46CB4F>${{A}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{B}}x {{D}}{{C}}. 我出 <color\=#46CB4F>${{A}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{C}}x {{A}} {{B}}. Ill pay <color\=#46CB4F>${{D}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{C}}x {{A}}{{B}}. 我出 <color\=#46CB4F>${{D}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{C}}x {{A}} {{D}}. Ill pay <color\=#46CB4F>${{B}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{C}}x {{A}}{{D}}. 我出 <color\=#46CB4F>${{B}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{C}}x {{B}} {{A}}. Ill pay <color\=#46CB4F>${{D}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{C}}x {{B}}{{A}}. 我出 <color\=#46CB4F>${{D}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{C}}x {{B}} {{D}}. Ill pay <color\=#46CB4F>${{A}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{C}}x {{B}}{{D}}. 我出 <color\=#46CB4F>${{A}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{C}}x {{D}} {{A}}. Ill pay <color\=#46CB4F>${{B}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{C}}x {{D}}{{A}}. 我出 <color\=#46CB4F>${{B}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{C}}x {{D}} {{B}}. Ill pay <color\=#46CB4F>${{A}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{C}}x {{D}}{{B}}. 我出 <color\=#46CB4F>${{A}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{D}}x {{A}} {{B}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{D}}x {{A}}{{B}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{D}}x {{A}} {{C}}. Ill pay <color\=#46CB4F>${{B}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{D}}x {{A}}{{C}}. 我出 <color\=#46CB4F>${{B}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{D}}x {{B}} {{A}}. Ill pay <color\=#46CB4F>${{C}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{D}}x {{B}}{{A}}. 我出 <color\=#46CB4F>${{C}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{D}}x {{B}} {{C}}. Ill pay <color\=#46CB4F>${{A}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{D}}x {{B}}{{C}}. 我出 <color\=#46CB4F>${{A}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{D}}x {{C}} {{A}}. Ill pay <color\=#46CB4F>${{B}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{D}}x {{C}}{{A}}. 我出 <color\=#46CB4F>${{B}}</color> 成交？
+Hey I heard about u from Nelson. He said u could hook me up with {{D}}x {{C}} {{B}}. Ill pay <color\=#46CB4F>${{A}}</color>. We got a deal?=聽 尼爾森 說你能幫我搞到 {{D}}x {{C}}{{B}}. 我出 <color\=#46CB4F>${{A}}</color> 成交？
+Hey, I defended myself against some Benzies goons. No product or cash lost.=嘿, 我自己抵抗了\n班基斯家族 的攻擊.\n沒有產品或現金損失.
+Hey, I'm Sal. You need Coca seeds? You speak to me.=嘿，我是薩爾。\n您需要 古柯鹼種子 嗎?\n你再跟我說。
+Hey, I'm Sal. You need {{A}} seeds? You speak to me.=嘿，我是薩爾。\n您需要 {{A}}種子 嗎?\n你再跟我說。
+Hey, that drop is ready behind the casino=嘿，那投遞已經準備好了。\n在 賭場後面。
+Hey, the Benzies just robbed me - they came outta nowhere and I wasn't able to defend myself. They got everything, sorry boss...=嘿, 班基斯家族 剛搶走了我 - 他們突然出現而我無法自衛.\n他們全都拿走了, 對不起 老闆...
+Heyo, I'm Shirley. I work in the pharmaceutical business, and heard you got a nasty cough...=嘿, 我是 雪莉.\n我在製藥業工作,\n聽說你有嚴重的咳嗽……
+Heyo, I'm {{A}}. I work in the pharmaceutical business, and heard you got a nasty cough...=嘿, 我是 {{A}}.\n我在製藥業工作,\n聽說你有嚴重的咳嗽……
+I need a dead drop:\n{{B}}x {{A}}=我需要死信箱投遞:\n{{B}}x {{A}}
+I need a dead drop:\n{{B}}x {{A}}\n{{D}}x {{C}}=我需要死信箱投遞:\n{{B}}x {{A}}\n{{D}}x {{C}}
+I need a dead drop:\n{{C}}x {{A}}\n{{D}}x {{B}}=我需要死信箱投遞:\n{{C}}x {{A}}\n{{D}}x {{B}}
+I need a dead drop:\n{{C}}x {{B}}\n{{D}}x {{A}}=我需要死信箱投遞:\n{{C}}x {{B}}\n{{D}}x {{A}}
+I need a dead drop:\n{{D}}x {{A}}\n{{E}}x {{B}}\n{{F}}x {{C}}=我需要死信箱投遞:\n{{D}}x {{A}}\n{{E}}x {{B}}\n{{F}}x {{C}}
+I need a dead drop:\n{{D}}x {{B}}\n{{A}}x {{C}}=我需要死信箱投遞:\n{{D}}x {{B}}\n{{A}}x {{C}}
+I need a dead drop:\n{{D}}x {{B}}\n{{E}}x {{C}}\n{{F}}x {{A}}=我需要死信箱投遞:\n{{D}}x {{B}}\n{{E}}x {{C}}\n{{F}}x {{A}}
+I need a dead drop:\n{{D}}x {{C}}\n{{E}}x {{B}}\n{{F}}x {{A}}=我需要死信箱投遞:\n{{D}}x {{C}}\n{{E}}x {{B}}\n{{F}}x {{A}}
+I need a dead drop:\n{{D}}x {{C}}\n{{E}}x {{B}}\n{{F}}x {{A}}\n{{G}}x {{H}}=我需要死信箱投遞:\n{{D}}x {{C}}\n{{E}}x {{B}}\n{{F}}x {{A}}\n{{G}}x {{H}}
+I need a dead drop:\n{{E}}x {{A}}\n{{F}}x {{B}}\n{{G}}x {{C}}\n{{H}}x {{D}}=我需要死信箱投遞:\n{{E}}x {{A}}\n{{F}}x {{B}}\n{{G}}x {{C}}\n{{H}}x {{D}}
+I need to collect the earnings <color\=#54E717>(${{A}})</color>=我需要收取收入 <color\=#54E717>($ {{A}})</color>
+I need to transfer you to another property=我需要將您轉移到另一個財產
+I've received ${{A}} cash from you. Your debt is now paid off.=我收到了\n你支付的 ${{A}} 現金.\n你目前沒有欠債.
+If you're in need of some pseudo, I'm your gal. Send me a message and we'll figure something out=要點 偽麻黃鹼 嗎?我這有\n傳訊息給我, 我搞定它.
+If you're not working with us, then you're against us. You're going to regret coming to this town...	=如果你不與我們合作,\n那麼你就是我們的敵人.\n您會後悔來到這個小鎮...
+Insert <color\=#FFC73D>20x</color> coca leaves and <color\=#FFC73D>1x</color> gasoline=插入 <color\=#FFC73D>20x</color> 古柯鹼葉 和 <color\=#FFC73D>1x</color> 汽油
+Jack\nKnight=傑克\n奈特
+Jackie\nStevenson=傑基\n史蒂文森
+Javier\nPérez=哈維爾\n佩雷斯
+Jeff\nGilmore=傑夫\n吉爾莫爾
+Jen\nHeard=詹\n賀德
+Jennifer\nRivera=珍妮佛\n里維拉
+Jeremy\nWilkinson=傑瑞米\n威爾金森
+Jerry\nMontero=傑瑞\n蒙特羅
+Jessi\nWaters=傑西\n沃特斯
+Joyce\nBall=喬伊斯\n鮑爾
+Karen\nKennedy=凱倫\n甘迺迪
+Kathy\nHenderson=凱西\n亨德森
+Keith\nWagner=基斯\n瓦格納
+Kevin\nOakley=凱文\n奧克利
+Kim\nDelaney=金\n德萊尼
+Kyle\nCooley=凱爾\n庫利
+Lily\nTurner=莉莉\n特納
+Lisa\nGardener=麗莎\n加德納
+Louis\nFourier=路易斯\n傅立葉
+Lucy\nPennington=露西\n彭寧頓
+Ludwig\nMeyer=路德維希\n邁耶
+Mac\nCooper=麥克\n庫珀
+Manage Brick Press=管理磚壓機
+Manage {{A}}=管理{{A}}
+Marco\nBarone=馬可\n巴隆
+Meg\nCooley=梅格\n庫利
+Melissa\nWood=梅利莎\n伍德
+Michael\nBoog=麥可\n布格
+Mick\nLubbin=米克\n盧本
+Mrs.\nMing=女士\n明
+My friend Albert can hook you up with <h1>weed seeds</h>. I've passed your number on to him.=我的朋友 阿爾伯特 可以提供你 <b>大麻種子</b>.\n我已經把你的電話號碼告訴他了.
+Officer Bailey=貝利警官
+Officer Cooper=庫珀警官
+Officer Howard=霍華德警官
+Officer Leo=利歐警官
+Officer Lopez=洛佩茲警官
+Officer Murphy=墨菲警官
+Officer Sanchez=桑切斯警官
+Ok, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} AM.=Ok, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} PM.=Ok, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} AM.=Ok, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=Ok, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} AM.=Ok, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} PM.=Ok, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} AM.=Ok, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Ok, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} PM.=Ok, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Okay - which property should I transfer to?=好的 - 我應該轉移到哪個財產？
+ONE OF {{A}} CONNECTIONS MUST FIRST RECOMMEND YOU={{A}} 的其中一個聯絡人必須先推薦過您
+Output slot does not have enough space=輸出欄位沒有足夠的空間
+Pearl\nMoore=珍珠\n摩爾
+Peggy\nMyers=佩姬\n邁爾斯
+Peter\nFile=彼得\n法艾爾
+Philip\nWentworth=菲利普\n溫特沃斯
+Place cash in the botanist's locker=將 現金 放在 植物學家 的 儲物櫃/床位 中
+Place cash in the chemist's locker=將 現金 放在 化學家 的 儲物櫃/床位 中
+Place cash in the cleaner's locker=將 現金 放在 清潔工 的 儲物櫃/床位 中
+Place cash in the handler's locker=將 現金 放在 處理工 的 儲物櫃/床位 中
+Pots/Drying Racks ({{A}})=花盆/乾燥架（{{A}}）
+Pour product into mould ({{A}})=將產品倒入模具（{{A}}）中
+r:"([A-Za-z\s]+) will draw her daily wage of <color\=#54E717>(\$\d+)<\/color> from this locker"=$1 將從這個 儲物櫃 取走她的 <color\=#54E717>$2</color> 日薪
+r:"([A-Za-z\s]+) will draw his daily wage of <color\=#54E717>(\$\d+)<\/color> from this locker"=$1 將從這個 儲物櫃 取走他的 <color\=#54E717>$2</color> 日薪
+r:"^(.+) will draw her daily wage of <color\=#54E717>(\$\d{1,3}(?:,\d{3})*)</color> from this locker$"=$1 將從這個 儲物櫃 取走她的 <color\=#54E717>$2</color> 日薪
+r:"^(.+) will draw his daily wage of <color\=#54E717>(\$\d{1,3}(?:,\d{3})*)</color> from this locker$"=$1 將從這個 儲物櫃 取走他的 <color\=#54E717>$2</color> 日薪
+r:"^Hello, I'm after (.+)\. I can pay <color\=#46CB4F>(.+)</color> for it\.$"=您好, 我需要 $1x 出價 <color\=#46CB4F>$2</color> 元
+r:"^Hello, I'm after (.+)x (.+)\. I can pay <color\=#46CB4F>(.+)</color> for it\.$"=您好, 我需要 $1x $2 出價 <color\=#46CB4F>$3</color> 元
+r:"^I need to collect the earnings <color\=#54E717>\((\$\d{1,3}(?:,\d{3})*)\)</color>$"=我需要領取收益 <color\=#54E717>($1)</color>
+r:"Copy\. I'll message you when it's ready in about (\d+) hour(s?) (\d+) min$"=收到，大約 $1 小時 $3 分鐘後準備好我會再通知你。
+r:"Copy\. I'll message you when it's ready in about (\d+) hour(s?) (\d+) min\.$"=收到，大約 $1 小時 $3 分鐘後準備好我會再通知你。
+r:"Copy\. I'll message you when it's ready in about (\d+) hour(s?)\.$"=收到，大約 $1 小時後準備就緒時我會再通知你。
+r:"Copy\. I'll message you when it's ready in about (\d+) min(s?)\.$"=收到，大約 $1 分鐘後準備好會再通知你。
+r:"Hey I heard about u from .+?\. He said u could hook me up with ([0-9]+x .+?)\. Ill pay <color=\#46CB4F>\$(\d+)<\/color>\. We got a deal\?"=聽 尼爾森 說你能幫我搞到 $1. 我出 <color\=#46CB4F>$$$2</color>. 成交？
+r:"I've received (.+) cash from you. Your debt is now (.+)"=我收到了你支付的 $1 現金，你現在的欠款是 $2
+r:"I've received (.+) cash from you. Your debt is now paid off"=我收到了你支付的 $1 現金，你現在目前沒有欠債
+r:^I've received \$(\d+) cash from you\. Your debt is now paid off\.$=我收到了你支付的 $$1 現金，你現在目前沒有欠債
+r:^The drop is ready\. You can find it in (.+)$=投遞已準備好. 你可以在 $1 找到它.
+Randy\nCaulfield=蘭迪\n考菲爾德
+Ray\nHoffman=睿\n霍夫曼
+Recruit {{A}} as a dealer=招募 {{A}} 擔任經銷商
+Sam\nThompson=山姆\n湯普森
+Select destination=選擇目的地 (左鍵點選目標)
+Select items to order from {{A}}=從 {{A}} 那選擇要訂購的東西
+Select Supplies Source=選擇供應來源 (左鍵點選目標)
+Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=如果你想訂購，傳訊息給我.\n尼爾森替你說了不少好話，\n我會讓你賒帳，之後再付清即可.
+Sick as, I'll meet you <b>{{A}}</b> between {{B}} AM and {(C}} AM.=噁讚爆, 我們碰面在\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} PM.=噁讚爆, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} AM.=噁讚爆, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=噁讚爆, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{C}} AM and {(B}} PM.=噁讚爆, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} AM.=噁讚爆, 我們碰面在\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{C}} PM and {(B}} AM.=噁讚爆, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Sick as, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} PM.=噁讚爆, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+So you'd like to reassign me to {{A}}? I'll go there as soon as I finish my current task.=所以您想重新派工讓我去 {{A}} 嗎？\n完成當前的任務後，我會盡快去那裡。
+Some Benzies punks tried to rob me but I managed to fight them off - no product or cash lost, boss.=有幾個 班基斯家族 混混試圖搶劫我, 但我成功擊退了他們 - 沒有產品或現金損失, 老闆.
+sr:"^(.+) (.+) will draw her daily wage of <color\=#54E717>\$(.+)</color> from this briefcase$"=$1·$2 將從這個 公文包 取走她的 <color\=#54E717>$3</color> 日薪
+sr:"^(.+) (.+) will draw his daily wage of <color\=#54E717>\$(.+)</color> from this briefcase$"=$1·$2 將從這個 公文包 取走他的 <color\=#54E717>$3</color> 日薪
+sr:"^Ay bro you got (.+)x (.+) (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color> for it$"=欸兄弟, 你有 $1x $2$3 嗎?我會出 <color\=#46CB4F>$ $4</color> 元
+sr:"^Ay bro you got (.+)x (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color> for it$"=欸兄弟, 你有 $1x $2 嗎?我會出 <color\=#46CB4F>$ $3</color> 元
+sr:"^Ayo dawg, if you got (.+)x (.+) (.+) I'll pay <color\=#46CB4F>\$(.+)</color> for it\. Deal\?$"=欸唷哥們, 如果您有 $1x $2$3, 我會付 <color\=#46CB4F>$ $4</color> 元. 成交?
+sr:"^Ayo dawg, if you got (.+)x (.+) I'll pay <color\=#46CB4F>\$(.+)</color> for it\. Deal\?$"=欸唷哥們, 如果您有 $1x $2, 我會付 <color\=#46CB4F>$ $3</color> 元. 成交?
+sr:"^Hello, I'm after (.+)"=您好, 我需要 $1x $2. 我出 <color\=#46CB4F>$ $3</color> 元123
+sr:"^Hello, I'm after (.+)x (.+) (.+)\. I can pay <color\=#46CB4F>\$(.+)</color> for it\.$"=您好, 我需要 $1x $2$3. 我出 <color\=#46CB4F>$ $4</color> 元
+sr:"^Hello, I'm after (.+)x (.+)\. I can pay <color\=#46CB4F>\$(.+)</color> for it\.$"=您好, 我需要 $1x $2. 我出 <color\=#46CB4F>$ $3</color> 元
+sr:"^Hey dog, I need (.+)x (.+) (.+)\. I'll pay <color\=#46CB4F>\$(.+)</color>\. Deal\?$"=嘿兄弟,\n我需要$1x $2$3.\n我會付 <color\=#46CB4F>$ $4</color> 成交?
+sr:"^Hey dog, I need (.+)x (.+)\. I'll pay <color\=#46CB4F>\$(.+)</color>\. Deal\?$"=嘿兄弟,\n我需要$1x $2.\n我會付 <color\=#46CB4F>$ $3</color> 成交?
+sr:"^Hey, can I get (.+)x (.+) (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color>$"=嘿, 我可以拿 $1x $2$3? 我會付 <color\=#46CB4F>$ $4</color>
+sr:"^Hey, can I get (.+)x (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color>$"=嘿, 我可以拿 $1x $2? 我會付 <color\=#46CB4F>$ $3</color>
+sr:"^Hey, have you got (.+)x (.+) (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color> for it$"=嘿, 您有 $1x $2$3 嗎?\n我會付 <color\=#46CB4F>$ $4</color> 元
+sr:"^Hey, have you got (.+)x (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color> for it$"=嘿, 您有 $1x $2 嗎?\n我會付 <color\=#46CB4F>$ $3</color> 元
+sr:"^Hey, I need (.+)x (.+) (.+)\. I'll pay <color\=#46CB4F>\$(.+)</color>\. Deal\?$"=嘿, 我需要 $1x $2$3. \n出價 <color\=#46CB4F>$ $4</color> 成交?
+sr:"^Hey, I need (.+)x (.+)\. I'll pay <color\=#46CB4F>\$(.+)</color>\. Deal\?$"=嘿, 我需要 $1x $2. \n出價 <color\=#46CB4F>$ $3</color> 成交?
+sr:"^Hey, if you got (.+)x (.+) (.+) I'll pay <color\=#46CB4F>\$(.+)</color> for it\. Deal\?$"=嘿, 如果你有 $1x $2$3\n我可以出 <color\=#46CB4F>$ $4</color> 元. 成交?
+sr:"^Hey, if you got (.+)x (.+) I'll pay <color\=#46CB4F>\$(.+)</color> for it\. Deal\?$"=嘿, 如果你有 $1x $2\n我可以出 <color\=#46CB4F>$ $3</color> 元. 成交?
+sr:"^How about (.+)x (.+) (.+) for \$(.+)\?$"=$1x $2$3 $$4?，怎麼樣?
+sr:"^How about (.+)x (.+) for \$(.+)\?$"=$1x $2 $$3?，怎麼樣?
+sr:"^I NEED (.+)x (.+) (.+)\. I GOT <color\=#46CB4F>\$(.+)</color>\. DEAL\?$"=我需要 $1x $2$3.\n我有 <color\=#46CB4F>$ $4</color>. 成交嗎?
+sr:"^I NEED (.+)x (.+)\. I GOT <color\=#46CB4F>\$(.+)</color>\. DEAL\?$"=我需要 $1x $2.\n我有 <color\=#46CB4F>$ $3</color>. 成交嗎?
+sr:"^I'm after (.+)x (.+) (.+)\. I can pay <color\=#46CB4F>\$(.+)</color> for it Deal\?\?$"=我需要 $1x $2$3,\n我出 <color\=#46CB4F>$ $4</color> 好嗎??
+sr:"^I'm after (.+)x (.+)\. I can pay <color\=#46CB4F>\$(.+)</color> for it Deal\?\?$"=我需要 $1x $2,\n我出 <color\=#46CB4F>$ $3</color> 好嗎??
+sr:"^Need me (.+)x (.+) (.+)\! I'll pay <color\=#46CB4F>\$(.+)</color> yeah\?\?$"=我需要 $1x $2$3! 我會付 <color\=#46CB4F>$ $4</color> 可以??
+sr:"^Need me (.+)x (.+)\! I'll pay <color\=#46CB4F>\$(.+)</color> yeah\?\?$"=我需要 $1x $2! 我會付 <color\=#46CB4F>$ $3</color> 可以??
+sr:"^U got (.+)x (.+) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(.+)</color> for it\. DEAL\?$"=尼有 $1x $2$3 ???\n我會付 <color\=#46CB4F>$ $4</color>. 成交?
+sr:"^U got (.+)x (.+)\?\?\? I'll pay <color\=#46CB4F>\$(.+)</color> for it\. DEAL\?$"=尼有 $1x $2 ???\n我會付 <color\=#46CB4F>$ $3</color>. 成交?
+sr:"^Whats up bro, I'm after (.+)x (.+) (.+)\. I can pay <color\=#46CB4F>\$(.+)</color> for it\.$"=怎樣啦兄弟,\n我需要 $1x $2$3,\n我可以出 <color\=#46CB4F>$ $4</color> 元.
+sr:"^Whats up bro, I'm after (.+)x (.+)\. I can pay <color\=#46CB4F>\$(.+)</color> for it\.$"=怎樣啦兄弟,\n我需要 $1x $2,\n我可以出 <color\=#46CB4F>$ $3</color> 元.
+sr:"^Yo homie, can I get (.+)x (.+) (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color>$"=喲兄弟,我能拿$1x $2$3嗎?我會付<color\=#46CB4F>$ $4</color>元
+sr:"^Yo homie, can I get (.+)x (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color>$"=喲兄弟,我能拿$1x $2嗎?我會付<color\=#46CB4F>$ $3</color>元
+sr:"^You got (.+)x (.+) (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color> for it$"=您有 $1x $2$3 嗎?\n我能付 <color\=#46CB4F>$ $4</color> 元
+sr:"^You got (.+)x (.+)\? I'll pay <color\=#46CB4F>\$(.+)</color> for it$"=您有 $1x $2 嗎?\n我能付 <color\=#46CB4F>$ $3</color> 元
+sr:"Good!! I'll see u <b>(.+)<\/b> between (\d{1,2}:\d{2} [AP]M) and (\d{1,2}:\d{2} [AP]M)."=好啊!! 見尼~\n$2 ~ $3\n在 <b>$1</b>
+sr:"Hey I heard about u from Nelson\. He said u could hook me up with (.+)x (.+) (.+)\. Ill pay <color=\#46CB4F>\$(.+)</color>\. We got a deal\?"=聽 尼爾森 說你能幫我搞到 $1x $2$3. 我出 <color\=#46CB4F>$$$4</color>. 成交？
+sr:"Hey I heard about u from Nelson\. He said u could hook me up with (.+)x (.+)\. Ill pay <color=\#46CB4F>\$(.+)</color>\. We got a deal\?"=聽 尼爾森 說你能幫我搞到 $1x $2. 我出 <color\=#46CB4F>$$$3</color>. 成交？
+sr:"The drop is ready. You can find it (.+)$"=投遞已準備好. 你可以在 $1 找到它.
+Supplier Meeting\n({{A}})=供應商會面\n({{A}})
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} AM.=麻吉如哥們, 我們碰面在\n上午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{B}} AM and {{C}} PM.=麻吉如哥們, 我們碰面在\n上午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} AM.=麻吉如哥們, 我們碰面在\n下午 {{B}} ~ 上午 {{C}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{B}} PM and {{C}} PM.=麻吉如哥們, 我們碰面在\n下午 {{B}} ~ 下午 {{C}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} AM.=麻吉如哥們, 我們碰面在\n上午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{C}} AM and {{B}} PM.=麻吉如哥們, 我們碰面在\n上午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} AM.=麻吉如哥們, 我們碰面在\n下午 {{C}} ~ 上午 {{B}}\n<b>{{A}}</b>
+Sweet as homie, I'll meet you <b>{{A}}</b> between {{C}} PM and {{B}} PM.=麻吉如哥們, 我們碰面在\n下午 {{C}} ~ 下午 {{B}}\n<b>{{A}}</b>
+Talk to {{A}}=與 {{A}} 交談
+The damn Benzies just sent some guys after me - I backed them off but they managed to swipe some stuff. Sorry boss.=該死的 班基斯家族 剛剛派了一些人追我 - 我擊退他們了，但他們還是拿走了一些東西.\n對不起 老闆.
+This is what they got:=這是他們拿走的：
+This is what they got:\n${{A}} cash=這是他們拿走的：\n$ {{A}} 現金
+This is what they got:\n{{B}}x {{A}}\n${{C}} cash=這是他們拿走的：\n{{B}}x {{A}}\n$ {{C}} 現金
+This is what they got:\n{{E}}x {{A}} {{C}} ({{B}})\n{{F}}x {{A}} {{D}} ({{B}})\n${{G}} cash=這是他們拿走的：\n{{E}}x {{C}}({{B}}){{A}}\n{{F}}x {{D}}({{B}}){{A}}\n$ {{G}} 現金
+This is what they got:\n{{E}}x {{A}} {{C}} ({{B}})\n{{F}}x {{D}}\n${{G}} cash=這是他們拿走的：\n{{E}}x {{C}}({{B}}){{A}}\n{{F}}x {{D}}\n$ {{G}} 現金
+This is what they got:\n{{G}}x {{A}} {{D}} {{C}} ({{B}})\n{{H}}x {{E}}\n{{I}}x {{F}}\n${{J}} cash=這是他們拿走的：\n{{G}}x {{A}} {{D}} {{C}}({{B}})\n{{H}}x {{E}}\n{{I}}x {{F}}\n${{J}} 現金
+Those bitchass Benzies just tried to rob me - I fought them off but lost some stuff, sorry boss.=那些賤屁股 班基斯家族 試圖搶劫我 - 我擊退了他們, 但丟失了一些東西, 對不起老闆.
+Tobas\nWentworth=托巴斯\n溫特沃斯
+Tobias\nWentworth=托比亞斯\n溫特沃斯
+Trent\nSherman=特倫特\n謝爾曼
+Tylah\nCannell=泰拉\n卡內爾
+UNLOCK ONE OF {{A}} CONNECTIONS=需解鎖 {{A}} 的其中一位人脈
+UNLOCK ONE OF {{A}} CONNECTIONS FIRST=必須先解鎖 {{A}} 的其中一位人脈
+UNLOCK ONE OF {{A}}'S CONNECTIONS=需解鎖 {{A}} 的其中一位人脈
+View {{A}}'s stash=查看 {{A}} 的藏匿處
+Walter\nCussler=沃爾特\n庫斯勒
+We need {{B}}x {{A}}. You've got {{C}} days to get it to us. Payment is ${{D}}.=我們需要 {{B}}x {{A}}.\n您有 {{C}} 天時間交付.\n報酬 $ {{D}}.
+We're not working together any more - our agreement is off.=我們不再合作了 - 我們的協議結束.
+Will\nJackson=威爾\n傑克森
+Working on it. Should be ready in around {{A}} hour=在準備了.\n大約 {{A}}小時內 準備好
+Working on it. Should be ready in around {{A}} hour {{B}} min=在準備了.\n大約 {{A}} 小時 {{B}}分鐘內 準備好
+Working on it. Should be ready in around {{A}} hours=在準備了.\n大約 {{A}}小時內 準備好
+Working on it. Should be ready in around {{A}} min=在準備了.\n大約 {{A}}分鐘內 準備好
+Working on it. Should be ready in around {{A}} mins=在準備了.\n大約 {{A}}分鐘內 準備好
+You can now hire <color\=#88CBFF>{{A}}</color> as a dealer.=您現在可以僱用 <color\=#88CBFF>{{A}}</color> 作為經銷商。
+You can now order <color\=#88CBFF>pseudo</color> from Shirley. Pseudo is the main precursor ingredient for <color\=#88CBFF>methamphetamine</color>.=你現在可以從 雪莉 那裡訂購<color\=#88CBFF>偽麻黃鹼</color>了. 偽麻黃鹼是<color\=#88CBFF>冰毒</color>的主要前驅成分。
+You have failed to deliver on time. We're halving your payment. You've got {{A}} hours to get the product to us, otherwise our agreement is over.=你沒有按時交貨.\n我們將把你的酬勞減半.\n你有{{A}}小時的時間\n將產品送來給我們,\n否則我們的協議就結束了.
+{{A}} (Weed Supplier)={{A}}（大麻供應商）
+{{A}} ({{B}})={{A}} ({{B}})
+{{A}} a packaging station to the handler=將 包裝站 {{A}}給 處理工
+{{A}} is out dealing={{A}}  正外出交易中
+{{A}} locker={{A}}儲物櫃/床位 (左鍵點選目標)
+{{A}} Packaging Stations ({{B}})={{A}}包裝站（{{B}}） (左鍵點選目標)
+{{A}} Pots/Drying Racks ({{A}})={{A}}花盆/乾燥架（{{A}}）(左鍵點選目標)
+{{A}} Stations ({{B}})={{A}}的機台（{{B}}）
+{{A}} Trash Cans ({{B}})={{A}}的垃圾桶（{{B}}）
+{{A}} {{B}} ({{C}})={{A}}{{B}}（{{C}}）
+{{A}} {{B}}'s Inventory={{A}}·{{B}} 的道具欄
+{{A}}'s Briefcase={{A}} 的公事包
+{{A}}'s Inventory={{A}} 的道具欄
+{{A}}'s Locker={{A}} 的儲物櫃
+{{A}}'s Stash={{A}} 的藏匿處
+{{A}}, I'll meet you <b>{{B}}</b> between {{C}} AM and {{D}} AM.={{A}}, 我們碰面在\n上午 {{C}} ~ 上午 {{D}}\n<b>{{B}}</b>
+{{A}}, I'll meet you <b>{{B}}</b> between {{C}} AM and {{D}} PM.={{A}}, 我們碰面在\n上午 {{C}} ~ 下午 {{D}}\n<b>{{B}}</b>
+{{A}}, I'll meet you <b>{{B}}</b> between {{C}} PM and {{D}} AM.={{A}}, 我們碰面在\n下午 {{C}} ~ 上午 {{D}}\n<b>{{B}}</b>
+{{A}}, I'll meet you <b>{{B}}</b> between {{C}} PM and {{D}} PM.={{A}}, 我們碰面在\n下午 {{C}} ~ 下午 {{D}}\n<b>{{B}}</b>
+{{A}}\n(Dealer)={{A}}（經銷商）
+{{A}}\n{{B}}={{A}}\n{{B}}
+{{A}}igned {{B}} ({{C}})={{A}}igned {{B}}（{{C}}）
+{{A}}x Botanist={{A}}x 植物學家
+{{A}}x Chemist={{A}}x 化學家
+{{A}}x Chemistry Station={{A}}x 化學站
+{{A}}x Cleaner={{A}}x 清潔工
+{{A}}x Drying Rack={{A}}x 乾燥架
+{{A}}x Handler={{A}}x 處理工
+{{A}}x Pot={{A}}x 盆
+{{A}}x {{B}}={{A}}x {{B}}
+{{B}} Trash Cans ({{A}})={{B}}的垃圾桶（{{A}}）
+{{B}} {{A}}'s Inventory={{B}}·{{A}} 的道具欄
+{{B}}\n{{A}}={{B}}\n{{A}}
+{{C}}x {{B}} {{A}}={{C}}x {{B}}{{A}}
+• Talk to {{A}}=與 {{A}} 交談
