@@ -398,3 +398,4 @@ Imperial=英制
 Metric=公制
 On=開
 Weather=天氣
+Camera Sensitivity=攝影機靈敏度
