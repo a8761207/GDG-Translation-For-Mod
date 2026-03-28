@@ -396,3 +396,4 @@ Export Player-prev.log=匯出 玩家-prev.log
 Export Player.log=匯出 玩家.log
 Imperial=英制
 Metric=公制
+On=開
