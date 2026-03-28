@@ -394,3 +394,4 @@ Quest Description=任務描述
 It is 4AM - go to sleep to progress to tomorrow=上午4點了 - 睡覺進到明天
 Export Player-prev.log=匯出 玩家-prev.log
 Export Player.log=匯出 玩家.log
+Imperial=英制
